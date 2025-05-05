@@ -50,11 +50,8 @@ jobs:
           zip "history/freetv/${zip_filename}" assets/freetv/freetv_output.txt
           git add "history/freetv/${zip_filename}"
           git commit -m "(freetv) Archive file as ZIP with timestamp"
+          git push -f
           
-          
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+   
     
         
