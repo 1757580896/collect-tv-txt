@@ -42,10 +42,6 @@ jobs:
           zip -r "assets/snapshot/${zip_filename}" "assets/snapshot/${current_date}"
           git add "assets/snapshot/${zip_filename}"
           git commit -m "(UrlSnapshot) archive snapshot file"          
-          
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-    
+          git push -f
+   
         
