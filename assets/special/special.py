@@ -22,7 +22,7 @@ excudelist_lines = read_txt_to_array('assets/special/ExcludeList.txt')
 
 def convert_m3u_to_txt(m3u_content):
     """
-    将M3U格式转换为"频道名称,URL"格式
+    将多行M3U格式转换为"频道名称,URL"格式
     """
     txt_lines = []
     current_channel = ""
@@ -36,7 +36,9 @@ def convert_m3u_to_txt(m3u_content):
                 current_channel = parts[-1].strip()
         elif line.startswith(("http://", "https://", "rtmp://", "p3p://", "p2p://")):
             if current_channel:
-                txt_lines.append(f"{current_channel},{line}")
+                # 检查是否是有效的URL
+                if any(proto in line for proto in ["http://", "https://", "rtmp://"]):
+                    txt_lines.append(f"{current_channel},{line}")
                 current_channel = ""  # 重置当前频道
     
     return "\n".join(txt_lines)
@@ -51,19 +53,21 @@ def process_url(url):
         with urllib.request.urlopen(req) as response:
             data = response.read()
             text = data.decode('utf-8')
-            lines = text.split('\n')
+            lines = text.splitlines()  # 使用splitlines()更好处理不同换行符
 
-            # 如果是M3U格式则进行转换
-            if lines and lines[0].strip().startswith("#EXTM3U"): 
+            # 检查是否是M3U格式
+            if lines and lines[0].strip().startswith("#EXTM3U"):
+                print("检测到M3U格式，开始转换...")
                 converted = convert_m3u_to_txt(lines)
-                lines = converted.split('\n')  # 使用转换后的内容
+                lines = converted.split('\n') if converted else []
+                print(f"转换后行数: {len(lines)}")
 
-            print(f"处理行数: {len(lines)}")
+            # 处理每一行
             for line in lines:
                 line = line.strip()
                 if (line and "#genre#" not in line 
                     and "," in line 
-                    and "://" in line 
+                    and any(proto in line for proto in ["http://", "https://"])
                     and line not in excudelist_lines):
                     all_lines.append(line)
 
@@ -82,7 +86,7 @@ urls = [
 # 处理每个URL
 for url in urls:
     if url.startswith("http"):        
-        print(f"正在处理URL: {url}")
+        print(f"\n正在处理URL: {url}")
         process_url(url)
 
 # 将结果写入文件
@@ -90,9 +94,11 @@ output_file = "assets/special/special.txt"
 
 try:
     with open(output_file, 'w', encoding='utf-8') as f:
-        for line in all_lines:
-            f.write(line + '\n')
-    print(f"结果已保存到文件: {output_file}")
+        f.write("\n".join(all_lines))
+    print(f"\n成功保存 {len(all_lines)} 条结果到文件: {output_file}")
+    print("示例结果:")
+    for line in all_lines[:5]:  # 打印前5行作为示例
+        print(line)
 
 except Exception as e:
     print(f"保存文件时发生错误：{e}")
