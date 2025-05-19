@@ -77,6 +77,7 @@ def process_url(url):
 # 定义
 urls = [
     "https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv",
+    "https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv/1",
     # 欧  哥哥
    # https://xn--6ni-mf3g9f.nxog.top/zm/api/jm/api.php?ou=https://tv.nxog.top/m/tv/1
     "https://py.nxog.top/zm/api/jm/api.php?ou=https://xn--dkw0c.v.nxog.top/m/tv/1",
