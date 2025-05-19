@@ -77,10 +77,12 @@ def process_url(url):
 # 定义
 urls = [
     "https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv",
-    "https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv/1",
+    # 解不了1的
+    # "https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv/1", 
     # 欧  哥哥
    # https://xn--6ni-mf3g9f.nxog.top/zm/api/jm/api.php?ou=https://tv.nxog.top/m/tv/1
-    "https://py.nxog.top/zm/api/jm/api.php?ou=https://xn--dkw0c.v.nxog.top/m/tv/1",
+    #套一遍娃否则格式不行
+    "https://ua.fongmi.eu.org/box.php?url=https://py.nxog.top/zm/api/jm/api.php?ou=https://xn--dkw0c.v.nxog.top/m/tv/1",
     "https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/live.php",
     "https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live",
     "https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather",
