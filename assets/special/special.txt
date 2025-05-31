@@ -926,6 +926,7 @@
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="浙江教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B5%99%E6%B1%9F%E6%95%99%E8%82%B2.png",浙江教育
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="浙江教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B5%99%E6%B1%9F%E6%95%99%E8%82%B2.png",浙江教育
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="浙江教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B5%99%E6%B1%9F%E6%95%99%E8%82%B2.png",浙江教育
+#EXTINF:-1 group-title="☘️浙江频道" tvg-name="浙江教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B5%99%E6%B1%9F%E6%95%99%E8%82%B2.png",浙江教育
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="浙江民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F.png",浙江民生
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="浙江民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F.png",浙江民生
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="浙江民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B5%99%E6%B1%9F%E6%B0%91%E7%94%9F.png",浙江民生
@@ -1040,6 +1041,7 @@
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="浙江遂昌" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B5%99%E6%B1%9F%E9%81%82%E6%98%8C.png",浙江遂昌
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="诸暨新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%AF%B8%E6%9A%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",诸暨新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="诸暨新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%AF%B8%E6%9A%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",诸暨新闻综合
+#EXTINF:-1 group-title="☘️浙江频道" tvg-name="诸暨新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%AF%B8%E6%9A%A8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",诸暨新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="龙游生活娱乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%BE%99%E6%B8%B8%E7%94%9F%E6%B4%BB%E5%A8%B1%E4%B9%90.png",龙游生活娱乐
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="龙游生活娱乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%BE%99%E6%B8%B8%E7%94%9F%E6%B4%BB%E5%A8%B1%E4%B9%90.png",龙游生活娱乐
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="龙游新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%BE%99%E6%B8%B8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",龙游新闻综合
@@ -1067,6 +1069,7 @@
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="萧山新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%90%A7%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",萧山新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="萧山新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%90%A7%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",萧山新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="萧山新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%90%A7%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",萧山新闻综合
+#EXTINF:-1 group-title="☘️浙江频道" tvg-name="苍南新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%8B%8D%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",苍南新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="苍南新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%8B%8D%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",苍南新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="苍南新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%8B%8D%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",苍南新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="苍南新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E8%8B%8D%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",苍南新闻综合
@@ -1123,13 +1126,14 @@
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="开化新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%8C%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",开化新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="开化新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%8C%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",开化新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="开化国家公园" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%8C%96%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD.png",开化国家公园
-#EXTINF:-1 group-title="☘️浙江频道" tvg-name="开化国家公园" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%8C%96%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD.png",开化国家公园
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="庆元综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BA%86%E5%85%83%E7%BB%BC%E5%90%88.png",庆元综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="庆元综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BA%86%E5%85%83%E7%BB%BC%E5%90%88.png",庆元综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="庆元综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BA%86%E5%85%83%E7%BB%BC%E5%90%88.png",庆元综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="庆元综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BA%86%E5%85%83%E7%BB%BC%E5%90%88.png",庆元综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="庆元新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BA%86%E5%85%83%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",庆元新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="平湖民生休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%B9%B3%E6%B9%96%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2.png",平湖民生休闲
+#EXTINF:-1 group-title="☘️浙江频道" tvg-name="平湖民生休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%B9%B3%E6%B9%96%E6%B0%91%E7%94%9F%E4%BC%91%E9%97%B2.png",平湖民生休闲
+#EXTINF:-1 group-title="☘️浙江频道" tvg-name="平湖新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%B9%B3%E6%B9%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",平湖新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="平湖新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%B9%B3%E6%B9%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",平湖新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="平湖新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%B9%B3%E6%B9%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",平湖新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="平湖新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%B9%B3%E6%B9%96%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",平湖新闻综合
@@ -1165,6 +1169,7 @@
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="中国蓝新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%AD%E5%9B%BD%E8%93%9D%E6%96%B0%E9%97%BB.png",中国蓝新闻
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="东阳影视生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%9C%E9%98%B3%E5%BD%B1%E8%A7%86%E7%94%9F%E6%B4%BB.png",东阳影视生活
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",上虞新闻综合
+#EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",上虞新闻综合
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞新商都" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%B0%E5%95%86%E9%83%BD.png",上虞新商都
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞新商都" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%B0%E5%95%86%E9%83%BD.png",上虞新商都
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞新商都" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%B0%E5%95%86%E9%83%BD.png",上虞新商都
@@ -1172,7 +1177,6 @@
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞新商都" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%B0%E5%95%86%E9%83%BD.png",上虞新商都
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞新商都" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%B0%E5%95%86%E9%83%BD.png",上虞新商都
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞新商都" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%B0%E5%95%86%E9%83%BD.png",上虞新商都
-#EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞文化影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%87%E5%8C%96%E5%BD%B1%E9%99%A2.png",上虞文化影院
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞文化影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%87%E5%8C%96%E5%BD%B1%E9%99%A2.png",上虞文化影院
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞文化影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%87%E5%8C%96%E5%BD%B1%E9%99%A2.png",上虞文化影院
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞文化影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%87%E5%8C%96%E5%BD%B1%E9%99%A2.png",上虞文化影院
@@ -1180,6 +1184,9 @@
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞文化影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%87%E5%8C%96%E5%BD%B1%E9%99%A2.png",上虞文化影院
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞文化影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%87%E5%8C%96%E5%BD%B1%E9%99%A2.png",上虞文化影院
 #EXTINF:-1 group-title="☘️浙江频道" tvg-name="上虞文化影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%8A%E8%99%9E%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86.png",上虞文化影视
+#EXTINF:-1 group-title="☘️北京频道" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",北京卡酷少儿
+#EXTINF:-1 group-title="☘️北京频道" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",北京卡酷少儿
+#EXTINF:-1 group-title="☘️北京频道" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",北京卡酷少儿
 #EXTINF:-1 group-title="☘️北京频道" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",北京卡酷少儿
 #EXTINF:-1 group-title="☘️北京频道" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",北京卡酷少儿
 #EXTINF:-1 group-title="☘️北京频道" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",北京卡酷少儿
@@ -1440,7 +1447,6 @@
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",无锡新闻综合
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",无锡新闻综合
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",无锡新闻综合
-#EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",无锡新闻综合
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E7%94%9F%E6%B4%BB.png",无锡生活
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E7%94%9F%E6%B4%BB.png",无锡生活
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E7%94%9F%E6%B4%BB.png",无锡生活
@@ -1449,7 +1455,6 @@
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E7%BB%8F%E6%B5%8E.png",无锡经济
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E7%BB%8F%E6%B5%8E.png",无锡经济
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E7%BB%8F%E6%B5%8E.png",无锡经济
-#EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡都市资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E9%83%BD%E5%B8%82%E8%B5%84%E8%AE%AF.png",无锡都市资讯
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡都市资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E9%83%BD%E5%B8%82%E8%B5%84%E8%AE%AF.png",无锡都市资讯
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡都市资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E9%83%BD%E5%B8%82%E8%B5%84%E8%AE%AF.png",无锡都市资讯
 #EXTINF:-1 group-title="☘️江苏频道" tvg-name="无锡都市资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%97%A0%E9%94%A1%E9%83%BD%E5%B8%82%E8%B5%84%E8%AE%AF.png",无锡都市资讯
@@ -1567,7 +1572,6 @@
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png",湖南电影
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png",湖南电影
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png",湖南电影
-#EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南爱晚" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南爱晚" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南爱晚" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南爱晚" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png",湖南爱晚
@@ -1867,8 +1871,6 @@
 #EXTINF:-1 group-title="☘️福建频道" tvg-name="福建综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88.png",福建综合
 #EXTINF:-1 group-title="☘️福建频道" tvg-name="福建综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88.png",福建综合
 #EXTINF:-1 group-title="☘️福建频道" tvg-name="福建综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88.png",福建综合
-#EXTINF:-1 group-title="☘️福建频道" tvg-name="福建旅游" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%A6%8F%E5%BB%BA%E6%97%85%E6%B8%B8.png",福建旅游
-#EXTINF:-1 group-title="☘️福建频道" tvg-name="福建体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%A6%8F%E5%BB%BA%E4%BD%93%E8%82%B2.png",福建体育
 #EXTINF:-1 group-title="☘️福建频道" tvg-name="福建少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png",福建少儿
 #EXTINF:-1 group-title="☘️福建频道" tvg-name="福建少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png",福建少儿
 #EXTINF:-1 group-title="☘️福建频道" tvg-name="福建少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png",福建少儿
@@ -1959,7 +1961,6 @@
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="开封新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%B0%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",开封新闻综合
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="开封新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%B0%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",开封新闻综合
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="开封新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%B0%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",开封新闻综合
-#EXTINF:-1 group-title="☘️河南频道" tvg-name="开封新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%B0%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",开封新闻综合
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="开封文化旅游" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%B0%81%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png",开封文化旅游
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="开封文化旅游" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%B0%81%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png",开封文化旅游
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="开封文化旅游" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%BC%80%E5%B0%81%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png",开封文化旅游
@@ -1967,7 +1968,6 @@
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="嵩县综合新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%B5%A9%E5%8E%BF%E7%BB%BC%E5%90%88%E6%96%B0%E9%97%BB.png",嵩县综合新闻
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="嵩县综合新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%B5%A9%E5%8E%BF%E7%BB%BC%E5%90%88%E6%96%B0%E9%97%BB.png",嵩县综合新闻
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="宜阳综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%AE%9C%E9%98%B3%E7%BB%BC%E5%90%88.png",宜阳综合
-#EXTINF:-1 group-title="☘️河南频道" tvg-name="周口新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%91%A8%E5%8F%A3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",周口新闻综合
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="周口新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%91%A8%E5%8F%A3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",周口新闻综合
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="周口新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%91%A8%E5%8F%A3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",周口新闻综合
 #EXTINF:-1 group-title="☘️河南频道" tvg-name="内黄综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%86%85%E9%BB%84%E7%BB%BC%E5%90%88.png",内黄综合
@@ -2053,7 +2053,6 @@
 #EXTINF:-1 group-title="☘️河北频道" tvg-name="昌黎" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%98%8C%E9%BB%8E.png",昌黎
 #EXTINF:-1 group-title="☘️河北频道" tvg-name="清河新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B8%85%E6%B2%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png",清河新闻综合
 #EXTINF:-1 group-title="☘️河北频道" tvg-name="清河经济综艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%B8%85%E6%B2%B3%E7%BB%8F%E6%B5%8E%E7%BB%BC%E8%89%BA.png",清河经济综艺
-#EXTINF:-1 group-title="☘️贵州频道" tvg-name="七星关电视台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%83%E6%98%9F%E5%85%B3%E7%94%B5%E8%A7%86%E5%8F%B0.png",七星关电视台
 #EXTINF:-1 group-title="☘️贵州频道" tvg-name="安顺新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%AE%89%E9%A1%BA%E6%96%B0%E9%97%BB.png",安顺新闻
 #EXTINF:-1 group-title="☘️贵州频道" tvg-name="安顺新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%AE%89%E9%A1%BA%E6%96%B0%E9%97%BB.png",安顺新闻
 #EXTINF:-1 group-title="☘️甘肃频道" tvg-name="甘肃经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%94%98%E8%82%83%E7%BB%8F%E6%B5%8E.png",甘肃经济
@@ -2500,6 +2499,7 @@
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天映画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png",靖天映画
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天映画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png",靖天映画
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天映画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png",靖天映画
+#EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天映画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png",靖天映画
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7.png",靖天戏剧
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7.png",靖天戏剧
 #EXTINF:-1 group-title="🎬电影频道" tvg-name="靖天戏剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7.png",靖天戏剧
@@ -2693,7 +2693,6 @@
 #EXTINF:-1 group-title="🏀体育频道" tvg-name="睛彩篮球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png",睛彩篮球
 #EXTINF:-1 group-title="🏀体育频道" tvg-name="睛彩篮球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png",睛彩篮球
 #EXTINF:-1 group-title="🏀体育频道" tvg-name="睛彩羽毛球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%9D%9B%E5%BD%A9%E7%BE%BD%E6%AF%9B%E7%90%83.png",睛彩羽毛球
-#EXTINF:-1 group-title="🏀体育频道" tvg-name="睛彩羽毛球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%9D%9B%E5%BD%A9%E7%BE%BD%E6%AF%9B%E7%90%83.png",睛彩羽毛球
 #EXTINF:-1 group-title="🏀体育频道" tvg-name="睛彩广场舞" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png",睛彩广场舞
 #EXTINF:-1 group-title="🏀体育频道" tvg-name="睛彩广场舞" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png",睛彩广场舞
 #EXTINF:-1 group-title="🏀体育频道" tvg-name="睛彩广场舞" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png",睛彩广场舞
@@ -2847,7 +2846,7 @@
 #EXTINF:-1 group-title="🎵音乐频道" tvg-name="音乐之声" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0.png",音乐之声
 #EXTINF:-1 group-title="🎵音乐频道" tvg-name="音乐之声" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0.png",音乐之声
 #EXTINF:-1 group-title="🎵音乐频道" tvg-name="音乐之声" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0.png",音乐之声
-#EXTINF:-1 group-title="🕘️更新时间" tvg-name="2025-05-30 18:17:35" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/2025-05-30+18%3A17%3A35.png",2025-05-30 18:17:35
+#EXTINF:-1 group-title="🕘️更新时间" tvg-name="2025-05-31 18:21:09" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/2025-05-31+18%3A21%3A09.png",2025-05-31 18:21:09
 凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
 CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?
 CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000501/index.m3u8?
@@ -6756,27 +6755,29 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「中甲」18:50 联赛 辽宁铁人 vs 石家庄功夫 解说,https://tv.iill.top/FB/ZQWAON
-「中甲」19:20 联赛 佛山南狮 vs 重庆铜梁龙 解说,https://tv.iill.top/FB/ti4Lfk
-「中甲」19:20 联赛 南京城市 vs 广东广州豹 解说,https://tv.iill.top/FB/hmy1Bd
-「中甲」19:20 联赛 广西平果 vs 青岛红狮 解说,https://tv.iill.top/FB/tmesSd
-「LPL」13:30 TES vs FPX TES vs FPX 官方解说,https://tv.iill.top/Migu/Dl4AMl
-「中乙」14:50 中乙联赛 山西崇德荣海vs江西庐山 解说,https://tv.iill.top/Migu/VD6Uqo
-「中乙」14:50 中乙联赛 泰安天贶vs上海海港富盛经开 解说,https://tv.iill.top/Migu/YnlzLi
-「中乙」15:20 中乙联赛 海门珂缔缘vs山东泰山B队 解说,https://tv.iill.top/Migu/QujG2W
-「中乙」15:50 中乙联赛 赣州瑞狮vs泉州亚新 解说,https://tv.iill.top/Migu/udys6V
-「中乙」15:50 中乙联赛 广州蒲公英德桦绿建vs成都蓉城B队 解说,https://tv.iill.top/Migu/c7TcVH
-「中乙」15:50 中乙联赛 昆明城星vs贵州筑城竞技 解说,https://tv.iill.top/Migu/cYE7U4
-「中乙」15:50 中乙联赛 杭州临平吴越vs兰州陇原竞技 解说,https://tv.iill.top/Migu/ayDm6u
-「LPL」17:00 BLG vs IG BLG vs IG 官方解说,https://tv.iill.top/Migu/LVD9YH
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 1号桌,https://tv.iill.top/Migu/Dr5lGK
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 2号桌,https://tv.iill.top/Migu/j9SP6h
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 3号桌,https://tv.iill.top/Migu/zjGLDE
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 4号桌,https://tv.iill.top/Migu/0tLOMM
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 5号桌,https://tv.iill.top/Migu/C74r0N
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 6号桌,https://tv.iill.top/Migu/Ohvy2z
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 7号桌,https://tv.iill.top/Migu/k3x1Bk
-「斯诺克」17:00 第四轮和第五轮 第四轮和第五轮 8号桌,https://tv.iill.top/Migu/VYXxvN
+「中甲」14:50 联赛 延边龙鼎 vs 苏州东吴 解说,https://tv.iill.top/FB/gKSXOu
+「中甲」15:20 联赛 陕西联合 vs 深圳青年人 解说,https://tv.iill.top/FB/b5YDNP
+「中甲」18:50 联赛 上海嘉定汇龙 vs 大连鲲城 解说,https://tv.iill.top/FB/cupOcP
+「中甲」19:20 联赛 南通支云 vs 定南赣联 解说,https://tv.iill.top/FB/nsZ5SG
+「NBA」07:30 季后赛 尼克斯VS步行者 孙博 李根 苏群,https://tv.iill.top/NBA/kRdpnk
+「NBA」07:55 季后赛 尼克斯VS步行者 英文原声,https://tv.iill.top/NBA/ZuZYOw
+「NBA」07:55 季后赛 尼克斯VS步行者 VIP前排视角,https://tv.iill.top/NBA/zxwAGQ
+「NBA」07:55 季后赛 尼克斯VS步行者 球场十倍镜,https://tv.iill.top/NBA/53nZxG
+「UFC格斗之夜」06:25 UFC格斗之夜：布兰奇菲尔德VS巴伯 UFC格斗之夜：布兰奇菲尔德VS巴伯 陈瑞阳 汪乐,https://tv.iill.top/Migu/oqoVxW
+「UFC格斗之夜」06:25 UFC格斗之夜：布兰奇菲尔德VS巴伯 UFC格斗之夜：布兰奇菲尔德VS巴伯 英文原声,https://tv.iill.top/Migu/tzk50V
+「世俱杯」10:20 世俱杯附加赛 洛杉矶vs美洲 涂远,https://tv.iill.top/Migu/FiKlIS
+「LPL」13:30 AL vs WE AL vs WE 官方解说,https://tv.iill.top/Migu/Ef3Kbx
+「中乙」15:50 中乙联赛 长春喜都vs湖北青年星 解说,https://tv.iill.top/Migu/JpRhu2
+「中乙」15:50 中乙联赛 无锡吴钩vs北京理工 解说,https://tv.iill.top/Migu/bIERzG
+「LPL」17:00 JDG vs WBG JDG vs WBG 官方解说,https://tv.iill.top/Migu/MnSiHm
+「斯诺克」17:00 职业资格获得轮 职业资格获得轮 1号桌,https://tv.iill.top/Migu/Tvo8JO
+「斯诺克」17:00 职业资格获得轮 职业资格获得轮 2号桌,https://tv.iill.top/Migu/LGTFEZ
+「斯诺克」17:00 职业资格获得轮 职业资格获得轮 3号桌,https://tv.iill.top/Migu/mcjkyB
+「斯诺克」17:00 职业资格获得轮 职业资格获得轮 4号桌,https://tv.iill.top/Migu/7wZlsI
+「国际马联场地障碍世界杯」18:30 第一比赛日 第一比赛日 清流播出,https://tv.iill.top/Migu/0YKd5V
+「中乙」19:20 中乙联赛 温州俱乐部中胤vs广西蓝航 解说,https://tv.iill.top/Migu/Ds6XDT
+「中乙」19:20 中乙联赛 武汉三镇B队vs广西恒宸 解说,https://tv.iill.top/Migu/8FqDU1
+「中乙」19:20 中乙联赛 深圳二零二八vs广东铭途 解说,https://tv.iill.top/Migu/fVYsDT
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
