@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250614 05:15:44,url
+20250614 07:16:18,url
 
 
 freetv_ws,#genre#
@@ -154,6 +154,7 @@ freetv_ws,#genre#
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-35.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-36.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-41.m3u8
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-44.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-61.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-62.ctv
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-65.m3u8
@@ -302,6 +303,7 @@ freetv_ws,#genre#
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-92.ctv
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-105.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-15.m3u8
+湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-18.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-19.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-26.m3u8
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-3.m3u8
