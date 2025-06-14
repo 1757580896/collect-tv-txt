@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250614 15:14:26,url
+20250615 05:14:06,url
 
 
 freetv_cctv,#genre#
@@ -13,35 +13,34 @@ CCTV10,https://stream1.freetv.fun/cctv-10-2.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-16.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-32.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-37.m3u8
-CCTV10,https://stream1.freetv.fun/cctv10-52.m3u8
+CCTV10,https://stream1.freetv.fun/cctv10-44.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-53.m3u8
-CCTV10,https://stream1.freetv.fun/cctv10-62.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-69.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-75.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-20.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-21.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-23.m3u8
+CCTV11,https://stream1.freetv.fun/cctv11-47.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-55.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-58.m3u8
-CCTV11,https://stream1.freetv.fun/cctv11-60.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-70.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-12.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-17.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-18.m3u8
-CCTV12,https://stream1.freetv.fun/cctv12-22.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-25.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-26.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-34.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-4.m3u8
+CCTV12,https://stream1.freetv.fun/cctv12-52.m3u8
+CCTV12,https://stream1.freetv.fun/cctv12-56.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-57.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-59.ctv
 CCTV12,https://stream1.freetv.fun/cctv12-61.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-67.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-70.m3u8
 CCTV13,https://stream1.freetv.fun/cctv13-22.m3u8
-CCTV13,https://stream1.freetv.fun/cctv13-23.m3u8
-CCTV13,https://stream1.freetv.fun/cctv13-44.m3u8
 CCTV13,https://stream1.freetv.fun/cctv13-56.m3u8
+CCTV13,https://stream1.freetv.fun/cctv13-64.ctv
 CCTV13,https://stream1.freetv.fun/cctv13-76.ctv
 CCTV13,https://stream1.freetv.fun/cctv13-81.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-11.m3u8
@@ -52,6 +51,8 @@ CCTV14,https://stream1.freetv.fun/cctv14-27.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-36.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-49.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-50.m3u8
+CCTV14,https://stream1.freetv.fun/cctv14-58.m3u8
+CCTV14,https://stream1.freetv.fun/cctv14-6.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-65.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-10.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-11.m3u8
@@ -59,8 +60,8 @@ CCTV15,https://stream1.freetv.fun/cctv15-20.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-40.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-46.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-55.m3u8
+CCTV15,https://stream1.freetv.fun/cctv15-74.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-8.m3u8
-CCTV15,https://stream1.freetv.fun/cctv15-82.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-85.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-9.m3u8
 CCTV16,https://stream1.freetv.fun/cctv16-24.m3u8
@@ -72,7 +73,6 @@ CCTV17,https://stream1.freetv.fun/cctv17-25.m3u8
 CCTV17,https://stream1.freetv.fun/cctv17-28.m3u8
 CCTV17,https://stream1.freetv.fun/cctv17-41.m3u8
 CCTV17,https://stream1.freetv.fun/cctv17-55.m3u8
-CCTV17,https://stream1.freetv.fun/cctv17-56.m3u8
 CCTV2,https://stream1.freetv.fun/cctv2-2.m3u8
 CCTV2,https://stream1.freetv.fun/cctv2-55.m3u8
 CCTV2,https://stream1.freetv.fun/cctv2-69.m3u8
@@ -85,7 +85,6 @@ CCTV3,https://stream1.freetv.fun/cctv3-42.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-44.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-45.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-46.m3u8
-CCTV3,https://stream1.freetv.fun/cctv3-48.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-50.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-53.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-58.m3u8
@@ -106,7 +105,9 @@ CCTV5+,https://stream1.freetv.fun/cctv5-plus-14.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-27.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-3.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-32.m3u8
+CCTV5+,https://stream1.freetv.fun/cctv5-plus-37.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-41.m3u8
+CCTV5+,https://stream1.freetv.fun/cctv5-plus-42.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-44.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-47.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-50.m3u8
@@ -126,8 +127,10 @@ CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-7.m3u8
 CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-8.m3u8
 CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-9.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-11.m3u8
+CCTV5,https://stream1.freetv.fun/cctv5-17.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-18.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-22.m3u8
+CCTV5,https://stream1.freetv.fun/cctv5-26.ctv
 CCTV5,https://stream1.freetv.fun/cctv5-32.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-48.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-5.m3u8
@@ -139,12 +142,13 @@ CCTV5,https://stream1.freetv.fun/cctv5-76.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-11.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-14.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-15.m3u8
-CCTV6,https://stream1.freetv.fun/cctv6-19.m3u8
+CCTV6,https://stream1.freetv.fun/cctv6-24.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-31.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-45.m3u8
+CCTV6,https://stream1.freetv.fun/cctv6-56.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-58.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-59.m3u8
-CCTV6,https://stream1.freetv.fun/cctv6-61.m3u8
+CCTV6,https://stream1.freetv.fun/cctv6-68.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-73.m3u8
 CCTV7,https://stream1.freetv.fun/cctv7-13.m3u8
 CCTV7,https://stream1.freetv.fun/cctv7-34.ctv
@@ -160,7 +164,6 @@ CCTV7,https://stream1.freetv.fun/cctv7-79.m3u8
 CCTV7,https://stream1.freetv.fun/cctv7-8.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-17.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-23.m3u8
-CCTV8,https://stream1.freetv.fun/cctv8-29.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-35.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-37.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-40.m3u8
@@ -168,7 +171,6 @@ CCTV8,https://stream1.freetv.fun/cctv8-43.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-44.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-45.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-46.m3u8
-CCTV8,https://stream1.freetv.fun/cctv8-49.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-5.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-56.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-69.m3u8
@@ -180,6 +182,5 @@ CCTV9,https://stream1.freetv.fun/cctv9-56.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-68.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-71.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-75.m3u8
-CCTV9,https://stream1.freetv.fun/cctv9-77.ctv
 CCTVNews,https://stream1.freetv.fun/cctv-news-1.m3u8
 CCTV风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-19.m3u8
