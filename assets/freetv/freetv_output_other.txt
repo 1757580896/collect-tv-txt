@@ -1,10 +1,11 @@
 更新时间,#genre#
-20250627 07:15:45,url
+20250627 15:16:50,url
 
 
 freetv_other,#genre#
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-19.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-25.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-28.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-9.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-17.ctv
@@ -208,7 +209,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-15.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-3.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-5.ctv
-广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-6.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-8.ctv
 广东综艺,https://stream1.freetv.fun/yan-dong-zong-yi-10.ctv
 广东综艺,https://stream1.freetv.fun/yan-dong-zong-yi-14.ctv
@@ -302,6 +302,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-9.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-1.m3u8
 明珠,https://stream1.freetv.fun/ming-zhu-11.ctv
+明珠,https://stream1.freetv.fun/ming-zhu-2.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-6.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-2.ctv
