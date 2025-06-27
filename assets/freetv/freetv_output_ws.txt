@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250628 05:13:48,url
+20250628 07:16:08,url
 
 
 freetv_ws,#genre#
@@ -44,7 +44,6 @@ freetv_ws,#genre#
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-35.m3u8
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-45.m3u8
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-13.m3u8
-内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-15.m3u8
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-26.ctv
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-29.ctv
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-31.m3u8
