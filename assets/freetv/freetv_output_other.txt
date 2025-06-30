@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250630 07:15:08,url
+20250630 15:18:02,url
 
 
 freetv_other,#genre#
@@ -44,6 +44,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-2.m3u8
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-6.m3u8
 上虞综合,https://stream1.freetv.fun/shang-yu-zong-he-1.m3u8
+东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-2.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-4.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
@@ -156,7 +157,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-2.m3u8
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8
 平舆新闻综合频道,https://stream1.freetv.fun/ping-yu-xin-wen-zong-he-1.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-1.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-21.ctv
@@ -252,7 +252,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-8.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-1.m3u8
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-10.m3u8
-广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-12.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-13.m3u8
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-18.ctv
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-19.m3u8
@@ -333,6 +332,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-11.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-12.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-3.m3u8
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-4.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-6.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-7.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-9.m3u8
