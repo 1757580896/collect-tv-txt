@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250701 07:15:29,url
+20250701 15:17:56,url
 
 
 freetv_cctv,#genre#
@@ -11,6 +11,7 @@ CCTV1,https://stream1.freetv.fun/cctv1-85.m3u8
 CCTV10,https://stream1.freetv.fun/cctv-10-2.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-16.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-28.m3u8
+CCTV10,https://stream1.freetv.fun/cctv10-29.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-44.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-51.ctv
 CCTV10,https://stream1.freetv.fun/cctv10-53.m3u8
@@ -47,7 +48,6 @@ CCTV14,https://stream1.freetv.fun/cctv14-11.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-19.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-24.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-3.m3u8
-CCTV14,https://stream1.freetv.fun/cctv14-36.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-43.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-49.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-50.m3u8
@@ -60,6 +60,7 @@ CCTV15,https://stream1.freetv.fun/cctv15-20.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-35.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-55.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-57.m3u8
+CCTV15,https://stream1.freetv.fun/cctv15-66.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-85.m3u8
 CCTV15,https://stream1.freetv.fun/cctv15-88.m3u8
 CCTV16,https://stream1.freetv.fun/cctv16-16.m3u8
@@ -85,16 +86,15 @@ CCTV3,https://stream1.freetv.fun/cctv3-24.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-26.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-42.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-44.m3u8
-CCTV3,https://stream1.freetv.fun/cctv3-45.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-49.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-51.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-58.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-62.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-13.m3u8
-CCTV4,https://stream1.freetv.fun/cctv4-15.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-34.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-37.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-49.m3u8
+CCTV4,https://stream1.freetv.fun/cctv4-60.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-69.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-7.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-70.m3u8
@@ -112,6 +112,7 @@ CCTV5+,https://stream1.freetv.fun/cctv5-plus-50.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-56.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-57.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-63.m3u8
+CCTV5+,https://stream1.freetv.fun/cctv5-plus-64.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-9.m3u8
 CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-10.m3u8
 CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-2.m3u8
@@ -133,7 +134,6 @@ CCTV5,https://stream1.freetv.fun/cctv5-5.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-57.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-71.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-95.m3u8
-CCTV6,https://stream1.freetv.fun/cctv6-11.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-15.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-16.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-31.m3u8
@@ -168,7 +168,9 @@ CCTV8,https://stream1.freetv.fun/cctv8-38.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-39.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-40.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-45.m3u8
+CCTV8,https://stream1.freetv.fun/cctv8-48.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-5.m3u8
+CCTV8,https://stream1.freetv.fun/cctv8-66.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-69.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-9.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-16.m3u8
@@ -180,8 +182,7 @@ CCTV9,https://stream1.freetv.fun/cctv9-58.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-68.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-7.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-71.m3u8
-CCTV9,https://stream1.freetv.fun/cctv9-74.m3u8
-CCTV9,https://stream1.freetv.fun/cctv9-78.m3u8
+CCTV9,https://stream1.freetv.fun/cctv9-79.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-9.m3u8
 CCTVNews,https://stream1.freetv.fun/cctv-news-1.m3u8
 CCTV风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-19.m3u8
