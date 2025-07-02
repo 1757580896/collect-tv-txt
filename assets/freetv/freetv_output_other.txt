@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250703 05:15:30,url
+20250703 07:16:21,url
 
 
 freetv_other,#genre#
@@ -52,7 +52,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
-乌海新闻综合,https://stream1.freetv.fun/wu-hai-xin-wen-zong-he-4.m3u8
 乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
 乐山新闻综合,https://stream1.freetv.fun/le-shan-xin-wen-zong-he-2.m3u8
 乐山新闻综合,rtmp://tv.lstv.org.cn/live/ch1
@@ -84,7 +83,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-1.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-17.ctv
-动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-20.ctv
 动物星球,https://stream1.freetv.fun/dong-wu-xing-qiu-3.m3u8
 包头新闻综合,https://stream1.freetv.fun/bao-tou-xin-wen-zong-he-1.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-1.m3u8
