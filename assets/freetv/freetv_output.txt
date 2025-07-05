@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250706 05:15:03,url
+20250706 07:15:11,url
 
 
 freetv,#genre#
@@ -10,7 +10,6 @@ CCTV10,https://stream1.freetv.fun/cctv10-28.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-29.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-35.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-44.m3u8$[BD]cctv10
-CCTV10,https://stream1.freetv.fun/cctv10-46.ctv$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-53.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-69.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-71.m3u8$[BD]cctv10
@@ -170,6 +169,8 @@ CCTV8,https://stream1.freetv.fun/cctv8-40.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-45.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-48.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-5.m3u8$[BD]cctv8
+CCTV8,https://stream1.freetv.fun/cctv8-53.m3u8$[BD]cctv8
+CCTV8,https://stream1.freetv.fun/cctv8-62.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-66.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-69.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-77.m3u8$[BD]cctv8
@@ -305,6 +306,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8$[HD]tvbs新闻
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-1.ctv$[BD]动漫秀场
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-15.ctv$[BD]动漫秀场
 动物星球,https://stream1.freetv.fun/dong-wu-xing-qiu-3.m3u8$[HD]动物星球
+北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-105.m3u8$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-14.ctv$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-24.m3u8$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-30.m3u8$[BD]北京卫视
@@ -733,7 +735,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8$[HD]tvbs新闻
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-49.m3u8$[BD]湖北卫视
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-53.m3u8$[BD]湖北卫视
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-57.m3u8$[BD]湖北卫视
-湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-59.m3u8$[BD]湖北卫视
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-62.m3u8$[BD]湖北卫视
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-65.m3u8$[BD]湖北卫视
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-66.ctv$[BD]湖北卫视
