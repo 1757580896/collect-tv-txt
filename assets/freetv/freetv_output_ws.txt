@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250707 05:14:33,url
+20250707 07:15:26,url
 
 
 freetv_ws,#genre#
@@ -233,7 +233,6 @@ freetv_ws,#genre#
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-101.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-14.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-20.m3u8
-深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-26.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-29.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-30.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-41.ctv

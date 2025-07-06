@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250707 05:14:33,url
+20250707 07:15:26,url
 
 
 freetv,#genre#
@@ -694,7 +694,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8$[HD]tvbs新闻
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-101.m3u8$[BD]深圳卫视
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-14.m3u8$[BD]深圳卫视
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-20.m3u8$[BD]深圳卫视
-深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-26.m3u8$[BD]深圳卫视
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-29.m3u8$[BD]深圳卫视
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-30.m3u8$[BD]深圳卫视
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-41.ctv$[BD]深圳卫视
