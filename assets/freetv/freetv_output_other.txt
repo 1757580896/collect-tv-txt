@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250710 05:15:43,url
+20250710 07:16:14,url
 
 
 freetv_other,#genre#
@@ -61,7 +61,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-6.m3u8
-中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
@@ -466,7 +465,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-44.m3u8
 镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa50
 长春综合,https://stream1.freetv.fun/chang-chun-zong-he-1.m3u8
-长春综合,https://stream1.freetv.fun/chang-chun-zong-he-3.m3u8
 阳新综合,https://stream1.freetv.fun/yang-xin-zong-he-9.m3u8
 靖江新闻綜合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-7.m3u8
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8
