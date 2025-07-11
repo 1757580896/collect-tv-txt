@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250712 05:16:31,url
+20250712 07:16:14,url
 
 
 freetv,#genre#
@@ -168,6 +168,7 @@ CCTV4,https://stream1.freetv.fun/cctv4-21.ctv$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-25.ctv$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-3.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-34.m3u8$[BD]cctv4
+CCTV4,https://stream1.freetv.fun/cctv4-43.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-48.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-49.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-50.m3u8$[BD]cctv4
@@ -190,7 +191,6 @@ CCTV5+,https://stream1.freetv.fun/cctv5-plus-14.ctv$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-25.ctv$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-27.ctv$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-32.m3u8$[BD]cctv5_plus
-CCTV5+,https://stream1.freetv.fun/cctv5-plus-36.m3u8$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-39.m3u8$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-47.m3u8$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-48.m3u8$[BD]cctv5_plus
@@ -270,7 +270,6 @@ CCTV8,https://stream1.freetv.fun/cctv8-22.ctv$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-27.ctv$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-29.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-30.ctv$[BD]cctv8
-CCTV8,https://stream1.freetv.fun/cctv8-38.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-40.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-44.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-45.m3u8$[BD]cctv8
@@ -398,7 +397,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.m3u8$[HD]东森新闻
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv$[BD]东森电影
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-10.m3u8$[BD]东森超视
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8$[BD]东森超视
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8$[BD]东森超视
 东森超视,rtmp://f13h.mine.nu/sat/tv331$[HD]东森超视
 东森超视,rtmp://f13h.mine.nu:1935/sat/tv331$[HD]东森超视
@@ -823,7 +821,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 民视,rtmp://f13h.mine.nu:1935/sat/tv051$[HD]民视
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8$[BD]民视新闻
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8$[BD]民视新闻
-民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-20.m3u8$[BD]民视新闻
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-1.m3u8$[BD]永嘉新闻综合
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8$[BD]永嘉新闻综合
 汕头经济生活,https://stream1.freetv.fun/shan-tou-jing-ji-sheng-huo-6.ctv$[BD]汕头经济生活
