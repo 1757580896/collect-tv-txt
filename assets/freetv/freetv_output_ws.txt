@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250713 05:14:43,url
+20250713 07:17:11,url
 
 
 freetv_ws,#genre#
@@ -152,6 +152,7 @@ freetv_ws,#genre#
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-56.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-63.m3u8
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-72.m3u8
+安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-77.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-79.m3u8
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-8.m3u8
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-81.m3u8
