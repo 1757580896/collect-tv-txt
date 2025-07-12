@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250712 07:16:14,url
+20250712 15:15:50,url
 
 
 freetv_other,#genre#
@@ -65,7 +65,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-4.ctv
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8
-中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
 乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
@@ -305,7 +304,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-5.m3u8
 民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-19.m3u8
 民視第一,https://stream1.freetv.fun/min-shi-di-yi-2.m3u8
-民视,https://stream1.freetv.fun/min-shi-11.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,rtmp://f13h.mine.nu:1935/sat/tv051
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
@@ -420,8 +418,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 贵州卫视高清,https://stream1.freetv.fun/gui-zhou-wei-shi-gao-qing-8.ctv
 辽宁公共,https://stream1.freetv.fun/liao-zhu-gong-gong-4.m3u8
 辽宁卫视高清,https://stream1.freetv.fun/liao-zhu-wei-shi-gao-qing-5.ctv
-辽宁影视剧,https://stream1.freetv.fun/liao-zhu-ying-shi-ju-4.m3u8
-辽宁经济,https://stream1.freetv.fun/liao-zhu-jing-ji-3.m3u8
 辽宁都市,https://stream1.freetv.fun/liao-zhu-du-shi-5.m3u8
 邢台综合,https://stream1.freetv.fun/xing-tai-zong-he-10.m3u8
 邢台综合,https://stream1.freetv.fun/xing-tai-zong-he-12.m3u8
@@ -440,7 +436,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-25.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-5.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-9.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-gao-qing-2.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-44.m3u8
 镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa50
