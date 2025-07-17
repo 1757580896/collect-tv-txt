@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250718 05:16:35,url
+20250718 07:17:35,url
 
 
 freetv,#genre#
@@ -105,7 +105,6 @@ CCTV2,https://stream1.freetv.fun/cctv2-4.m3u8$[BD]cctv2
 CCTV2,https://stream1.freetv.fun/cctv2-40.m3u8$[BD]cctv2
 CCTV2,https://stream1.freetv.fun/cctv2-65.ctv$[BD]cctv2
 CCTV2,https://stream1.freetv.fun/cctv2-76.m3u8$[BD]cctv2
-CCTV2,https://stream1.freetv.fun/cctv2cai-jing-9.m3u8$[BD]cctv2财经
 CCTV3,https://stream1.freetv.fun/cctv3-13.m3u8$[BD]cctv3
 CCTV3,https://stream1.freetv.fun/cctv3-17.ctv$[BD]cctv3
 CCTV3,https://stream1.freetv.fun/cctv3-24.m3u8$[BD]cctv3
@@ -380,7 +379,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-14.ctv$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-20.m3u8$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-24.m3u8$[BD]北京卫视
-北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-28.m3u8$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-30.m3u8$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-37.m3u8$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-45.m3u8$[BD]北京卫视
@@ -981,7 +979,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-85.m3u8$[BD]贵州卫视
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-92.m3u8$[BD]贵州卫视
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-94.m3u8$[BD]贵州卫视
-贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-98.m3u8$[BD]贵州卫视
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-19.m3u8$[BD]辽宁卫视
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-27.m3u8$[BD]辽宁卫视
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-35.m3u8$[BD]辽宁卫视
