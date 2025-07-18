@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250719 05:16:32,url
+20250719 07:16:38,url
 
 
 freetv,#genre#
@@ -408,7 +408,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8$[HD]凤凰香港
-刘德华,https://stream1.freetv.fun/liu-de-hua-7.m3u8$[HD]刘德华
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-21.ctv$[BD]动漫秀场
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-5.m3u8$[BD]动漫秀场
 动物星球,https://stream1.freetv.fun/dong-wu-xing-qiu-3.m3u8$[HD]动物星球
@@ -449,7 +448,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 南宁都市生活频道,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-2.m3u8$[HD]南宁都市生活频道
 博斯魅力,https://stream1.freetv.fun/bo-si-mei-li-1.ctv$[BD]博斯魅力
 博斯魅力,https://stream1.freetv.fun/bo-si-mei-li-3.ctv$[BD]博斯魅力
-博斯魅力,https://stream1.freetv.fun/bo-si-mei-li-5.ctv$[BD]博斯魅力
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-11.m3u8$[BD]台视新闻
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8$[BD]台視新聞
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8$[BD]台视新闻
@@ -732,6 +730,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-5.ctv$[BD]广西卫视
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-62.m3u8$[BD]广西卫视
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-64.m3u8$[BD]广西卫视
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-67.ctv$[BD]广西卫视
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-74.m3u8$[BD]广西卫视
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-75.m3u8$[BD]广西卫视
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-77.m3u8$[BD]广西卫视
@@ -774,6 +773,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-5.m3u8$[HD]武乡新闻综合
 民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-19.m3u8$[BD]民視新聞
 民视,https://stream1.freetv.fun/min-shi-6.ctv$[HD]民视
+民视,https://stream1.freetv.fun/min-shi-8.ctv$[HD]民视
 民视,rtmp://f13h.mine.nu/sat/tv051$[HD]民视
 民视,rtmp://f13h.mine.nu:1935/sat/tv051$[HD]民视
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8$[BD]民视新闻

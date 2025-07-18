@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250719 05:16:32,url
+20250719 07:16:38,url
 
 
 freetv_ws,#genre#
@@ -197,6 +197,7 @@ freetv_ws,#genre#
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-5.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-62.m3u8
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-64.m3u8
+广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-67.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-74.m3u8
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-75.m3u8
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-77.m3u8
