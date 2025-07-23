@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250724 05:17:12,url
+20250724 07:17:40,url
 
 
 freetv,#genre#
@@ -559,6 +559,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-15.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-16.ctv$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-33.ctv$[BD]山东卫视
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-52.m3u8$[HD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-62.ctv$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-66.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-68.m3u8$[BD]山东卫视
@@ -743,11 +744,12 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 民視,https://stream1.freetv.fun/min-shi-10.m3u8$[BD]民視
 民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-19.m3u8$[BD]民視新聞
 民視第一,https://stream1.freetv.fun/min-shi-di-yi-2.m3u8$[BD]民視第一
+民视,https://stream1.freetv.fun/min-shi-1.m3u8$[HD]民视
+民视,https://stream1.freetv.fun/min-shi-11.ctv$[HD]民视
 民视,https://stream1.freetv.fun/min-shi-6.ctv$[HD]民视
 民视,https://stream1.freetv.fun/min-shi-9.ctv$[HD]民视
 民视,rtmp://f13h.mine.nu/sat/tv051$[HD]民视
 民视,rtmp://f13h.mine.nu:1935/sat/tv051$[HD]民视
-民视台湾,https://stream1.freetv.fun/min-shi-tai-wan-7.ctv$[BD]民视台湾
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8$[BD]民视新闻
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8$[BD]民视新闻
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-1.m3u8$[BD]永嘉新闻综合
