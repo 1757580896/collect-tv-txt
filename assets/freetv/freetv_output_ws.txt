@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250725 05:17:07,url
+20250725 07:17:30,url
 
 
 freetv_ws,#genre#
@@ -248,9 +248,9 @@ freetv_ws,#genre#
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-88.m3u8
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-89.m3u8
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-90.m3u8
+河南卫视,https://stream1.freetv.fun/0b83429accbb5e7cabfb97b00c8748a5606237decccf6e738e3da423ff20fc4c.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-13.m3u8
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-14.ctv
-河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-21.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-39.m3u8
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-4.ctv
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-40.ctv
