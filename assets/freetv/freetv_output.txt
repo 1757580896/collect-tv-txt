@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250727 05:15:07,url
+20250727 07:16:21,url
 
 
 freetv,#genre#
@@ -141,7 +141,9 @@ CCTV4,https://stream1.freetv.fun/cctv4-77.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-78.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-80.ctv$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-82.m3u8$[BD]cctv4
+CCTV4欧洲,https://stream1.freetv.fun/cctv4ou-zhou-3.ctv$[BD]cctv4欧洲
 CCTV4欧洲,https://stream1.freetv.fun/cctv4ou-zhou-5.ctv$[BD]cctv4欧洲
+CCTV4美洲,https://stream1.freetv.fun/cctv4mei-zhou-6.ctv$[BD]cctv4美洲
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-2.m3u8$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-20.m3u8$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-25.m3u8$[BD]cctv5_plus
@@ -535,6 +537,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-27.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-33.ctv$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-41.m3u8$[BD]山东卫视
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-45.ctv$[HD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-52.m3u8$[HD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-62.ctv$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-66.m3u8$[BD]山东卫视
