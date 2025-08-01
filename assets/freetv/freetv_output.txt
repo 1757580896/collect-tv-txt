@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250802 05:16:40,url
+20250802 07:17:14,url
 
 
 freetv,#genre#
@@ -251,6 +251,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.ctv$[BD]chc�
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-25.ctv$[BD]chc家庭影院
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.m3u8$[BD]chc家庭影院
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-8.ctv$[BD]chc家庭影院
+CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-2.ctv$[BD]chc高清电影
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-14.ctv$[BD]chc影迷电影
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv$[BD]chc影迷电影
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8$[BD]chc影迷电影
