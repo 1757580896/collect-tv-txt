@@ -1,9 +1,10 @@
 更新时间,#genre#
-20250809 05:15:52,url
+20250809 07:16:06,url
 
 
 freetv_other,#genre#
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-17.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-18.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-27.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-29.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-5.ctv
@@ -69,8 +70,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,rtmp://f13h.mine.nu:1935/sat/tv091
-中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-3.m3u8
-中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-5.m3u8
 中视,https://stream1.freetv.fun/zhong-shi-6.ctv
 中视,https://stream1.freetv.fun/zhong-shi-7.ctv
 中视,https://stream1.freetv.fun/zhong-shi-9.ctv
@@ -119,6 +118,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 十堰经济旅游,https://stream1.freetv.fun/shi-yan-jing-ji-lu-you-1.m3u8
 十堰经济旅游,https://stream1.freetv.fun/shi-yan-jing-ji-lu-you-2.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-xin-wen-2.ctv
+华视新闻,https://stream1.freetv.fun/hua-shi-xin-wen-4.ctv
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-3.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-8.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-9.m3u8
@@ -163,7 +163,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 宿州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-3.m3u8
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-5.m3u8
-寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-3.ctv
 寰宇财经,https://stream1.freetv.fun/huan-yu-cai-jing-4.ctv
 封丘新闻综合,https://stream1.freetv.fun/feng-qiu-xin-wen-zong-he-1.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-19.m3u8
@@ -386,6 +385,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-3.ctv
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-1.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-10.ctv
+纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-2.ctv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-7.m3u8
