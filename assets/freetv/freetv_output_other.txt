@@ -1,10 +1,9 @@
 更新时间,#genre#
-20250813 05:15:40,url
+20250813 07:15:56,url
 
 
 freetv_other,#genre#
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-17.m3u8
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-18.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-29.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-5.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-19.ctv
