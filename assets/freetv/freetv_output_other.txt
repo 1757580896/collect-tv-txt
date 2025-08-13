@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250814 05:15:27,url
+20250814 07:16:16,url
 
 
 freetv_other,#genre#
@@ -360,6 +360,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-20.ctv
+民视第一,https://stream1.freetv.fun/min-shi-di-yi-5.m3u8
 民视第一,https://stream1.freetv.fun/min-shi-di-yi-6.ctv
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-1.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8

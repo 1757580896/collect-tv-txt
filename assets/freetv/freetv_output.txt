@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250814 05:15:27,url
+20250814 07:16:16,url
 
 
 freetv,#genre#
@@ -264,6 +264,7 @@ CCTV8,https://stream1.freetv.fun/cctv8-26.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-27.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-30.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-32.ctv$[BD]cctv8
+CCTV8,https://stream1.freetv.fun/cctv8-35.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-38.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-45.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-48.m3u8$[BD]cctv8
@@ -599,6 +600,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-100.ctv$[HD]安徽卫视
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-103.m3u8$[BD]安徽卫视
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-14.m3u8$[BD]安徽卫视
+安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-23.m3u8$[BD]安徽卫视
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-25.ctv$[BD]安徽卫视
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-27.m3u8$[BD]安徽卫视
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-33.m3u8$[BD]安徽卫视
@@ -897,6 +899,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8$[BD]民视新闻
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8$[BD]民视新闻
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-20.ctv$[BD]民视新闻
+民视第一,https://stream1.freetv.fun/min-shi-di-yi-5.m3u8$[BD]民视第一
 民视第一,https://stream1.freetv.fun/min-shi-di-yi-6.ctv$[BD]民视第一
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-1.m3u8$[BD]永嘉新闻综合
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8$[BD]永嘉新闻综合
@@ -1256,6 +1259,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-61.ctv$[HD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-63.m3u8$[BD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-64.m3u8$[BD]重庆卫视
+重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-66.ctv$[BD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-67.m3u8$[BD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-7.m3u8$[BD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-75.m3u8$[BD]重庆卫视
