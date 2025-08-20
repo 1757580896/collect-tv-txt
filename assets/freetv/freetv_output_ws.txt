@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250821 05:14:58,url
+20250821 07:14:43,url
 
 
 freetv_ws,#genre#
@@ -117,7 +117,6 @@ freetv_ws,#genre#
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-62.m3u8
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-64.m3u8
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-7.m3u8
-吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-74.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-76.ctv
 四川卫视,https://stream1.freetv.fun/ipv6-si-chuan-wei-shi-86.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-12.m3u8
