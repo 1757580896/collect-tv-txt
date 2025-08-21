@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250822 05:14:43,url
+20250822 07:14:53,url
 
 
 freetv,#genre#
@@ -300,6 +300,7 @@ CCTV9,https://stream1.freetv.fun/cctv9-77.m3u8$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-79.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-9.m3u8$[BD]cctv9
 CCTV第一剧场,https://stream1.freetv.fun/cctvdi-yi-ju-chang-10.m3u8$[BD]cctv第一剧场
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.m3u8$[BD]chc动作电影
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-29.ctv$[BD]chc动作电影
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.m3u8$[BD]chc家庭影院
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-8.ctv$[BD]chc家庭影院
@@ -702,7 +703,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-7.m3u8$[BD]广东体育
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-9.ctv$[BD]广东体育
 广东卫视,https://stream1.freetv.fun/ipv6-yan-dong-wei-shi-26.m3u8$[BD]广东卫视
-广东卫视,https://stream1.freetv.fun/ipv6-yan-dong-wei-shi-36.m3u8$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-100.ctv$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-101.m3u8$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-104.m3u8$[BD]广东卫视
@@ -1012,6 +1012,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-2.ctv$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-27.m3u8$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-29.ctv$[BD]河南卫视
+河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-37.ctv$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-39.m3u8$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-4.m3u8$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-47.ctv$[BD]河南卫视
