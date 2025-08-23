@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250824 05:13:22,url
+20250824 07:14:43,url
 
 
 freetv_ws,#genre#
@@ -47,7 +47,6 @@ freetv_ws,#genre#
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-61.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-63.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-64.m3u8
-东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-68.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-7.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-73.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-76.m3u8
@@ -154,6 +153,7 @@ freetv_ws,#genre#
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-12.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-13.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-18.ctv
+大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-19.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-20.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-21.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-23.m3u8
@@ -168,7 +168,6 @@ freetv_ws,#genre#
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-27.m3u8
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-29.m3u8
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-35.m3u8
-天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-36.m3u8
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-38.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-48.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-5.m3u8
@@ -443,6 +442,7 @@ freetv_ws,#genre#
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-21.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-23.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-24.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-25.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-27.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-28.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-3.ctv
@@ -452,7 +452,6 @@ freetv_ws,#genre#
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-39.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-4.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-41.ctv
-深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-49.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-51.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-54.m3u8
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-6.ctv
