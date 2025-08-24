@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250825 05:13:39,url
+20250825 07:14:40,url
 
 
 freetv_other,#genre#
@@ -211,7 +211,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-7.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-9.ctv
-广东少儿,https://stream1.freetv.fun/82e426ccc26208cd9bd7e07b90813da59fd4ce171c5be041f35b5c987f0353c3.ctv
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-11.ctv
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-15.m3u8
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-16.ctv
