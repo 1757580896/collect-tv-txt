@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250826 05:14:55,url
+20250826 07:14:53,url
 
 
 freetv,#genre#
@@ -296,6 +296,7 @@ CCTV9,https://stream1.freetv.fun/cctv9-67.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-72.m3u8$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-77.m3u8$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-79.ctv$[BD]cctv9
+CCTV9,https://stream1.freetv.fun/ipv6-cctv9-12.m3u8$[BD]cctv9
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.m3u8$[BD]chc动作电影
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-29.ctv$[BD]chc动作电影
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.m3u8$[BD]chc家庭影院
@@ -367,6 +368,7 @@ tvbs欢乐,https://stream1.freetv.fun/tvbshuan-le-6.ctv$[HD]tvbs欢乐
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-38.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-40.ctv$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-46.ctv$[BD]东方卫视
+东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-49.ctv$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-5.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-52.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-55.m3u8$[BD]东方卫视
@@ -590,6 +592,7 @@ tvbs欢乐,https://stream1.freetv.fun/tvbshuan-le-6.ctv$[HD]tvbs欢乐
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-23.m3u8$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-24.m3u8$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-25.ctv$[BD]大湾区卫视
+大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-3.ctv$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-5.ctv$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-7.ctv$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-9.ctv$[HD]大湾区卫视
@@ -728,6 +731,7 @@ tvbs欢乐,https://stream1.freetv.fun/tvbshuan-le-6.ctv$[HD]tvbs欢乐
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-33.m3u8$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-34.ctv$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-38.ctv$[BD]广东卫视
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-46.ctv$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-48.ctv$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-49.m3u8$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-55.ctv$[BD]广东卫视
