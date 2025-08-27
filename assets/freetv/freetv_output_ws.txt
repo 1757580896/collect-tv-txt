@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250828 05:14:28,url
+20250828 07:14:19,url
 
 
 freetv_ws,#genre#
@@ -151,7 +151,6 @@ freetv_ws,#genre#
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-21.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-23.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-24.m3u8
-大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-3.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-5.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-7.ctv
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-9.ctv
@@ -261,7 +260,6 @@ freetv_ws,#genre#
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-33.m3u8
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-34.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-38.ctv
-广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-46.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-48.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-49.m3u8
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-56.ctv
