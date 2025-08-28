@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250829 05:14:15,url
+20250829 07:14:51,url
 
 
 freetv_other,#genre#
@@ -51,7 +51,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
-中视,https://stream1.freetv.fun/zhong-shi-5.ctv
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-4.m3u8
