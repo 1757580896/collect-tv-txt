@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250828 15:15:46,url
+20250829 05:14:15,url
 
 
 freetv_cctv,#genre#
@@ -25,6 +25,7 @@ CCTV1,https://stream1.freetv.fun/ipv6-cctv1-11.m3u8
 CCTV1,https://stream1.freetv.fun/ipv6-cctv1-14.m3u8
 CCTV1,https://stream1.freetv.fun/ipv6-cctv1-25.m3u8
 CCTV1,https://stream1.freetv.fun/ipv6-cctv1-34.m3u8
+CCTV1,https://stream1.freetv.fun/ipv6-cctv1-50.m3u8
 CCTV1,https://stream1.freetv.fun/ipv6-cctv1-60.m3u8
 CCTV1,https://stream1.freetv.fun/ipv6-cctv1-71.m3u8
 CCTV1,https://stream1.freetv.fun/ipv6-cctv1-84.m3u8
@@ -97,12 +98,10 @@ CCTV14,https://stream1.freetv.fun/cctv14-40.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-47.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-5.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-50.m3u8
-CCTV14,https://stream1.freetv.fun/cctv14-57.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-59.ctv
 CCTV14,https://stream1.freetv.fun/cctv14-65.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-70.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-74.ctv
-CCTV14,https://stream1.freetv.fun/cctv14-77.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-81.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-9.ctv
 CCTV14,https://stream1.freetv.fun/ipv6-cctv-14-2.m3u8
@@ -173,19 +172,15 @@ CCTV3,https://stream1.freetv.fun/cctv3-59.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-65.m3u8
 CCTV3,https://stream1.freetv.fun/ipv6-cctv3-47.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-13.m3u8
-CCTV4,https://stream1.freetv.fun/cctv4-14.ctv
 CCTV4,https://stream1.freetv.fun/cctv4-16.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-24.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-28.ctv
 CCTV4,https://stream1.freetv.fun/cctv4-29.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-3.m3u8
-CCTV4,https://stream1.freetv.fun/cctv4-34.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-35.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-36.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-49.m3u8
-CCTV4,https://stream1.freetv.fun/cctv4-50.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-55.ctv
-CCTV4,https://stream1.freetv.fun/cctv4-56.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-6.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-65.ctv
 CCTV4,https://stream1.freetv.fun/cctv4-7.m3u8
@@ -197,7 +192,6 @@ CCTV4,https://stream1.freetv.fun/ipv6-cctv-4-17.m3u8
 CCTV4,https://stream1.freetv.fun/ipv6-cctv4-33.m3u8
 CCTV4,https://stream1.freetv.fun/ipv6-cctv4-44.m3u8
 CCTV4,https://stream1.freetv.fun/ipv6-cctv4-5.m3u8
-CCTV4,https://stream1.freetv.fun/ipv6-cctv4-73.m3u8
 CCTV4,https://stream1.freetv.fun/ipv6-cctv4-75.m3u8
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-1.ctv
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-14.ctv
@@ -236,12 +230,10 @@ CCTV5,https://stream1.freetv.fun/cctv5-71.ctv
 CCTV5,https://stream1.freetv.fun/cctv5-77.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-78.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-81.m3u8
-CCTV5,https://stream1.freetv.fun/cctv5-91.m3u8
 CCTV5,https://stream1.freetv.fun/ipv6-cctv-5-6.m3u8
 CCTV5,https://stream1.freetv.fun/ipv6-cctv5-11.m3u8
 CCTV5,https://stream1.freetv.fun/ipv6-cctv5-19.m3u8
 CCTV5,https://stream1.freetv.fun/ipv6-cctv5-31.m3u8
-CCTV6,https://stream1.freetv.fun/cctv-6-9.ctv
 CCTV6,https://stream1.freetv.fun/cctv6-2.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-20.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-23.m3u8
@@ -296,7 +288,6 @@ CCTV8,https://stream1.freetv.fun/cctv8-69.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-73.ctv
 CCTV8,https://stream1.freetv.fun/ipv6-cctv8-32.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-14.m3u8
-CCTV9,https://stream1.freetv.fun/cctv9-22.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-24.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-32.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-4.ctv
@@ -306,7 +297,6 @@ CCTV9,https://stream1.freetv.fun/cctv9-43.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-44.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-50.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-56.m3u8
-CCTV9,https://stream1.freetv.fun/cctv9-57.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-66.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-67.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-77.m3u8
