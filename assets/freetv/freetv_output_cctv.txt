@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250830 05:13:44,url
+20250830 07:14:18,url
 
 
 freetv_cctv,#genre#
@@ -326,7 +326,6 @@ CCTV8,https://stream1.freetv.fun/cctv8-73.ctv
 CCTV8,https://stream1.freetv.fun/ipv6-cctv8-32.m3u8
 CCTV8,https://stream1.freetv.fun/ipv6-cctv8-5.m3u8
 CCTV8,https://stream1.freetv.fun/ipv6-cctv8-58.m3u8
-CCTV8,https://stream1.freetv.fun/ipv6-cctv8-9.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-24.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-32.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-4.ctv

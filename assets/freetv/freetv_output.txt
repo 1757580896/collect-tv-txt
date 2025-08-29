@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250830 05:13:44,url
+20250830 07:14:18,url
 
 
 freetv,#genre#
@@ -326,7 +326,6 @@ CCTV8,https://stream1.freetv.fun/cctv8-73.ctv$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/ipv6-cctv8-32.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/ipv6-cctv8-5.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/ipv6-cctv8-58.m3u8$[BD]cctv8
-CCTV8,https://stream1.freetv.fun/ipv6-cctv8-9.m3u8$[BD]cctv8
 CCTV9,https://stream1.freetv.fun/cctv9-24.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-32.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-4.ctv$[BD]cctv9
@@ -631,6 +630,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-3.m3u8$[HD]tvb星河
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-5.ctv$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-7.ctv$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-9.ctv$[HD]大湾区卫视
+大湾区卫视,https://stream1.freetv.fun/ipv6-da-wan-qu-wei-shi-16.m3u8$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/ipv6-da-wan-qu-wei-shi-17.m3u8$[BD]大湾区卫视
 天津卫视,https://stream1.freetv.fun/ipv6-tian-jin-wei-shi-1.m3u8$[BD]天津卫视
 天津卫视,https://stream1.freetv.fun/ipv6-tian-jin-wei-shi-25.m3u8$[HD]天津卫视
