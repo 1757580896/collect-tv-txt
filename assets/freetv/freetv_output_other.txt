@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250831 05:12:46,url
+20250831 07:13:57,url
 
 
 freetv_other,#genre#
@@ -403,6 +403,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-3.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-1.m3u8
 纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
+纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-8.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-1.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-10.ctv
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
