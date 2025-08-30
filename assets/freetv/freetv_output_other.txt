@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250830 15:13:28,url
+20250831 05:12:46,url
 
 
 freetv_other,#genre#
@@ -13,7 +13,6 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8
 cetv1,https://stream1.freetv.fun/cetv1-10.m3u8
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-2.m3u8
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-7.m3u8
-cgtn,https://stream1.freetv.fun/cgtn-22.ctv
 cgtn,https://stream1.freetv.fun/cgtn-25.ctv
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-31.ctv
@@ -30,6 +29,7 @@ tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-15.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
+tvb星河,https://stream1.freetv.fun/tvbxing-he-1.m3u8
 tvb星河,https://stream1.freetv.fun/tvbxing-he-3.m3u8
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.ctv
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8
@@ -90,10 +90,10 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-3.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-6.m3u8
 刘德华,https://stream1.freetv.fun/liu-de-hua-1.m3u8
-刘德华,https://stream1.freetv.fun/liu-de-hua-4.m3u8
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-16.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-24.m3u8
+动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-25.ctv
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-11.m3u8
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-14.m3u8
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-18.m3u8
