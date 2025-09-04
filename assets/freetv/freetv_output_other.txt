@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250904 15:14:54,url
+20250905 05:13:54,url
 
 
 freetv_other,#genre#
@@ -165,7 +165,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-3.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-12.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-22.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-26.m3u8
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-32.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-7.m3u8
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-8.ctv
 广东综艺,https://stream1.freetv.fun/yan-dong-zong-yi-14.ctv
