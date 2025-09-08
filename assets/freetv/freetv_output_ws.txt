@@ -1,9 +1,8 @@
 更新时间,#genre#
-20250909 05:13:48,url
+20250909 07:14:28,url
 
 
 freetv_ws,#genre#
-上海卫视,https://stream1.freetv.fun/shang-hai-wei-shi-1.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-12.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-17.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-23.ctv

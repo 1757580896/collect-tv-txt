@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250909 05:13:48,url
+20250909 07:14:28,url
 
 
 freetv,#genre#
@@ -217,7 +217,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-2.ctv$[BD]tvbs新闻
 tvb星河,https://stream1.freetv.fun/tvbxing-he-1.ctv$[HD]tvb星河
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.ctv$[BD]三立新闻
-上海卫视,https://stream1.freetv.fun/shang-hai-wei-shi-1.m3u8$[BD]上海卫视
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-9.ctv$[BD]上海新闻综合
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8$[BD]上海都市
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.ctv$[BD]上海都市
