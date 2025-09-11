@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250912 05:13:18,url
+20250912 07:14:08,url
 
 
 freetv_other,#genre#
@@ -110,7 +110,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-3.ctv
 哈哈炫动,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-14.m3u8
 哈哈炫动,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-21.m3u8
 哈哈炫动,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-8.m3u8
-哈尔滨新闻,https://stream1.freetv.fun/ipv6-ha-er-bin-xin-wen-1.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-4.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-5.m3u8
