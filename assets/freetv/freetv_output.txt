@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250915 05:12:22,url
+20250915 07:13:08,url
 
 
 freetv,#genre#
@@ -285,6 +285,7 @@ tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-12.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-13.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-14.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-15.m3u8$[BD]tvbs亚洲
+tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-4.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-5.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8$[BD]tvbs亚洲
@@ -411,8 +412,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-14.m3u8$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-4.ctv$[HD]凤凰香港
-刘德华,https://stream1.freetv.fun/liu-de-hua-1.m3u8$[HD]刘德华
-刘德华,https://stream1.freetv.fun/liu-de-hua-3.m3u8$[HD]刘德华
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8$[HD]剧集
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-24.m3u8$[BD]动漫秀场
 动物星球,https://stream1.freetv.fun/dong-wu-xing-qiu-4.m3u8$[HD]动物星球
