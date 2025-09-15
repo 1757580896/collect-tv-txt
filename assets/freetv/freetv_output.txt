@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250916 05:13:37,url
+20250916 07:13:19,url
 
 
 freetv,#genre#
@@ -298,6 +298,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.ctv$[BD]上海新闻综合
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-9.ctv$[BD]上海新闻综合
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8$[BD]上海都市
+上海都市,https://stream1.freetv.fun/shang-hai-du-shi-1.m3u8$[BD]上海都市
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.ctv$[BD]上海都市
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-7.ctv$[BD]上海都市
 上虞1新闻综合,https://stream1.freetv.fun/shang-yu-1xin-wen-zong-he-1.m3u8$[BD]上虞1新闻综合
