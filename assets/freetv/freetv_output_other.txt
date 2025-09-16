@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250917 05:13:51,url
+20250917 07:11:44,url
 
 
 freetv_other,#genre#
@@ -325,6 +325,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv
 电影,https://stream1.freetv.fun/dian-ying-97.m3u8
 登封新闻综合频道,https://stream1.freetv.fun/deng-feng-xin-wen-zong-he-1.m3u8
 确山新闻综合频道,https://stream1.freetv.fun/que-shan-xin-wen-zong-he-1.m3u8
+第一财经,https://stream1.freetv.fun/di-yi-cai-jing-10.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-13.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-5.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
