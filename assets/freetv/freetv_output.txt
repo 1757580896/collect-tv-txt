@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250918 05:13:26,url
+20250918 07:14:22,url
 
 
 freetv,#genre#
@@ -10,6 +10,7 @@ CCTV1,https://stream1.freetv.fun/cctv1-27.ctv$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-30.ctv$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-38.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-39.ctv$[BD]cctv1
+CCTV1,https://stream1.freetv.fun/cctv1-41.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-45.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-48.m3u8$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/cctv1-55.m3u8$[BD]cctv1
@@ -219,11 +220,12 @@ CCTV5,https://stream1.freetv.fun/cctv5-40.ctv$[BD]cctv5
 CCTV5,https://stream1.freetv.fun/cctv5-48.m3u8$[BD]cctv5
 CCTV5,https://stream1.freetv.fun/cctv5-51.m3u8$[BD]cctv5
 CCTV5,https://stream1.freetv.fun/cctv5-56.ctv$[BD]cctv5
-CCTV5,https://stream1.freetv.fun/cctv5-66.ctv$[BD]cctv5
 CCTV5,https://stream1.freetv.fun/cctv5-70.m3u8$[BD]cctv5
 CCTV5,https://stream1.freetv.fun/cctv5-71.ctv$[BD]cctv5
 CCTV5,https://stream1.freetv.fun/cctv5-78.m3u8$[BD]cctv5
+CCTV5,https://stream1.freetv.fun/cctv5-91.m3u8$[BD]cctv5
 CCTV5,https://stream1.freetv.fun/cctv5-93.m3u8$[BD]cctv5
+CCTV5,https://stream1.freetv.fun/cctv5-94.m3u8$[BD]cctv5
 CCTV5,https://stream1.freetv.fun/cctv5-ti-yu-14.ctv$[BD]cctv5-体育
 CCTV5,https://stream1.freetv.fun/cctv5-ti-yu-8.ctv$[BD]cctv5-体育
 CCTV5,https://stream1.freetv.fun/ipv6-cctv5-24.m3u8$[BD]cctv5
@@ -334,8 +336,6 @@ tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-5.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8$[BD]tvbs亚洲
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
-tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.m3u8$[BD]tvbs新闻
-tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-54.m3u8$[BD]三沙卫视
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-57.ctv$[BD]三沙卫视
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.ctv$[BD]三立新闻
