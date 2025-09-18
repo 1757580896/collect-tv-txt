@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250918 07:14:22,url
+20250918 15:15:12,url
 
 
 freetv_other,#genre#
@@ -14,6 +14,7 @@ CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-11.m3u8
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8
 cetv1,https://stream1.freetv.fun/cetv1-1.m3u8
+cetv1,https://stream1.freetv.fun/cetv1-8.ctv
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-4.m3u8
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-7.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8
@@ -25,12 +26,10 @@ cgtn,https://stream1.freetv.fun/cgtn-5.ctv
 cgtn,https://stream1.freetv.fun/cgtn-6.m3u8
 nba tv,https://stream1.freetv.fun/nba-tv-5.m3u8
 nba tv,https://stream1.freetv.fun/nba-tv-9.ctv
-tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-1.ctv
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-12.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-13.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-15.m3u8
-tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-4.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-5.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8
@@ -98,6 +97,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-13.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-14.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv
+刘德华,https://stream1.freetv.fun/liu-de-hua-1.m3u8
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-15.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-19.m3u8
