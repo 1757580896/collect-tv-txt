@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250919 05:14:14,url
+20250919 07:14:11,url
 
 
 freetv_ws,#genre#
@@ -57,11 +57,8 @@ freetv_ws,#genre#
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-7.ctv
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-9.m3u8
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-35.m3u8
-兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-38.m3u8
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-40.m3u8
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-6.ctv
-兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-7.m3u8
-兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-9.m3u8
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-25.m3u8
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-8.m3u8
 内蒙古蒙语卫视,https://stream1.freetv.fun/nei-meng-gu-meng-yu-wei-shi-7.m3u8
@@ -147,6 +144,7 @@ freetv_ws,#genre#
 安徽卫视,https://stream1.freetv.fun/ipv6-an-hui-wei-shi-87.m3u8
 山东卫视,https://stream1.freetv.fun/ipv6-shan-dong-wei-shi-30.m3u8
 山东卫视,https://stream1.freetv.fun/ipv6-shan-dong-wei-shi-84.m3u8
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-16.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-23.ctv
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-26.ctv
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-29.ctv
@@ -156,6 +154,7 @@ freetv_ws,#genre#
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-47.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-52.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-54.ctv
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-57.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-70.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-77.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-78.m3u8
@@ -273,7 +272,6 @@ freetv_ws,#genre#
 浙江卫视,https://stream1.freetv.fun/ipv6-zhe-jiang-wei-shi-24.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-103.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-105.ctv
-浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-106.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-110.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-18.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-19.ctv

@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250919 05:14:14,url
+20250919 07:14:11,url
 
 
 freetv,#genre#
@@ -436,11 +436,8 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-9.m3u8$[HD]人间卫视
 兰考新闻综合频道,https://stream1.freetv.fun/lan-kao-xin-wen-zong-he-1.m3u8$[BD]兰考新闻综合频道
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-35.m3u8$[BD]兵团卫视
-兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-38.m3u8$[BD]兵团卫视
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-40.m3u8$[BD]兵团卫视
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-6.ctv$[BD]兵团卫视
-兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-7.m3u8$[BD]兵团卫视
-兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-9.m3u8$[BD]兵团卫视
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8$[HD]内江综合
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-25.m3u8$[BD]内蒙古卫视
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-8.m3u8$[BD]内蒙古卫视
@@ -593,6 +590,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-19.m3u8$[BD]山东体育
 山东卫视,https://stream1.freetv.fun/ipv6-shan-dong-wei-shi-30.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/ipv6-shan-dong-wei-shi-84.m3u8$[BD]山东卫视
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-16.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-23.ctv$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-26.ctv$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-29.ctv$[BD]山东卫视
@@ -602,6 +600,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-47.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-52.m3u8$[HD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-54.ctv$[BD]山东卫视
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-57.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-70.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-77.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-78.m3u8$[BD]山东卫视
@@ -829,7 +828,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 浙江卫视,https://stream1.freetv.fun/ipv6-zhe-jiang-wei-shi-24.m3u8$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-103.m3u8$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-105.ctv$[BD]浙江卫视
-浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-106.ctv$[HD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-110.ctv$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-18.m3u8$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-19.ctv$[BD]浙江卫视
