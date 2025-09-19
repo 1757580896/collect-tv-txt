@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250919 07:14:11,url
+20250919 15:15:33,url
 
 
 freetv_other,#genre#
@@ -15,6 +15,8 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8
 cetv1,https://stream1.freetv.fun/cetv1-1.m3u8
 cetv1,https://stream1.freetv.fun/cetv1-12.ctv
+cetv1,https://stream1.freetv.fun/cetv1-13.ctv
+cetv1,https://stream1.freetv.fun/cetv1-6.ctv
 cetv1,https://stream1.freetv.fun/cetv1-8.ctv
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-4.m3u8
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-7.m3u8
@@ -98,7 +100,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-13.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-14.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv
-刘德华,https://stream1.freetv.fun/liu-de-hua-1.m3u8
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-19.m3u8
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-22.m3u8
