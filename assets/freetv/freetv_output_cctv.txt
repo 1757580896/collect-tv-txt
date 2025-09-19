@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250920 05:13:27,url
+20250920 07:13:35,url
 
 
 freetv_cctv,#genre#
@@ -31,7 +31,6 @@ CCTV10,https://stream1.freetv.fun/cctv10-11.ctv
 CCTV10,https://stream1.freetv.fun/cctv10-12.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-20.ctv
 CCTV10,https://stream1.freetv.fun/cctv10-3.m3u8
-CCTV10,https://stream1.freetv.fun/cctv10-33.ctv
 CCTV10,https://stream1.freetv.fun/cctv10-43.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-50.m3u8
 CCTV10,https://stream1.freetv.fun/cctv10-70.ctv
