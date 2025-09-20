@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250920 07:13:35,url
+20250920 15:13:44,url
 
 
 freetv_other,#genre#
@@ -16,8 +16,6 @@ CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8
 cetv1,https://stream1.freetv.fun/cetv1-1.m3u8
 cetv1,https://stream1.freetv.fun/cetv1-10.ctv
 cetv1,https://stream1.freetv.fun/cetv1-12.ctv
-cetv1,https://stream1.freetv.fun/cetv1-13.ctv
-cetv1,https://stream1.freetv.fun/cetv1-6.ctv
 cetv1,https://stream1.freetv.fun/cetv1-8.ctv
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-4.m3u8
 cetv1,https://stream1.freetv.fun/ipv6-cetv1-7.m3u8
@@ -76,7 +74,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8
-中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv
 中視,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
