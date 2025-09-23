@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250924 05:13:30,url
+20250924 07:13:22,url
 
 
 freetv_other,#genre#
@@ -74,6 +74,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-9.ctv
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
+中视菁采,https://stream1.freetv.fun/zhong-shi-jing-cai-3.ctv
 乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-4.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
@@ -240,9 +241,12 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 民视,https://stream1.freetv.fun/min-shi-8.ctv
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,rtmp://f13h.mine.nu:1935/sat/tv051
+民视台湾,https://stream1.freetv.fun/min-shi-tai-wan-7.ctv
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-16.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-4.ctv
+民视第一,https://stream1.freetv.fun/min-shi-di-yi-1.ctv
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-3.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-4.m3u8
