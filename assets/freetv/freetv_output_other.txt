@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250923 07:14:06,url
+20250923 15:16:11,url
 
 
 freetv_other,#genre#
@@ -101,7 +101,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-7.m3u8
-刘德华,https://stream1.freetv.fun/liu-de-hua-1.m3u8
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-1.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-19.m3u8
