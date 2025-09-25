@@ -1,14 +1,16 @@
 更新时间,#genre#
-20250925 07:14:25,url
+20250925 15:16:08,url
 
 
 freetv_other,#genre#
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-1.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-29.ctv
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-3.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-15.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-8.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-11.m3u8
+CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-6.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-9.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.m3u8
@@ -84,6 +86,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 人間衛視,https://stream1.freetv.fun/ren-jian-wei-shi-4.m3u8
 兰考新闻综合频道,https://stream1.freetv.fun/lan-kao-xin-wen-zong-he-1.m3u8
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8
+内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-3.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-2.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-3.ctv
@@ -102,6 +105,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-7.m3u8
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-19.m3u8
+动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-3.ctv
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-20.m3u8
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-22.m3u8
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-24.m3u8
