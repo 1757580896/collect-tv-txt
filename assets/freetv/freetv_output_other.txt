@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250926 05:13:52,url
+20250926 07:13:45,url
 
 
 freetv_other,#genre#
@@ -242,7 +242,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 新闻综合,https://stream1.freetv.fun/ipv6-xin-wen-zong-he-4.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
-明珠,https://stream1.freetv.fun/ming-zhu-10.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-11.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-2.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-3.ctv
@@ -250,7 +249,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-5.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-6.m3u8
 明珠,https://stream1.freetv.fun/ming-zhu-7.ctv
-明珠,https://stream1.freetv.fun/ming-zhu-8.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-2.ctv
 晋城公共,https://stream1.freetv.fun/jin-cheng-gong-gong-1.m3u8
 晋城公共,https://stream1.freetv.fun/jin-cheng-gong-gong-3.m3u8
