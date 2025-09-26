@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250926 07:13:45,url
+20250926 15:15:37,url
 
 
 freetv_other,#genre#
@@ -46,7 +46,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-9.ctv
 上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8
-上海都市,https://stream1.freetv.fun/shang-hai-du-shi-1.m3u8
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.ctv
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-7.ctv
 上虞1新闻综合,https://stream1.freetv.fun/shang-yu-1xin-wen-zong-he-1.m3u8
@@ -90,7 +89,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 人間衛視,https://stream1.freetv.fun/ren-jian-wei-shi-4.m3u8
 兰考新闻综合频道,https://stream1.freetv.fun/lan-kao-xin-wen-zong-he-1.m3u8
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8
-内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-3.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-2.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-3.ctv
@@ -106,6 +104,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-2.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-7.m3u8
+刘德华,https://stream1.freetv.fun/liu-de-hua-1.m3u8
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-17.ctv
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-19.m3u8
@@ -334,7 +333,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-4.ctv
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-10.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-13.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-5.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
