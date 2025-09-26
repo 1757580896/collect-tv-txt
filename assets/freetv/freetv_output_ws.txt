@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250927 05:13:08,url
+20250927 07:13:45,url
 
 
 freetv_ws,#genre#
@@ -37,7 +37,7 @@ freetv_ws,#genre#
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-81.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-83.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-84.m3u8
-东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-85.m3u8
+东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-94.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-95.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-98.m3u8
 东方卫视,https://stream1.freetv.fun/ipv6-dong-fang-wei-shi-12.m3u8
@@ -178,6 +178,7 @@ freetv_ws,#genre#
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-67.ctv
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-70.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-78.m3u8
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-83.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-92.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-93.ctv
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-gao-qing-4.ctv
@@ -320,7 +321,6 @@ freetv_ws,#genre#
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-44.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-50.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-68.ctv
-浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-7.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-73.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-80.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-84.ctv
