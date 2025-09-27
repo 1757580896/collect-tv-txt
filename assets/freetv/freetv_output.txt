@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250928 05:12:22,url
+20250928 07:13:30,url
 
 
 freetv,#genre#
@@ -51,7 +51,6 @@ CCTV12,https://stream1.freetv.fun/cctv-12-23.ctv$[BD]cctv-12
 CCTV12,https://stream1.freetv.fun/cctv12-18.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-19.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-2.m3u8$[BD]cctv12
-CCTV12,https://stream1.freetv.fun/cctv12-20.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-21.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-26.ctv$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-3.m3u8$[BD]cctv12
@@ -321,6 +320,7 @@ tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8$[BD]tvbs亚洲
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 tvb星河,https://stream1.freetv.fun/tvbxing-he-3.ctv$[HD]tvb星河
+tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-54.m3u8$[BD]三沙卫视
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.ctv$[BD]三立新闻
@@ -399,6 +399,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-2.m3u8$[BD]东莞新闻综合
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv$[HD]东莞新闻综合
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8$[HD]东莞综合
+中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-3.ctv$[BD]中天新闻
 中視,rtmp://f13h.mine.nu/sat/tv091$[HD]中視
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-9.ctv$[BD]中视新闻
 中视,rtmp://f13h.mine.nu:1935/sat/tv091$[HD]中视
@@ -616,6 +617,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-54.ctv$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-57.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-67.ctv$[BD]山东卫视
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-7.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-70.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-78.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-83.m3u8$[BD]山东卫视
@@ -1043,6 +1045,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-5.m3u8$[BD]衢江新闻综合
 西宁新闻综合,https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-3.m3u8$[BD]西宁新闻综合
 西宁新闻综合,https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-4.ctv$[BD]西宁新闻综合
+西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2$[BD]西宁新闻综合
 西宁生活服务,https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-1.ctv$[BD]西宁生活服务
 西宁生活服务,https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-2.m3u8$[BD]西宁生活服务
 西宁生活服务,https://stream1.freetv.fun/xi-zhu-sheng-huo-fu-wu-3.m3u8$[BD]西宁生活服务
