@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250929 05:12:57,url
+20250929 07:13:40,url
 
 
 freetv_other,#genre#
@@ -263,6 +263,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-3.m3u8
 民視新聞,https://stream1.freetv.fun/min-shi-xin-wen-19.m3u8
+民视,https://stream1.freetv.fun/min-shi-5.ctv
 民视,https://stream1.freetv.fun/min-shi-8.ctv
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,rtmp://f13h.mine.nu:1935/sat/tv051
