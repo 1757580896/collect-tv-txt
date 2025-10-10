@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251011 05:13:10,url
+20251011 07:14:03,url
 
 
 freetv_ws,#genre#
@@ -279,7 +279,6 @@ freetv_ws,#genre#
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-23.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-27.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-3.m3u8
-浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-30.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-33.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-34.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-38.ctv
@@ -287,6 +286,7 @@ freetv_ws,#genre#
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-43.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-44.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-50.ctv
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-58.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-68.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-73.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-80.ctv
