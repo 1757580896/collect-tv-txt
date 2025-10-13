@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251014 05:13:33,url
+20251014 07:13:55,url
 
 
 freetv_ws,#genre#
@@ -71,7 +71,6 @@ freetv_ws,#genre#
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-89.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-92.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-95.m3u8
-北京卫视,https://stream1.freetv.fun/ipv6-bei-jing-wei-shi-102.m3u8
 北京卫视,https://stream1.freetv.fun/ipv6-bei-jing-wei-shi-90.m3u8
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-12.m3u8
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-24.m3u8
@@ -282,7 +281,6 @@ freetv_ws,#genre#
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-44.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-50.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-68.ctv
-浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-77.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-80.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-84.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-86.m3u8
