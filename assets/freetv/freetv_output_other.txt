@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251015 07:14:06,url
+20251015 15:16:19,url
 
 
 freetv_other,#genre#
@@ -450,7 +450,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
 金鹰卡通,https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-21.m3u8
 金鹰卡通,https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-32.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-11.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-19.ctv
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-30.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-5.m3u8
