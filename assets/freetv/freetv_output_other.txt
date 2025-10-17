@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251018 05:13:42,url
+20251018 07:13:55,url
 
 
 freetv_other,#genre#
@@ -44,7 +44,6 @@ tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-5.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
-tvb星河,https://stream1.freetv.fun/tvbxing-he-4.ctv
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-9.ctv
@@ -77,7 +76,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-4.ctv
 东莞新闻综合,https://stream1.freetv.fun/dong-wan-xin-wen-zong-he-5.ctv
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
-中天新聞,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-9.ctv
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
@@ -109,16 +107,12 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-4.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-23.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-6.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-7.ctv
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-13.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-14.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-7.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-9.ctv
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-17.m3u8
@@ -412,7 +406,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-4.ctv
 翡翠,https://stream1.freetv.fun/fei-cui-13.ctv
 翡翠,https://stream1.freetv.fun/fei-cui-14.ctv
 翡翠,https://stream1.freetv.fun/fei-cui-15.ctv
-翡翠,https://stream1.freetv.fun/fei-cui-19.ctv
 翡翠,https://stream1.freetv.fun/fei-cui-20.ctv
 翡翠,https://stream1.freetv.fun/fei-cui-4.ctv
 翡翠,https://stream1.freetv.fun/fei-cui-5.ctv
