@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251020 05:13:14,url
+20251020 07:14:00,url
 
 
 freetv_ws,#genre#
@@ -96,6 +96,7 @@ freetv_ws,#genre#
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-68.ctv
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-73.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-83.m3u8
+四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-86.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-93.m3u8
 四川卫视,https://stream1.freetv.fun/si-chuan-wei-shi-97.m3u8
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-1.ctv
@@ -386,7 +387,6 @@ freetv_ws,#genre#
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-71.m3u8
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-72.m3u8
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-85.ctv
-重庆卫视,https://stream1.freetv.fun/ipv6-zhong-qing-wei-shi-50.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-10.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-26.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-27.m3u8
