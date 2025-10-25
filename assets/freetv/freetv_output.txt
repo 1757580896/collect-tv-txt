@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251026 05:13:27,url
+20251026 07:13:44,url
 
 
 freetv,#genre#
@@ -20,6 +20,7 @@ CCTV1,https://stream1.freetv.fun/cctv1-73.ctv$[BD]cctv1
 CCTV1,https://stream1.freetv.fun/ipv6-cctv1-66.m3u8$[BD]cctv1
 CCTV10,https://stream1.freetv.fun/cctv-10-18.ctv$[BD]cctv-10
 CCTV10,https://stream1.freetv.fun/cctv-10-2.m3u8$[BD]cctv-10
+CCTV10,https://stream1.freetv.fun/cctv-10-7.ctv$[BD]cctv-10
 CCTV10,https://stream1.freetv.fun/cctv10-12.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-13.ctv$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-70.ctv$[BD]cctv10
@@ -27,6 +28,7 @@ CCTV10,https://stream1.freetv.fun/cctv10-75.ctv$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-80.ctv$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-ke-jiao-16.ctv$[BD]cctv10-科教
 CCTV10,https://stream1.freetv.fun/ipv6-cctv10-39.m3u8$[BD]cctv10
+CCTV11,https://stream1.freetv.fun/cctv-11-16.ctv$[BD]cctv-11
 CCTV11,https://stream1.freetv.fun/cctv-11-6.ctv$[HD]cctv-11
 CCTV11,https://stream1.freetv.fun/cctv-11-8.ctv$[BD]cctv-11
 CCTV11,https://stream1.freetv.fun/cctv11-33.m3u8$[BD]cctv11
@@ -66,6 +68,7 @@ CCTV13,https://stream1.freetv.fun/cctv13-58.ctv$[BD]cctv13
 CCTV13,https://stream1.freetv.fun/cctv13-59.ctv$[BD]cctv13
 CCTV13,https://stream1.freetv.fun/cctv13-81.m3u8$[BD]cctv13
 CCTV13,https://stream1.freetv.fun/cctv13-xin-wen-1.ctv$[BD]cctv13-新闻
+CCTV14,https://stream1.freetv.fun/cctv-14-11.ctv$[BD]cctv-14
 CCTV14,https://stream1.freetv.fun/cctv14-1.ctv$[BD]cctv14
 CCTV14,https://stream1.freetv.fun/cctv14-31.ctv$[BD]cctv14
 CCTV14,https://stream1.freetv.fun/cctv14-47.m3u8$[BD]cctv14
@@ -88,7 +91,6 @@ CCTV16,https://stream1.freetv.fun/cctv16-33.m3u8$[BD]cctv16
 CCTV16,https://stream1.freetv.fun/cctv16-46.m3u8$[BD]cctv16
 CCTV16,https://stream1.freetv.fun/cctv16-47.m3u8$[BD]cctv16
 CCTV17,https://stream1.freetv.fun/cctv-17-14.ctv$[BD]cctv-17
-CCTV17,https://stream1.freetv.fun/cctv-17-19.ctv$[BD]cctv-17
 CCTV17,https://stream1.freetv.fun/cctv17-3.m3u8$[BD]cctv17
 CCTV17,https://stream1.freetv.fun/cctv17-31.ctv$[BD]cctv17
 CCTV17,https://stream1.freetv.fun/cctv17-35.m3u8$[BD]cctv17
@@ -146,6 +148,7 @@ CCTV5+,https://stream1.freetv.fun/cctv5-plus-38.ctv$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-43.m3u8$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-54.ctv$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-6.m3u8$[BD]cctv5_plus
+CCTV5,https://stream1.freetv.fun/cctv-5-23.ctv$[BD]cctv-5
 CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-1.m3u8$[HD]cctv-5_体育赛事
 CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-10.m3u8$[HD]cctv-5_体育赛事
 CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-3.m3u8$[HD]cctv-5_体育赛事
