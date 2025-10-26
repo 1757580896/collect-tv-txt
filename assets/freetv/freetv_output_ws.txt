@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251027 05:13:32,url
+20251027 07:14:14,url
 
 
 freetv_ws,#genre#
@@ -51,6 +51,7 @@ freetv_ws,#genre#
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-25.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-28.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-37.m3u8
+北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-57.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-67.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-83.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-86.ctv
