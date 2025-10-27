@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251027 07:14:14,url
+20251027 15:16:43,url
 
 
 freetv_other,#genre#
@@ -116,7 +116,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-3.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
 吴江新闻综合,https://stream1.freetv.fun/wu-jiang-xin-wen-zong-he-1.m3u8
-嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-13.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-21.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-27.ctv

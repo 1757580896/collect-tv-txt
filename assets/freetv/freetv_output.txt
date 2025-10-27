@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251027 07:14:14,url
+20251027 15:16:43,url
 
 
 freetv,#genre#
@@ -25,7 +25,6 @@ CCTV10,https://stream1.freetv.fun/cctv-10-7.ctv$[BD]cctv-10
 CCTV10,https://stream1.freetv.fun/cctv10-12.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-13.ctv$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-44.m3u8$[BD]cctv10
-CCTV10,https://stream1.freetv.fun/cctv10-57.ctv$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-70.ctv$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-75.ctv$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-80.ctv$[BD]cctv10
@@ -51,7 +50,6 @@ CCTV11,https://stream1.freetv.fun/ipv6-cctv11-26.m3u8$[BD]cctv11
 CCTV12,https://stream1.freetv.fun/cctv-12she-hui-yu-fa-2.ctv$[BD]cctv-12社会与法
 CCTV12,https://stream1.freetv.fun/cctv12-1.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-19.m3u8$[BD]cctv12
-CCTV12,https://stream1.freetv.fun/cctv12-30.ctv$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-32.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-36.ctv$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-41.m3u8$[BD]cctv12
@@ -215,12 +213,10 @@ CCTV8,https://stream1.freetv.fun/cctv8-30.ctv$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-33.ctv$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-41.m3u8$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-54.m3u8$[BD]cctv8
-CCTV8,https://stream1.freetv.fun/cctv8-60.ctv$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-73.ctv$[BD]cctv8
 CCTV8,https://stream1.freetv.fun/cctv8-dian-shi-ju-8.ctv$[BD]cctv8-电视剧
 CCTV8,https://stream1.freetv.fun/ipv6-cctv8-11.m3u8$[BD]cctv8
 CCTV9,https://stream1.freetv.fun/cctv-9-7.ctv$[BD]cctv-9
-CCTV9,https://stream1.freetv.fun/cctv9-22.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-32.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-4.ctv$[BD]cctv9
 CCTV9,https://stream1.freetv.fun/cctv9-41.m3u8$[BD]cctv9
@@ -411,7 +407,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-72.ctv$[BD]吉林卫视
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-gao-qing-5.ctv$[BD]吉林卫视高清
 吴江新闻综合,https://stream1.freetv.fun/wu-jiang-xin-wen-zong-he-1.m3u8$[HD]吴江新闻综合
-嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-13.ctv$[BD]嘉佳卡通
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-21.ctv$[BD]嘉佳卡通
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv$[BD]嘉佳卡通
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-27.ctv$[BD]嘉佳卡通
@@ -684,7 +679,6 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-43.ctv$[BD]广西卫视
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-50.ctv$[BD]广西卫视
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-74.m3u8$[BD]广西卫视
-广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-83.m3u8$[HD]广西卫视
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-10.m3u8$[BD]延边卫视
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-29.m3u8$[HD]延边卫视
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8$[HD]开化新闻综合
@@ -693,6 +687,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 新乡综合,https://stream1.freetv.fun/xin-xiang-zong-he-1.m3u8$[BD]新乡综合
 新县新闻综合,https://stream1.freetv.fun/xin-xian-xin-wen-zong-he-1.m3u8$[BD]新县新闻综合
 新昌新聞綜合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-4.m3u8$[BD]新昌新聞綜合
+新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-2.m3u8$[BD]新疆卫视
 新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-29.ctv$[BD]新疆卫视
 新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-37.m3u8$[BD]新疆卫视
 新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-4.m3u8$[HD]新疆卫视
@@ -779,6 +774,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-48.ctv$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-53.m3u8$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-75.m3u8$[BD]河南卫视
+河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-77.m3u8$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-78.ctv$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-81.m3u8$[BD]河南卫视
 河南卫视,https://stream1.freetv.fun/he-nan-wei-shi-9.ctv$[BD]河南卫视
