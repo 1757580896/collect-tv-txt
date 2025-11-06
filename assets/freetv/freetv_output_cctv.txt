@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251106 07:15:26,url
+20251106 15:16:00,url
 
 
 freetv_cctv,#genre#
@@ -88,7 +88,6 @@ CCTV16,https://stream1.freetv.fun/cctv16-46.m3u8
 CCTV16,https://stream1.freetv.fun/cctv16-47.m3u8
 CCTV17,https://stream1.freetv.fun/cctv-17-20.ctv
 CCTV17,https://stream1.freetv.fun/cctv17-22.ctv
-CCTV17,https://stream1.freetv.fun/cctv17-31.ctv
 CCTV17,https://stream1.freetv.fun/cctv17-35.m3u8
 CCTV17,https://stream1.freetv.fun/cctv17-5.m3u8
 CCTV17,https://stream1.freetv.fun/cctv17-6.m3u8
