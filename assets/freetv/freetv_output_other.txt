@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251107 05:15:04,url
+20251107 07:15:20,url
 
 
 freetv_other,#genre#
@@ -15,6 +15,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-2.m3u8
 CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-8.m3u8
+cetv1,https://stream1.freetv.fun/cetv1-3.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-31.ctv
 cgtn,https://stream1.freetv.fun/cgtn-32.m3u8
@@ -62,7 +63,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8
 中天娛樂,https://stream1.freetv.fun/zhong-tian-yu-le-1.m3u8
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
-中天新聞,rtmp://123.161.179.74/live/yifatv-ztxw01
 中視,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 中视菁采,https://stream1.freetv.fun/zhong-shi-jing-cai-3.ctv
@@ -266,7 +266,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv
 新野新闻综合频道,https://stream1.freetv.fun/xin-ye-xin-wen-zong-he-1.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
-明珠,https://stream1.freetv.fun/ming-zhu-1.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-11.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-12.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-2.ctv

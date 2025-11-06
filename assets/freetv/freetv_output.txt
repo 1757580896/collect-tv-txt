@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251107 05:15:04,url
+20251107 07:15:20,url
 
 
 freetv,#genre#
@@ -189,6 +189,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.ctv$[BD]chc�
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv$[BD]chc家庭影院
 CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-2.m3u8$[BD]chc高清电影
 CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-8.m3u8$[BD]chc高清电影
+cetv1,https://stream1.freetv.fun/cetv1-3.m3u8$[BD]cetv1
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-31.ctv$[BD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-32.m3u8$[BD]cgtn
@@ -232,7 +233,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-16.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-21.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-24.m3u8$[BD]东方卫视
-东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-46.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-52.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-53.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-65.ctv$[HD]东方卫视
@@ -257,7 +257,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 东莞综合,https://stream1.freetv.fun/dong-wan-zong-he-1.m3u8$[HD]东莞综合
 中天娛樂,https://stream1.freetv.fun/zhong-tian-yu-le-1.m3u8$[BD]中天娛樂
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8$[BD]中天新闻
-中天新聞,rtmp://123.161.179.74/live/yifatv-ztxw01$[BD]中天新聞
 中視,rtmp://f13h.mine.nu/sat/tv091$[HD]中視
 中视,rtmp://f13h.mine.nu:1935/sat/tv091$[HD]中视
 中视菁采,https://stream1.freetv.fun/zhong-shi-jing-cai-3.ctv$[BD]中视菁采
@@ -339,7 +338,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8$[BD]台视新闻
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-2.ctv$[BD]台视新闻
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8$[BD]台視新聞
-吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-12.m3u8$[BD]吉林卫视
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-13.m3u8$[BD]吉林卫视
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-3.m3u8$[BD]吉林卫视
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-33.m3u8$[BD]吉林卫视
@@ -451,6 +449,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-7.ctv$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-73.ctv$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-84.ctv$[BD]广东卫视
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-90.m3u8$[BD]广东卫视
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-92.m3u8$[BD]广东卫视
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-13.m3u8$[BD]广东少儿
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-17.ctv$[BD]广东少儿
@@ -583,7 +582,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 新野新闻综合频道,https://stream1.freetv.fun/xin-ye-xin-wen-zong-he-1.m3u8$[BD]新野新闻综合频道
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8$[BD]新闻综合
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8$[BD]新闻综合
-明珠,https://stream1.freetv.fun/ming-zhu-1.ctv$[BD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-11.ctv$[HD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-12.ctv$[BD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-2.ctv$[HD]明珠
