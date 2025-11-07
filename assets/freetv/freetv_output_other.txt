@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251108 05:12:09,url
+20251108 07:14:47,url
 
 
 freetv_other,#genre#
@@ -96,7 +96,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv
-刘德华,https://stream1.freetv.fun/liu-de-hua-3.m3u8
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-13.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-5.m3u8
@@ -310,6 +309,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-10.ctv
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-7.ctv
 泌阳新闻综合,https://stream1.freetv.fun/mi-yang-xin-wen-zong-he-2.m3u8
+洪金宝,https://stream1.freetv.fun/hong-jin-bao-1.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-1.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-12.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-4.m3u8
