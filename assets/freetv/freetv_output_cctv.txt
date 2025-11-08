@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251108 07:14:47,url
+20251108 15:14:32,url
 
 
 freetv_cctv,#genre#
@@ -88,7 +88,6 @@ CCTV16,https://stream1.freetv.fun/cctv16-47.m3u8
 CCTV16,https://stream1.freetv.fun/cctv16-4k-3.m3u8
 CCTV17,https://stream1.freetv.fun/cctv-17-20.ctv
 CCTV17,https://stream1.freetv.fun/cctv17-22.ctv
-CCTV17,https://stream1.freetv.fun/cctv17-31.ctv
 CCTV17,https://stream1.freetv.fun/cctv17-35.m3u8
 CCTV17,https://stream1.freetv.fun/cctv17-5.m3u8
 CCTV17,https://stream1.freetv.fun/cctv17-6.m3u8
@@ -102,7 +101,6 @@ CCTV2,https://stream1.freetv.fun/cctv2-53.ctv
 CCTV2,https://stream1.freetv.fun/cctv2-55.m3u8
 CCTV2,https://stream1.freetv.fun/cctv2-59.ctv
 CCTV2,https://stream1.freetv.fun/cctv2-71.ctv
-CCTV2,https://stream1.freetv.fun/cctv2-76.ctv
 CCTV3,https://stream1.freetv.fun/cctv-3-12.ctv
 CCTV3,https://stream1.freetv.fun/cctv3-10.ctv
 CCTV3,https://stream1.freetv.fun/cctv3-15.m3u8
@@ -126,9 +124,9 @@ CCTV4,https://stream1.freetv.fun/cctv4-77.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-79.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-81.ctv
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-6.m3u8
+CCTV5,https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-7.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-17.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-23.ctv
-CCTV5,https://stream1.freetv.fun/cctv5-26.ctv
 CCTV5,https://stream1.freetv.fun/cctv5-38.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-40.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-55.m3u8
