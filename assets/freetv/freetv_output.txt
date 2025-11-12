@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251113 05:15:43,url
+20251113 07:15:54,url
 
 
 freetv,#genre#
@@ -469,6 +469,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 新野新闻综合频道,https://stream1.freetv.fun/xin-ye-xin-wen-zong-he-1.m3u8$[BD]新野新闻综合频道
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8$[BD]新闻综合
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8$[BD]新闻综合
+明珠,https://stream1.freetv.fun/ming-zhu-10.ctv$[BD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-11.ctv$[HD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-12.ctv$[BD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-2.ctv$[HD]明珠
