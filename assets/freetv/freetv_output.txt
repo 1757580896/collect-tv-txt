@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251112 07:14:58,url
+20251112 15:16:37,url
 
 
 freetv,#genre#
@@ -70,7 +70,6 @@ CCTV16,https://stream1.freetv.fun/cctv16-15.m3u8$[BD]cctv16
 CCTV16,https://stream1.freetv.fun/cctv16-33.m3u8$[BD]cctv16
 CCTV16,https://stream1.freetv.fun/cctv16-46.m3u8$[BD]cctv16
 CCTV16,https://stream1.freetv.fun/cctv16-47.m3u8$[BD]cctv16
-CCTV16,https://stream1.freetv.fun/cctv16-4k-3.m3u8$[BD]cctv16-4k
 CCTV17,https://stream1.freetv.fun/cctv-17-20.ctv$[BD]cctv-17
 CCTV17,https://stream1.freetv.fun/cctv17-35.m3u8$[BD]cctv17
 CCTV17,https://stream1.freetv.fun/cctv17-5.m3u8$[BD]cctv17
@@ -80,7 +79,6 @@ CCTV2,https://stream1.freetv.fun/cctv2-35.m3u8$[HD]cctv2
 CCTV2,https://stream1.freetv.fun/cctv2-44.m3u8$[BD]cctv2
 CCTV2,https://stream1.freetv.fun/cctv2-53.ctv$[BD]cctv2
 CCTV2,https://stream1.freetv.fun/cctv2-55.m3u8$[BD]cctv2
-CCTV2,https://stream1.freetv.fun/cctv2-59.ctv$[HD]cctv2
 CCTV2,https://stream1.freetv.fun/cctv2-71.ctv$[BD]cctv2
 CCTV2,https://stream1.freetv.fun/cctv2-78.m3u8$[BD]cctv2
 CCTV3,https://stream1.freetv.fun/cctv3-15.m3u8$[BD]cctv3
@@ -191,6 +189,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-44.m3u8$[HD]东南卫视
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-75.ctv$[BD]东南卫视
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-84.m3u8$[BD]东南卫视
+东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-85.m3u8$[BD]东南卫视
 东南卫视,https://stream1.freetv.fun/ipv6-dong-nan-wei-shi-79.m3u8$[BD]东南卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-11.m3u8$[BD]东方卫视
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-17.m3u8$[BD]东方卫视
@@ -255,6 +254,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-30.m3u8$[HD]内蒙古卫视
 内蒙古蒙语卫视,https://stream1.freetv.fun/nei-meng-gu-meng-yu-wei-shi-7.m3u8$[BD]内蒙古蒙语卫视
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-13.ctv$[HD]凤凰中文
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv$[HD]凤凰中文
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-19.ctv$[HD]凤凰中文
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-3.ctv$[BD]凤凰中文
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-7.m3u8$[HD]凤凰中文
@@ -263,6 +263,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv$[HD]凤凰资讯
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-23.ctv$[HD]凤凰资讯
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-4.ctv$[HD]凤凰资讯
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv$[HD]凤凰香港
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv$[HD]凤凰香港
@@ -463,7 +464,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-9.m3u8$[HD]广州新闻
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-1.m3u8$[HD]广州法治
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-11.m3u8$[HD]广州法治
-广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-13.ctv$[BD]广州法治
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-14.ctv$[BD]广州法治
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-17.ctv$[HD]广州法治
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-2.m3u8$[HD]广州法治
@@ -611,6 +611,8 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-50.ctv$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-68.ctv$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-7.m3u8$[HD]浙江卫视
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-73.m3u8$[BD]浙江卫视
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-75.ctv$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-84.ctv$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-88.m3u8$[BD]浙江卫视
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-1.m3u8$[BD]浙江国际
@@ -633,6 +635,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-40.m3u8$[HD]海南卫视
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-47.m3u8$[HD]海南卫视
 海南卫视,https://stream1.freetv.fun/hai-nan-wei-shi-67.m3u8$[BD]海南卫视
+海南文旅,https://stream1.freetv.fun/hai-nan-wen-lu-8.ctv$[BD]海南文旅
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-10.m3u8$[BD]海峡卫视
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-2.m3u8$[BD]海峡卫视
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-4.m3u8$[BD]海峡卫视
@@ -721,7 +724,6 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新闻
 翡翠,https://stream1.freetv.fun/fei-cui-13.ctv$[BD]翡翠
 翡翠,https://stream1.freetv.fun/fei-cui-14.ctv$[BD]翡翠
 翡翠,https://stream1.freetv.fun/fei-cui-15.ctv$[BD]翡翠
-翡翠,https://stream1.freetv.fun/fei-cui-19.ctv$[BD]翡翠
 翡翠,https://stream1.freetv.fun/fei-cui-20.ctv$[BD]翡翠
 翡翠,https://stream1.freetv.fun/fei-cui-4.ctv$[BD]翡翠
 翡翠,https://stream1.freetv.fun/fei-cui-5.ctv$[BD]翡翠
