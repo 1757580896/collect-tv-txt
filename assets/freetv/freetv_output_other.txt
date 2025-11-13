@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251114 05:15:37,url
+20251114 07:15:54,url
 
 
 freetv_other,#genre#
@@ -63,6 +63,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-12.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-11.ctv
+五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-7.ctv
 亚洲新闻,https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
 佛山公共,https://stream1.freetv.fun/fo-shan-gong-gong-13.ctv
@@ -107,7 +108,7 @@ tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-5.ctv
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
 吴江新闻综合,https://stream1.freetv.fun/wu-jiang-xin-wen-zong-he-1.m3u8
-嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-15.ctv
+哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-24.m3u8
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-19.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-28.ctv
