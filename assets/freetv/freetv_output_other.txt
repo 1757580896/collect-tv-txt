@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251116 05:13:11,url
+20251116 07:14:54,url
 
 
 freetv_other,#genre#
@@ -105,6 +105,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-1.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-28.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-6.ctv
+嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-2.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-4.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-7.m3u8
@@ -284,6 +285,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-1.ctv
 登封新闻综合频道,https://stream1.freetv.fun/deng-feng-xin-wen-zong-he-1.m3u8
 确山新闻综合频道,https://stream1.freetv.fun/que-shan-xin-wen-zong-he-1.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-4.m3u8
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-7.m3u8
