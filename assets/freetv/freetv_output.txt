@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251120 05:12:48,url
+20251120 07:15:49,url
 
 
 freetv,#genre#
@@ -28,14 +28,12 @@ CCTV10,https://stream1.freetv.fun/cctv10-79.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-8.ctv$[BD]cctv10
 CCTV11,https://stream1.freetv.fun/cctv-11-21.ctv$[BD]cctv-11
 CCTV11,https://stream1.freetv.fun/cctv-11-4.ctv$[HD]cctv-11
-CCTV11,https://stream1.freetv.fun/cctv-11-7.ctv$[BD]cctv-11
 CCTV11,https://stream1.freetv.fun/cctv11-29.m3u8$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-33.m3u8$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-50.ctv$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-54.m3u8$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-70.ctv$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-72.m3u8$[BD]cctv11
-CCTV12,https://stream1.freetv.fun/cctv-12-7.ctv$[BD]cctv-12
 CCTV12,https://stream1.freetv.fun/cctv-12gao-qing-4.m3u8$[BD]cctv-12高清
 CCTV12,https://stream1.freetv.fun/cctv12-22.ctv$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-31.m3u8$[BD]cctv12
@@ -45,7 +43,6 @@ CCTV12,https://stream1.freetv.fun/cctv12-52.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-79.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-9.ctv$[BD]cctv12
 CCTV13,https://stream1.freetv.fun/cctv-13-1.m3u8$[BD]cctv-13
-CCTV13,https://stream1.freetv.fun/cctv-13-10.ctv$[BD]cctv-13
 CCTV13,https://stream1.freetv.fun/cctv-13-7.ctv$[HD]cctv-13
 CCTV13,https://stream1.freetv.fun/cctv13-11.ctv$[BD]cctv13
 CCTV13,https://stream1.freetv.fun/cctv13-22.m3u8$[BD]cctv13
@@ -106,7 +103,6 @@ CCTV4,https://stream1.freetv.fun/cctv4-5.ctv$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-6.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-79.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-84.ctv$[BD]cctv4
-CCTV4,https://stream1.freetv.fun/cctv4k-1.ctv$[BD]cctv4k
 CCTV4,https://stream1.freetv.fun/cctv4k-4.m3u8$[BD]cctv4k
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-3.ctv$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-6.m3u8$[BD]cctv5_plus
@@ -160,7 +156,6 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-3.ctv$[BD]chc�
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-5.ctv$[BD]chc家庭影院
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.ctv$[BD]chc家庭影院
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv$[BD]chc家庭影院
-CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-10.m3u8$[BD]chc高清电影
 CHC影迷电影,https://stream1.freetv.fun/chcgao-qing-dian-ying-9.m3u8$[BD]chc高清电影
 cgtn,https://stream1.freetv.fun/cgtn-1.m3u8$[BD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8$[HD]cgtn
