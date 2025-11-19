@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251119 07:15:09,url
+20251119 15:16:39,url
 
 
 freetv_ws,#genre#
@@ -154,7 +154,6 @@ freetv_ws,#genre#
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-88.m3u8
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-93.ctv
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-10.m3u8
-河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-19.m3u8
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-45.m3u8
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-49.m3u8
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-55.m3u8
