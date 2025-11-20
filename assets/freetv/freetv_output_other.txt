@@ -1,10 +1,10 @@
 更新时间,#genre#
-20251121 05:15:21,url
+20251121 07:15:28,url
 
 
 freetv_other,#genre#
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-16.m3u8
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-31.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-5.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-11.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-18.ctv
@@ -84,6 +84,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 中視,https://stream1.freetv.fun/zhong-shi-2.ctv
 中視,https://stream1.freetv.fun/zhong-shi-7.ctv
 中視,rtmp://f13h.mine.nu/sat/tv091
+中视,https://stream1.freetv.fun/zhong-shi-1.ctv
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-11.ctv
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-5.m3u8
@@ -134,8 +135,10 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
 吴江新闻综合,https://stream1.freetv.fun/wu-jiang-xin-wen-zong-he-1.m3u8
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-14.m3u8
+哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-18.m3u8
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-10.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-21.ctv
+嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-22.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-25.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-26.ctv
@@ -357,6 +360,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-1.ctv
 緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-2.ctv
+緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-5.ctv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-4.m3u8
@@ -417,7 +421,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-3.m3u8
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-4.m3u8
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-44.m3u8
+金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-13.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-45.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-5.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-10.m3u8
