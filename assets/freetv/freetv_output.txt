@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251123 05:14:08,url
+20251123 07:15:19,url
 
 
 freetv,#genre#
@@ -42,7 +42,6 @@ CCTV12,https://stream1.freetv.fun/cctv12-52.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-67.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-79.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-9.ctv$[BD]cctv12
-CCTV13,https://stream1.freetv.fun/cctv-13-1.m3u8$[BD]cctv-13
 CCTV13,https://stream1.freetv.fun/cctv-13-7.ctv$[HD]cctv-13
 CCTV13,https://stream1.freetv.fun/cctv13-11.m3u8$[BD]cctv13
 CCTV13,https://stream1.freetv.fun/cctv13-22.m3u8$[BD]cctv13
@@ -190,6 +189,7 @@ tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-5.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-8.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-9.m3u8$[BD]tvbs亚洲
 tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8$[BD]tvbs亞洲
+tvbs新聞,https://stream1.freetv.fun/tvbsxin-wen-1.ctv$[BD]tvbs新聞
 tvbs新聞,https://stream1.freetv.fun/tvbsxin-wen-5.ctv$[BD]tvbs新聞
 tvbs新聞,https://stream1.freetv.fun/tvbsxin-wen-6.ctv$[BD]tvbs新聞
 tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv$[HD]tvbs新闻
@@ -222,7 +222,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-38.m3u8$[BD]东南卫视
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-4.m3u8$[BD]东南卫视
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-44.m3u8$[HD]东南卫视
-东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-73.m3u8$[BD]东南卫视
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-75.ctv$[BD]东南卫视
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-81.m3u8$[BD]东南卫视
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-82.m3u8$[HD]东南卫视
@@ -252,6 +251,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 中天娛樂,https://stream1.freetv.fun/zhong-tian-yu-le-4.ctv$[BD]中天娛樂
 中天娛樂,https://stream1.freetv.fun/zhong-tian-yu-le-6.ctv$[BD]中天娛樂
 中天娛樂,https://stream1.freetv.fun/zhong-tian-yu-le-7.ctv$[BD]中天娛樂
+中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-1.ctv$[BD]中天新聞
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-10.ctv$[BD]中天新聞
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-2.ctv$[BD]中天新闻
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-3.ctv$[BD]中天新聞
@@ -295,7 +295,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-37.m3u8$[BD]兵团卫视
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8$[HD]内江综合
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-12.m3u8$[BD]内蒙古卫视
-内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-25.m3u8$[BD]内蒙古卫视
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-29.m3u8$[BD]内蒙古卫视
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-30.m3u8$[HD]内蒙古卫视
 内蒙古蒙语卫视,https://stream1.freetv.fun/nei-meng-gu-meng-yu-wei-shi-7.m3u8$[BD]内蒙古蒙语卫视
@@ -333,6 +332,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-3.m3u8$[HD]南宁都市生活
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-4.m3u8$[HD]南宁都市生活
 南宁都市生活频道,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-2.m3u8$[HD]南宁都市生活频道
+博斯運動一,https://stream1.freetv.fun/bo-si-yun-dong-yi-1.ctv$[BD]博斯運動一
 博斯運動一,https://stream1.freetv.fun/bo-si-yun-dong-yi-2.ctv$[BD]博斯運動一
 博斯運動一,https://stream1.freetv.fun/bo-si-yun-dong-yi-5.ctv$[BD]博斯運動一
 台視,https://stream1.freetv.fun/tai-shi-1.ctv$[BD]台視
@@ -395,6 +395,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-94.m3u8$[BD]安徽卫视
 宜兴新闻,https://stream1.freetv.fun/yi-xing-xin-wen-2.m3u8$[HD]宜兴新闻
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-3.ctv$[BD]寰宇新聞
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-4.ctv$[BD]寰宇新聞
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-5.ctv$[BD]寰宇新聞
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-6.ctv$[BD]寰宇新聞
 封丘新闻综合,https://stream1.freetv.fun/feng-qiu-xin-wen-zong-he-1.m3u8$[BD]封丘新闻综合
@@ -549,6 +550,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-8.m3u8$[BD]新疆卫视
 新野新闻综合频道,https://stream1.freetv.fun/xin-ye-xin-wen-zong-he-1.m3u8$[BD]新野新闻综合频道
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8$[BD]新闻综合
+明珠,https://stream1.freetv.fun/ming-zhu-10.ctv$[BD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-11.ctv$[BD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-2.ctv$[HD]明珠
 明珠,https://stream1.freetv.fun/ming-zhu-3.ctv$[HD]明珠
@@ -563,6 +565,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 晋城新闻,https://stream1.freetv.fun/jin-cheng-xin-wen-3.m3u8$[BD]晋城新闻
 晋城新闻,https://stream1.freetv.fun/jin-cheng-xin-wen-4.m3u8$[BD]晋城新闻
 東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-4.ctv$[BD]東森新聞
+東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv$[BD]東森新聞
 東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv$[BD]東森新聞
 東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv$[BD]東森新聞
 東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-9.ctv$[BD]東森新聞
@@ -629,6 +632,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-10.ctv$[BD]河南都市
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-7.ctv$[BD]河南都市
 泌阳新闻综合,https://stream1.freetv.fun/mi-yang-xin-wen-zong-he-2.m3u8$[BD]泌阳新闻综合
+洪金宝,https://stream1.freetv.fun/hong-jin-bao-4.m3u8$[HD]洪金宝
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-101.m3u8$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-102.ctv$[BD]浙江卫视
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-103.m3u8$[BD]浙江卫视
@@ -734,9 +738,11 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 确山新闻综合频道,https://stream1.freetv.fun/que-shan-xin-wen-zong-he-1.m3u8$[BD]确山新闻综合频道
 第一财经,https://stream1.freetv.fun/di-yi-cai-jing-6.m3u8$[BD]第一财经
 緯來日本,rtmp://f13h.mine.nu/sat/tv771$[HD]緯來日本
+緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-1.ctv$[BD]緯來電影
 緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-2.ctv$[BD]緯來電影
 緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-3.ctv$[BD]緯來電影
 緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-5.ctv$[BD]緯來電影
+緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-2.ctv$[BD]緯來體育
 緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-3.ctv$[BD]緯來體育
 緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-5.ctv$[BD]緯來體育
 緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-8.ctv$[BD]緯來體育

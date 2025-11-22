@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251123 05:14:08,url
+20251123 07:15:19,url
 
 
 freetv_ws,#genre#
@@ -8,7 +8,6 @@ freetv_ws,#genre#
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-38.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-4.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-44.m3u8
-东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-73.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-75.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-81.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-82.m3u8
@@ -33,7 +32,6 @@ freetv_ws,#genre#
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-7.ctv
 兵团卫视,https://stream1.freetv.fun/bing-tuan-wei-shi-37.m3u8
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-12.m3u8
-内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-25.m3u8
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-29.m3u8
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-30.m3u8
 内蒙古蒙语卫视,https://stream1.freetv.fun/nei-meng-gu-meng-yu-wei-shi-7.m3u8
