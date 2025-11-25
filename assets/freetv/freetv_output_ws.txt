@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251125 07:15:54,url
+20251125 15:17:14,url
 
 
 freetv_ws,#genre#
@@ -8,6 +8,7 @@ freetv_ws,#genre#
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-38.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-4.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-44.m3u8
+东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-49.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-75.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-103.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-31.ctv
