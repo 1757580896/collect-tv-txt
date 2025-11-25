@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251126 05:15:46,url
+20251126 07:15:43,url
 
 
 freetv_other,#genre#
@@ -104,6 +104,8 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-4.ctv
+刘德华,https://stream1.freetv.fun/liu-de-hua-4.m3u8
+刘德华,https://stream1.freetv.fun/liu-de-hua-7.m3u8
 剧集,https://stream1.freetv.fun/ju-ji-2.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-7.m3u8
@@ -171,7 +173,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-16.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-17.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-9.m3u8
-广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-gao-qing-3.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-15.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-21.ctv
