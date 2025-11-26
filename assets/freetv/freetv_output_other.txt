@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251127 05:14:42,url
+20251127 07:15:26,url
 
 
 freetv_other,#genre#
@@ -132,7 +132,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-18.m3u8
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-13.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-16.ctv
-嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-2.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-21.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-26.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-6.ctv
