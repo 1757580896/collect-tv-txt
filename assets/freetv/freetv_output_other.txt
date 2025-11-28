@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251129 05:14:01,url
+20251129 07:15:33,url
 
 
 freetv_other,#genre#
@@ -50,7 +50,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-3.ctv
 tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 三立台灣,https://stream1.freetv.fun/san-li-tai-wan-3.ctv
 三立台灣,https://stream1.freetv.fun/san-li-tai-wan-7.ctv
-三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.ctv
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 三立都會,https://stream1.freetv.fun/san-li-du-hui-1.ctv
@@ -451,3 +450,4 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-7.ctv
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-7.ctv
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-8.ctv
+龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-9.ctv

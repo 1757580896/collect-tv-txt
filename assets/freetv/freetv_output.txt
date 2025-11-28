@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251129 05:14:01,url
+20251129 07:15:33,url
 
 
 freetv,#genre#
@@ -25,6 +25,7 @@ CCTV10,https://stream1.freetv.fun/cctv10-59.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-79.m3u8$[BD]cctv10
 CCTV10,https://stream1.freetv.fun/cctv10-8.ctv$[BD]cctv10
 CCTV11,https://stream1.freetv.fun/cctv-11-21.ctv$[BD]cctv-11
+CCTV11,https://stream1.freetv.fun/cctv-11xi-qu-2.m3u8$[BD]cctv-11戏曲
 CCTV11,https://stream1.freetv.fun/cctv11-10.m3u8$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-29.m3u8$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-33.m3u8$[BD]cctv11
@@ -66,6 +67,7 @@ CCTV14,https://stream1.freetv.fun/cctv14-56.m3u8$[BD]cctv14
 CCTV14,https://stream1.freetv.fun/cctv14-64.m3u8$[BD]cctv14
 CCTV14,https://stream1.freetv.fun/cctv14-65.m3u8$[BD]cctv14
 CCTV15,https://stream1.freetv.fun/cctv-15gao-qing-4.m3u8$[BD]cctv-15高清
+CCTV15,https://stream1.freetv.fun/cctv-15yin-le-3.m3u8$[BD]cctv-15音乐
 CCTV15,https://stream1.freetv.fun/cctv15-2.m3u8$[HD]cctv15
 CCTV15,https://stream1.freetv.fun/cctv15-40.m3u8$[BD]cctv15
 CCTV15,https://stream1.freetv.fun/cctv15-46.m3u8$[BD]cctv15
@@ -182,7 +184,7 @@ cetv1,https://stream1.freetv.fun/cetv1-10.m3u8$[BD]cetv1
 cgtn,https://stream1.freetv.fun/cgtn-1.m3u8$[BD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-31.ctv$[BD]cgtn
-cgtn,https://stream1.freetv.fun/cgtn-32.ctv$[HD]cgtn
+cgtn,https://stream1.freetv.fun/cgtn-32.ctv$[BD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-34.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-4.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-5.ctv$[BD]cgtn
@@ -208,7 +210,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-3.ctv$[HD]tvb星河
 tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 三立台灣,https://stream1.freetv.fun/san-li-tai-wan-3.ctv$[BD]三立台灣
 三立台灣,https://stream1.freetv.fun/san-li-tai-wan-7.ctv$[BD]三立台灣
-三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.ctv$[BD]三立新聞
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-5.ctv$[BD]三立新聞
 三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv$[BD]三立新聞
 三立都會,https://stream1.freetv.fun/san-li-du-hui-1.ctv$[BD]三立都會
@@ -408,6 +409,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-78.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-89.m3u8$[BD]山东卫视
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-95.m3u8$[HD]山东卫视
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-gao-qing-7.m3u8$[BD]山东卫视高清
 山东教育卫视,https://stream1.freetv.fun/shan-dong-jiao-yu-wei-shi-22.m3u8$[BD]山东教育卫视
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-104.m3u8$[BD]山西卫视
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-123.m3u8$[BD]山西卫视
@@ -901,3 +903,4 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-7.ctv$[BD]龍華戲劇
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-7.ctv$[BD]龍華電影
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-8.ctv$[BD]龍華電影
+龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-9.ctv$[BD]龍華電影

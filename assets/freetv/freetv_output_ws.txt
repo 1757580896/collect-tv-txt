@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251129 05:14:01,url
+20251129 07:15:33,url
 
 
 freetv_ws,#genre#
@@ -104,6 +104,7 @@ freetv_ws,#genre#
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-78.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-89.m3u8
 山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-95.m3u8
+山东卫视,https://stream1.freetv.fun/shan-dong-wei-shi-gao-qing-7.m3u8
 山东教育卫视,https://stream1.freetv.fun/shan-dong-jiao-yu-wei-shi-22.m3u8
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-104.m3u8
 山西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-123.m3u8
