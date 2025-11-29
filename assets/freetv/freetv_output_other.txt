@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251130 05:14:18,url
+20251130 07:15:10,url
 
 
 freetv_other,#genre#
@@ -323,6 +323,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
 湖州娱乐,https://stream1.freetv.fun/hu-zhou-yu-le-1.m3u8
+生活时尚,https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-24.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-21.m3u8
 电影,https://stream1.freetv.fun/dian-ying-108.m3u8
 电影,https://stream1.freetv.fun/dian-ying-19.ctv
