@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251204 15:18:40,url
+20251205 05:16:40,url
 
 
 freetv,#genre#
@@ -198,7 +198,7 @@ cetv1,https://stream1.freetv.fun/cetv1-3.m3u8$[BD]cetv1
 cgtn,https://stream1.freetv.fun/cgtn-1.m3u8$[BD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-26.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-31.ctv$[BD]cgtn
-cgtn,https://stream1.freetv.fun/cgtn-32.ctv$[HD]cgtn
+cgtn,https://stream1.freetv.fun/cgtn-32.ctv$[BD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-34.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-4.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-5.ctv$[BD]cgtn
@@ -227,7 +227,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-6.m3u8$[BD]tvbs歡樂
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-7.ctv$[BD]tvbs歡樂
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-8.m3u8$[BD]tvbs歡樂
 tvb星河,https://stream1.freetv.fun/tvbxing-he-1.ctv$[HD]tvb星河
-tvb星河,https://stream1.freetv.fun/tvbxing-he-3.ctv$[HD]tvb星河
 tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-58.m3u8$[BD]三沙卫视
 三立台灣,https://stream1.freetv.fun/san-li-tai-wan-3.ctv$[BD]三立台灣
@@ -309,6 +308,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 中視,https://stream1.freetv.fun/zhong-shi-8.m3u8$[BD]中視
 中視,https://stream1.freetv.fun/zhong-shi-9.m3u8$[BD]中視
 中視,rtmp://f13h.mine.nu/sat/tv091$[HD]中視
+中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-3.m3u8$[BD]中視新聞
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-4.m3u8$[BD]中視新聞
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-6.m3u8$[BD]中視新聞
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-9.m3u8$[BD]中視新聞
@@ -1068,6 +1068,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-72.m3u8$[BD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-76.m3u8$[BD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-80.m3u8$[HD]重庆卫视
+重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-92.m3u8$[BD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-93.m3u8$[HD]重庆卫视
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-94.m3u8$[BD]重庆卫视
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-3.m3u8$[BD]金川新闻综合
@@ -1161,12 +1162,9 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv$[HD]tvb星河
 黔南新闻综合,https://stream1.freetv.fun/qian-nan-xin-wen-zong-he-1.m3u8$[BD]黔南新闻综合
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-1.ctv$[BD]龍華戲劇
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-10.m3u8$[BD]龍華戲劇
-龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-3.m3u8$[BD]龍華戲劇
-龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-5.ctv$[BD]龍華戲劇
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-7.m3u8$[BD]龍華戲劇
+龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-9.m3u8$[BD]龍華戲劇
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-2.m3u8$[BD]龍華電影
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-4.m3u8$[BD]龍華電影
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-5.m3u8$[BD]龍華電影
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-6.m3u8$[BD]龍華電影
-龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-7.ctv$[BD]龍華電影
-龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-9.ctv$[BD]龍華電影

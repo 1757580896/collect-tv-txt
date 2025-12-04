@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251204 15:18:40,url
+20251205 05:16:40,url
 
 
 freetv_other,#genre#
@@ -56,7 +56,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-6.m3u8
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-7.ctv
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-8.m3u8
 tvb星河,https://stream1.freetv.fun/tvbxing-he-1.ctv
-tvb星河,https://stream1.freetv.fun/tvbxing-he-3.ctv
 tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 三立台灣,https://stream1.freetv.fun/san-li-tai-wan-3.ctv
 三立台灣,https://stream1.freetv.fun/san-li-tai-wan-6.ctv
@@ -109,6 +108,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 中視,https://stream1.freetv.fun/zhong-shi-8.m3u8
 中視,https://stream1.freetv.fun/zhong-shi-9.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
+中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-3.m3u8
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-4.m3u8
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-6.m3u8
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-9.m3u8
@@ -609,12 +609,9 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 黔南新闻综合,https://stream1.freetv.fun/qian-nan-xin-wen-zong-he-1.m3u8
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-1.ctv
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-10.m3u8
-龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-3.m3u8
-龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-5.ctv
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-7.m3u8
+龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-9.m3u8
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-2.m3u8
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-4.m3u8
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-5.m3u8
 龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-6.m3u8
-龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-7.ctv
-龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-9.ctv
