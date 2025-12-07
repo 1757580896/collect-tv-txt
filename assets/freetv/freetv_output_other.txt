@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251208 05:13:42,url
+20251208 07:14:54,url
 
 
 freetv_other,#genre#
@@ -180,6 +180,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 台視財經,https://stream1.freetv.fun/tai-shi-cai-jing-3.m3u8
 台視財經,https://stream1.freetv.fun/tai-shi-cai-jing-4.m3u8
 吴江新闻综合,https://stream1.freetv.fun/wu-jiang-xin-wen-zong-he-1.m3u8
+哈哈炫动,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-29.m3u8
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-16.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-21.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-26.ctv
@@ -264,7 +265,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-3.m3u8
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-5.m3u8
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-7.ctv
-广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-17.m3u8
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-1.ctv
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-11.m3u8
