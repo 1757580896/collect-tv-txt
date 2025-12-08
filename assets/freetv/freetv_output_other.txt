@@ -1,11 +1,9 @@
 更新时间,#genre#
-20251209 05:15:10,url
+20251209 07:16:42,url
 
 
 freetv_other,#genre#
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-14.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-16.m3u8
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-25.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-11.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-17.m3u8
@@ -430,7 +428,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-3.ctv
 緯來電影,https://stream1.freetv.fun/wei-lai-dian-ying-5.ctv
 緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-3.ctv
-緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-5.ctv
 緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-8.ctv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -507,7 +504,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 金鹰卡通,https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-32.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-25.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-34.m3u8
-金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-43.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-17.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-43.m3u8
 镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa50
