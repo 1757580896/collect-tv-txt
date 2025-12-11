@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251212 05:18:54,url
+20251212 07:17:29,url
 
 
 freetv_other,#genre#
@@ -271,6 +271,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-6.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-7.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-gao-qing-2.m3u8
+广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-gao-qing-3.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-11.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-19.m3u8
@@ -348,7 +349,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-6.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-8.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-9.m3u8
-揭阳公共,https://stream1.freetv.fun/jie-yang-gong-gong-2.m3u8
 揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8
 新乡县新闻综合频道,https://stream1.freetv.fun/xin-xiang-xian-xin-wen-zong-he-1.m3u8
 新乡综合,https://stream1.freetv.fun/xin-xiang-zong-he-1.m3u8
@@ -616,6 +616,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 靖天戲劇,https://stream1.freetv.fun/jing-tian-xi-ju-14.m3u8
 靖天戲劇,https://stream1.freetv.fun/jing-tian-xi-ju-15.m3u8
 靖天戲劇,https://stream1.freetv.fun/jing-tian-xi-ju-4.m3u8
+靖天戲劇,https://stream1.freetv.fun/jing-tian-xi-ju-6.m3u8
 靖天戲劇,https://stream1.freetv.fun/jing-tian-xi-ju-7.m3u8
 靖天戲劇,https://stream1.freetv.fun/jing-tian-xi-ju-8.m3u8
 靖天戲劇,https://stream1.freetv.fun/jing-tian-xi-ju-9.m3u8
@@ -668,6 +669,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 非凡商業,https://stream1.freetv.fun/fei-fan-shang-ye-5.m3u8
 非凡商業,https://stream1.freetv.fun/fei-fan-shang-ye-6.m3u8
 非凡商業,https://stream1.freetv.fun/fei-fan-shang-ye-7.m3u8
+非凡商業,https://stream1.freetv.fun/fei-fan-shang-ye-8.m3u8
 非凡新聞,https://stream1.freetv.fun/fei-fan-xin-wen-1.m3u8
 非凡新聞,https://stream1.freetv.fun/fei-fan-xin-wen-3.m3u8
 非凡新聞,https://stream1.freetv.fun/fei-fan-xin-wen-7.m3u8
