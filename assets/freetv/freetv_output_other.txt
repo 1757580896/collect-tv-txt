@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251213 07:16:41,url
+20251213 15:16:35,url
 
 
 freetv_other,#genre#
@@ -84,7 +84,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-10.m3u8
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-14.m3u8
-中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-5.ctv
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-6.m3u8
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-7.m3u8
 中視新聞,https://stream1.freetv.fun/zhong-shi-xin-wen-9.m3u8
@@ -139,6 +138,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 公視戲劇,https://stream1.freetv.fun/gong-shi-xi-ju-4.m3u8
 公視戲劇,https://stream1.freetv.fun/gong-shi-xi-ju-8.m3u8
 公視戲劇,https://stream1.freetv.fun/gong-shi-xi-ju-9.m3u8
+兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-4.m3u8
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.ctv
@@ -180,7 +180,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-15.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-16.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8
-台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-18.ctv
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-5.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-6.m3u8
@@ -265,7 +264,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-3.m3u8
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-15.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-6.ctv
-广东综艺,https://stream1.freetv.fun/yan-dong-zong-yi-6.ctv
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.m3u8
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-1.m3u8
 广州南国都市,https://stream1.freetv.fun/yan-zhou-nan-guo-du-shi-2.m3u8
@@ -395,7 +393,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 民视,https://stream1.freetv.fun/min-shi-11.ctv
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,rtmp://f13h.mine.nu:1935/sat/tv051
-民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-20.ctv
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-5.m3u8
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.m3u8
@@ -408,7 +405,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-1.ctv
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-10.ctv
 河南都市,https://stream1.freetv.fun/he-nan-du-shi-7.ctv
-洪金宝,https://stream1.freetv.fun/hong-jin-bao-2.ctv
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-3.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-1.m3u8
