@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251214 07:15:13,url
+20251214 15:17:09,url
 
 
 freetv_ws,#genre#
@@ -13,7 +13,6 @@ freetv_ws,#genre#
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-60.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-63.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-79.m3u8
-东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-81.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-105.m3u8
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-108.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-31.ctv
@@ -36,7 +35,6 @@ freetv_ws,#genre#
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-5.m3u8
 人间卫视,https://stream1.freetv.fun/ren-jian-wei-shi-7.ctv
 内蒙古蒙语卫视,https://stream1.freetv.fun/nei-meng-gu-meng-yu-wei-shi-7.m3u8
-北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-12.ctv
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-21.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-50.m3u8
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-51.m3u8
@@ -152,7 +150,6 @@ freetv_ws,#genre#
 浙江卫视,https://stream1.freetv.fun/ipv6-zhe-jiang-wei-shi-83.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-103.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-107.ctv
-浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-110.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-18.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-20.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-30.m3u8
