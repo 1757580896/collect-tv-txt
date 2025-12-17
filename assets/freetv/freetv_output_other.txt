@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251217 07:16:24,url
+20251217 15:20:18,url
 
 
 freetv_other,#genre#
@@ -193,7 +193,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-4.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv
-刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 十堰经济,https://stream1.freetv.fun/shi-yan-jing-ji-1.m3u8
 十堰经济旅游,https://stream1.freetv.fun/shi-yan-jing-ji-lu-you-2.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-3.m3u8
@@ -270,6 +269,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-7.m3u8
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-8.m3u8
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-9.m3u8
+寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-2.ctv
 寰宇財經,https://stream1.freetv.fun/huan-yu-cai-jing-1.m3u8
 寰宇財經,https://stream1.freetv.fun/huan-yu-cai-jing-10.m3u8
 寰宇財經,https://stream1.freetv.fun/huan-yu-cai-jing-13.m3u8
@@ -294,6 +294,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-1.ctv
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-10.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-3.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-4.ctv
@@ -377,6 +378,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-6.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-7.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-8.ctv
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-9.m3u8
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-15.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-6.ctv
 广东综艺,https://stream1.freetv.fun/yan-dong-zong-yi-6.ctv
@@ -436,7 +438,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-5.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-6.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-9.m3u8
-揭阳公共,https://stream1.freetv.fun/jie-yang-gong-gong-2.m3u8
 新乡县新闻综合频道,https://stream1.freetv.fun/xin-xiang-xian-xin-wen-zong-he-1.m3u8
 新乡综合,https://stream1.freetv.fun/xin-xiang-zong-he-1.m3u8
 新县新闻综合,https://stream1.freetv.fun/xin-xian-xin-wen-zong-he-1.m3u8
