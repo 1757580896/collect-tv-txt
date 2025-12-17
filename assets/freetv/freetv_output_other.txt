@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251218 05:17:34,url
+20251218 07:16:48,url
 
 
 freetv_other,#genre#
@@ -195,6 +195,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-4.ctv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv
+刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 十堰经济,https://stream1.freetv.fun/shi-yan-jing-ji-1.m3u8
 十堰经济旅游,https://stream1.freetv.fun/shi-yan-jing-ji-lu-you-2.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-3.m3u8
@@ -423,8 +424,8 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-3.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-4.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-5.m3u8
-影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-6.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-9.m3u8
+揭阳公共,https://stream1.freetv.fun/jie-yang-gong-gong-2.m3u8
 揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-5.m3u8
 新乡县新闻综合频道,https://stream1.freetv.fun/xin-xiang-xian-xin-wen-zong-he-1.m3u8
 新乡综合,https://stream1.freetv.fun/xin-xiang-zong-he-1.m3u8
