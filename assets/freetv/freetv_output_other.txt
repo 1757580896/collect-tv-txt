@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251218 15:20:47,url
+20251219 05:15:25,url
 
 
 freetv_other,#genre#
@@ -21,6 +21,8 @@ cgtn,https://stream1.freetv.fun/cgtn-34.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-4.m3u8
 cgtn,https://stream1.freetv.fun/cgtn-5.ctv
 cgtn,https://stream1.freetv.fun/cgtn-7.m3u8
+nba tv,https://stream1.freetv.fun/nba-tv-1.ctv
+nba tv,https://stream1.freetv.fun/nba-tv-5.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-1.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-13.m3u8
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-15.m3u8
@@ -35,7 +37,6 @@ tvbs新聞,https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
 tvbs新聞,https://stream1.freetv.fun/tvbsxin-wen-5.m3u8
 tvbs新聞,https://stream1.freetv.fun/tvbsxin-wen-7.m3u8
 tvbs新聞,https://stream1.freetv.fun/tvbsxin-wen-9.m3u8
-tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-8.ctv
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-10.m3u8
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-11.m3u8
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-12.m3u8
@@ -313,6 +314,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-10.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-11.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-17.ctv
+广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-5.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-6.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-7.m3u8
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-8.m3u8
@@ -417,6 +419,8 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-5.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-9.m3u8
 揭阳公共,https://stream1.freetv.fun/jie-yang-gong-gong-2.m3u8
+揭阳公共,https://stream1.freetv.fun/jie-yang-gong-gong-3.m3u8
+揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8
 揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-5.m3u8
 新乡县新闻综合频道,https://stream1.freetv.fun/xin-xiang-xian-xin-wen-zong-he-1.m3u8
 新乡综合,https://stream1.freetv.fun/xin-xiang-zong-he-1.m3u8
@@ -425,7 +429,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
 明珠,https://stream1.freetv.fun/ming-zhu-11.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-2.ctv
-明珠,https://stream1.freetv.fun/ming-zhu-3.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-4.ctv
 明珠,https://stream1.freetv.fun/ming-zhu-5.m3u8
 明珠,https://stream1.freetv.fun/ming-zhu-7.ctv
@@ -583,13 +586,12 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
 湖州娱乐,https://stream1.freetv.fun/hu-zhou-yu-le-1.m3u8
-电影,https://stream1.freetv.fun/dian-ying-40.m3u8
+电影,https://stream1.freetv.fun/dian-ying-109.ctv
 电影,https://stream1.freetv.fun/dian-ying-44.ctv
+电影,https://stream1.freetv.fun/dian-ying-49.m3u8
 电影,https://stream1.freetv.fun/dian-ying-69.m3u8
 电影,https://stream1.freetv.fun/dian-ying-72.m3u8
 电影,https://stream1.freetv.fun/dian-ying-79.m3u8
-电影,https://stream1.freetv.fun/dian-ying-88.m3u8
-电影,https://stream1.freetv.fun/dian-ying-94.m3u8
 登封新闻综合频道,https://stream1.freetv.fun/deng-feng-xin-wen-zong-he-1.m3u8
 确山新闻综合频道,https://stream1.freetv.fun/que-shan-xin-wen-zong-he-1.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
@@ -616,6 +618,7 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 翡翠,https://stream1.freetv.fun/fei-cui-4.ctv
 翡翠,https://stream1.freetv.fun/fei-cui-5.ctv
 翡翠,https://stream1.freetv.fun/fei-cui-6.m3u8
+翡翠,https://stream1.freetv.fun/fei-cui-8.m3u8
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-1.m3u8
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-5.m3u8
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-6.m3u8
@@ -820,3 +823,9 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-3.m3u8
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-5.m3u8
 龍華戲劇,https://stream1.freetv.fun/long-hua-xi-ju-7.m3u8
+龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-1.m3u8
+龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-10.m3u8
+龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-11.m3u8
+龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-16.m3u8
+龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-5.m3u8
+龍華電影,https://stream1.freetv.fun/long-hua-dian-ying-7.m3u8
