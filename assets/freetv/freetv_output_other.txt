@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251220 05:17:06,url
+20251220 07:17:26,url
 
 
 freetv_other,#genre#
@@ -49,7 +49,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-5.m3u8
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-7.m3u8
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-8.m3u8
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8
-tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-10.m3u8
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.ctv
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-9.ctv
@@ -189,6 +188,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-13.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-14.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 十堰经济,https://stream1.freetv.fun/shi-yan-jing-ji-1.m3u8
@@ -425,6 +425,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-4.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-5.m3u8
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-9.m3u8
+揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8
 新乡县新闻综合频道,https://stream1.freetv.fun/xin-xiang-xian-xin-wen-zong-he-1.m3u8
 新乡综合,https://stream1.freetv.fun/xin-xiang-zong-he-1.m3u8
 新县新闻综合,https://stream1.freetv.fun/xin-xian-xin-wen-zong-he-1.m3u8
