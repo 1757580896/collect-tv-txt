@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251225 05:15:42,url
+20251225 07:16:32,url
 
 
 freetv_other,#genre#
@@ -253,6 +253,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv
 平舆新闻综合频道,https://stream1.freetv.fun/ping-yu-xin-wen-zong-he-1.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-25.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-34.m3u8
