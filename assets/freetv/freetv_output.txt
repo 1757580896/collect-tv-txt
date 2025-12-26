@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251227 05:15:39,url
+20251227 07:16:32,url
 
 
 freetv,#genre#
@@ -22,7 +22,6 @@ CCTV11,https://stream1.freetv.fun/cctv11-28.m3u8$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-3.m3u8$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-40.ctv$[BD]cctv11
 CCTV11,https://stream1.freetv.fun/cctv11-72.m3u8$[BD]cctv11
-CCTV11,https://stream1.freetv.fun/cctv11-xi-qu-14.ctv$[BD]cctv11-戏曲
 CCTV12,https://stream1.freetv.fun/cctv12-21.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-24.m3u8$[BD]cctv12
 CCTV12,https://stream1.freetv.fun/cctv12-29.ctv$[BD]cctv12
@@ -60,7 +59,6 @@ CCTV4,https://stream1.freetv.fun/cctv4-21.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-5.m3u8$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-84.ctv$[BD]cctv4
 CCTV4,https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.ctv$[BD]cctv4-中文国际
-CCTV4,https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-3.ctv$[BD]cctv4-中文国际
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-49.m3u8$[BD]cctv5_plus
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-54.ctv$[BD]cctv5_plus
 CCTV5,https://stream1.freetv.fun/cctv5-11.ctv$[BD]cctv5
@@ -75,7 +73,6 @@ CCTV6,https://stream1.freetv.fun/cctv6-6.m3u8$[BD]cctv6
 CCTV6,https://stream1.freetv.fun/cctv6-62.ctv$[BD]cctv6
 CCTV6,https://stream1.freetv.fun/cctv6-72.m3u8$[BD]cctv6
 CCTV6,https://stream1.freetv.fun/cctv6-74.m3u8$[BD]cctv6
-CCTV6,https://stream1.freetv.fun/cctv6-dian-ying-1.ctv$[BD]cctv6-电影
 CCTV7,https://stream1.freetv.fun/cctv7-18.m3u8$[BD]cctv7
 CCTV7,https://stream1.freetv.fun/cctv7-59.ctv$[BD]cctv7
 CCTV7,https://stream1.freetv.fun/cctv7-80.ctv$[BD]cctv7
@@ -277,6 +274,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-5.ctv$[HD]tvb星河
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8$[HD]凤凰中文
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-9.ctv$[HD]凤凰中文
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv$[HD]凤凰资讯
+刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv$[HD]刘德华
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-13.ctv$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-21.m3u8$[BD]北京卫视
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-28.ctv$[BD]北京卫视
