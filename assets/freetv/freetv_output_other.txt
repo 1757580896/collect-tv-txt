@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251226 07:16:35,url
+20251226 15:19:22,url
 
 
 freetv_other,#genre#
@@ -171,7 +171,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-5.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-9.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
-刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 十堰经济,https://stream1.freetv.fun/shi-yan-jing-ji-1.m3u8
 十堰经济旅游,https://stream1.freetv.fun/shi-yan-jing-ji-lu-you-2.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-3.m3u8
@@ -259,7 +258,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-5.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-1.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-10.ctv
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-11.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-12.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-3.ctv
@@ -329,7 +327,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-5.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-1.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-10.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-11.ctv
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-13.m3u8
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-14.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-2.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-3.ctv
