@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251227 07:16:32,url
+20251227 15:16:26,url
 
 
 freetv_cctv,#genre#
@@ -22,6 +22,7 @@ CCTV11,https://stream1.freetv.fun/cctv11-28.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-3.m3u8
 CCTV11,https://stream1.freetv.fun/cctv11-40.ctv
 CCTV11,https://stream1.freetv.fun/cctv11-72.m3u8
+CCTV12,https://stream1.freetv.fun/cctv-12she-hui-yu-fa-5.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-21.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-24.m3u8
 CCTV12,https://stream1.freetv.fun/cctv12-29.ctv
@@ -30,6 +31,7 @@ CCTV13,https://stream1.freetv.fun/cctv13-10.m3u8
 CCTV13,https://stream1.freetv.fun/cctv13-11.m3u8
 CCTV13,https://stream1.freetv.fun/cctv13-22.m3u8
 CCTV13,https://stream1.freetv.fun/cctv13-50.m3u8
+CCTV13,https://stream1.freetv.fun/cctv13-xin-wen-4.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-3.ctv
 CCTV14,https://stream1.freetv.fun/cctv14-40.m3u8
 CCTV14,https://stream1.freetv.fun/cctv14-42.m3u8
@@ -53,7 +55,6 @@ CCTV3,https://stream1.freetv.fun/cctv3-35.ctv
 CCTV3,https://stream1.freetv.fun/cctv3-50.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-6.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-62.m3u8
-CCTV3,https://stream1.freetv.fun/cctv3-65.ctv
 CCTV4,https://stream1.freetv.fun/cctv-4-asia-1.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-21.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-5.m3u8
@@ -77,6 +78,7 @@ CCTV7,https://stream1.freetv.fun/cctv7-18.m3u8
 CCTV7,https://stream1.freetv.fun/cctv7-59.ctv
 CCTV7,https://stream1.freetv.fun/cctv7-80.ctv
 CCTV7,https://stream1.freetv.fun/cctv7-82.m3u8
+CCTV8,https://stream1.freetv.fun/cctv-8dian-shi-ju-3.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-26.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-39.ctv
 CCTV8,https://stream1.freetv.fun/cctv8-41.m3u8
