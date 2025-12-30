@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251230 07:16:35,url
+20251230 15:20:28,url
 
 
 freetv_cctv,#genre#
@@ -47,10 +47,12 @@ CCTV3,https://stream1.freetv.fun/cctv-3gao-qing-3.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-35.ctv
 CCTV3,https://stream1.freetv.fun/cctv3-6.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-62.m3u8
+CCTV3,https://stream1.freetv.fun/cctv3-zong-yi-15.ctv
 CCTV4,https://stream1.freetv.fun/cctv-4-asia-1.m3u8
 CCTV4,https://stream1.freetv.fun/cctv-4gao-qing-3.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-5.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-84.ctv
+CCTV4,https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.ctv
 CCTV5+,https://stream1.freetv.fun/cctv5-plus-49.m3u8
 CCTV5,https://stream1.freetv.fun/cctv-5gao-qing-1.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-11.ctv
@@ -59,20 +61,25 @@ CCTV5,https://stream1.freetv.fun/cctv5-17.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-21.ctv
 CCTV5,https://stream1.freetv.fun/cctv5-55.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-70.m3u8
+CCTV5,https://stream1.freetv.fun/cctv5-ti-yu-6.ctv
 CCTV6,https://stream1.freetv.fun/cctv-6gao-qing-2.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-30.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-6.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-62.ctv
+CCTV6,https://stream1.freetv.fun/cctv6-70.ctv
 CCTV6,https://stream1.freetv.fun/cctv6-74.m3u8
 CCTV7,https://stream1.freetv.fun/cctv-7gao-qing-2.m3u8
+CCTV7,https://stream1.freetv.fun/cctv7-15.ctv
 CCTV7,https://stream1.freetv.fun/cctv7-30.m3u8
 CCTV7,https://stream1.freetv.fun/cctv7-80.ctv
 CCTV7,https://stream1.freetv.fun/cctv7-82.m3u8
+CCTV8,https://stream1.freetv.fun/cctv8-16.ctv
 CCTV8,https://stream1.freetv.fun/cctv8-20.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-41.m3u8
 CCTV8,https://stream1.freetv.fun/cctv8-67.ctv
 CCTV8,https://stream1.freetv.fun/cctv8-70.m3u8
 CCTV9,https://stream1.freetv.fun/cctv-9gao-qing-1.m3u8
+CCTV9,https://stream1.freetv.fun/cctv9-28.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-46.m3u8
 CCTV第一剧场,https://stream1.freetv.fun/cctvdi-yi-ju-chang-15.m3u8
 CCTV风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-11.m3u8
