@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260112 05:15:44,url
+20260112 07:16:31,url
 
 
 freetv_ws,#genre#
@@ -130,8 +130,8 @@ freetv_ws,#genre#
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-9.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi.m3u8
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1768162021-6-6-ce6ee645fc4b194f7554b9594496f34a&aliyun_uuid=daeb9b85-a72d-4c76-aae3-11e3d891a092
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-1.m3u8
+新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-2.m3u8
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-3.m3u8
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-4.m3u8
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi.php
@@ -163,26 +163,23 @@ freetv_ws,#genre#
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-7.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-8.php
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-9.m3u8
-河南卫视,http://121.12.173.38/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=41ca1ff388c1167d90c514551ce93cd6&wsTime=1768172774&wsSession=8cf9da34e72d096afbc1a4b6-176815837503966&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-1.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-10.m3u8
-河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-12.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
-河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-15.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-16.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-2.php
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-20.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-24.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-4.php
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-5.m3u8
-河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-6.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-7.php
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-8.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-9.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi.php
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1768157650-590a5ca7fa51595a290a2fa6a1cb7b35-0-467290a4dc4c014a2a8f71b3853b23c0
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-1-1.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-10.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-11.m3u8
+浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-12.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-13.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-14.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-15.m3u8
@@ -209,7 +206,6 @@ freetv_ws,#genre#
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-13.php
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-2.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.php
-深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-4.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-5.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-7.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-9.php
@@ -287,4 +283,3 @@ freetv_ws,#genre#
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-4.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-5.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
-黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-8.m3u8
