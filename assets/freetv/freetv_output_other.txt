@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260113 07:14:22,url
+20260113 15:22:33,url
 
 
 freetv_other,#genre#
@@ -283,6 +283,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 河南都市,https://t.freetv.fun/live/he-nan-du-shi.m3u8
 浙江公共新闻,https://t.freetv.fun/live/zhe-jiang-gong-gong-xin-wen.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
+浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-3.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji.m3u8
 浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-3.m3u8
 浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-4.m3u8
