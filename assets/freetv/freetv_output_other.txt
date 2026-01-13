@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260114 05:17:58,url
+20260114 07:17:10,url
 
 
 freetv_other,#genre#
@@ -73,6 +73,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 亞洲旅遊,https://t.freetv.fun/live/ya-zhou-lu-you-21.m3u8
 佛山公共,https://t.freetv.fun/live/fo-shan-gong-gong-1.m3u8
 佛山公共,https://t.freetv.fun/live/fo-shan-gong-gong.m3u8
+佛山综合,https://t.freetv.fun/live/fo-shan-zong-he.m3u8
 八大精彩,https://t.freetv.fun/live/ba-da-jing-cai-10.m3u8
 八大精彩,https://t.freetv.fun/live/ba-da-jing-cai-9.m3u8
 八大精彩,https://t.freetv.fun/live/ba-da-jing-cai.m3u8
@@ -170,6 +171,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-6.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen.m3u8
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-1.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-4.php
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-6.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng.m3u8
