@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260124 05:18:20,url
+20260124 07:18:12,url
 
 
 freetv_ws,#genre#
@@ -101,6 +101,7 @@ freetv_ws,#genre#
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-7.php
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-8.m3u8
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi.m3u8
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/5sq3R0W.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-12.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-8-1.php
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-9.m3u8
@@ -119,7 +120,6 @@ freetv_ws,#genre#
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-4.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-5.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-6.m3u8
-广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-7.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-8.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-9.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing.m3u8
@@ -133,6 +133,7 @@ freetv_ws,#genre#
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-1.php
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi-3.m3u8
 延边卫视,https://t.freetv.fun/live/yan-bian-wei-shi.m3u8
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1769202551-8-8-2a04aeee42b50cfa9c9eb68c7085b3f5&aliyun_uuid=f411eafc-9d92-4acd-a62e-09647a80f5d1
 新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi.php
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-11.php
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-13.php
@@ -156,6 +157,8 @@ freetv_ws,#genre#
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-7.php
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-8.php
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1769202775&k=1545daf29ad85b5ae7ade2d5c2c442bf
+河南卫视,http://121.12.173.38/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=47b9d889eb067af19d955b62658f357b&wsTime=1769213174&wsSession=8f7577afee5ef0bd670d0539-176919890644114&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-10.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-11.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
