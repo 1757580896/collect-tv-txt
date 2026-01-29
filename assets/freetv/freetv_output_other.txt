@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260130 05:23:26,url
+20260130 07:22:45,url
 
 
 freetv_other,#genre#
@@ -96,6 +96,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.php
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-12.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-19.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-2.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-24.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-3.m3u8
