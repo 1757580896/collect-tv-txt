@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260131 05:25:17,url
+20260131 07:21:47,url
 
 
 freetv_other,#genre#
@@ -30,7 +30,6 @@ tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-6.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-7.m3u8
 tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.php
-tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 上海新闻综合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-1.m3u8
 上海新闻综合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-2.m3u8
 上海都市,https://t.freetv.fun/live/shang-hai-du-shi-3.m3u8
@@ -91,6 +90,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.php
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-12.m3u8
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-19.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-2.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-3.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-4.m3u8
