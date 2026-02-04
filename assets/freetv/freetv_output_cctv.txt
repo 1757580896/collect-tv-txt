@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260205 05:29:29,url
+20260205 07:23:57,url
 
 
 freetv_cctv,#genre#
@@ -94,7 +94,6 @@ CCTV3,https://t.freetv.fun/live/cctv3-6.php
 CCTV3,https://t.freetv.fun/live/cctv3-9.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-zong-yi.php
 CCTV3,https://t.freetv.fun/live/cctv3.php
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-1.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-1.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-2.php
