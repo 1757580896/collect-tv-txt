@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260207 05:27:28,url
+20260207 07:21:41,url
 
 
 freetv,#genre#
@@ -226,7 +226,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php$[HD]tvb星河
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-2.php$[HD]凤凰香港
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-1.php$[BD]北京卫视
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-10.m3u8$[BD]北京卫视
-北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-12.php$[BD]北京卫视
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-2.m3u8$[BD]北京卫视
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-3.m3u8$[BD]北京卫视
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-4.m3u8$[BD]北京卫视
@@ -460,7 +459,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php$[HD]tvb星河
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-11.m3u8$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-12.php$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-14.m3u8$[BD]浙江卫视
-浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-15.m3u8$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-17.m3u8$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-18.m3u8$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-2.m3u8$[BD]浙江卫视
@@ -476,7 +474,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php$[HD]tvb星河
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-3.m3u8$[BD]浙江国际
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8$[HD]浙江国际
 浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-1.m3u8$[BD]浙江少儿
-浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-2.m3u8$[BD]浙江少儿
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8$[BD]浙江新闻
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8$[HD]浙江新闻
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8$[BD]浙江新闻
