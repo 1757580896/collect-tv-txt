@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260208 07:26:07,url
+20260208 15:36:31,url
 
 
 freetv_other,#genre#
@@ -73,7 +73,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 吴江新闻综合,https://t.freetv.fun/live/wu-jiang-xin-wen-zong-he.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-1.php
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-2.m3u8
-嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong.m3u8
 安徽影视,https://t.freetv.fun/live/an-hui-ying-shi-2.m3u8
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
 山东少儿,https://t.freetv.fun/live/shan-dong-shao-er.m3u8
