@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260210 07:33:56,url
+20260210 15:57:21,url
 
 
 freetv_other,#genre#
@@ -234,7 +234,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he.php
 西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁生活服务,https://t.freetv.fun/live/xi-zhu-sheng-huo-fu-wu-1.flv
 西宁生活服务,https://t.freetv.fun/live/xi-zhu-sheng-huo-fu-wu.m3u8
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he-1.m3u8
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he.m3u8
 金川新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he-1.m3u8
