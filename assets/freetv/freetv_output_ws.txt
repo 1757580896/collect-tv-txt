@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260212 05:30:31,url
+20260212 07:28:20,url
 
 
 freetv_ws,#genre#
@@ -18,7 +18,6 @@ freetv_ws,#genre#
 人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-3.m3u
 人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi.m3u
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-1.php
-北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-10.m3u8
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-3.m3u8
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-6.php
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi.m3u8
