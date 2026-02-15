@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260215 15:35:47,url
+20260216 05:21:20,url
 
 
 freetv_other,#genre#
@@ -118,6 +118,7 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang.m3u8
 广东经济科教,https://t.freetv.fun/live/yan-dong-jing-ji-ke-jiao-1.m3u8
 广东综艺,https://t.freetv.fun/live/yan-dong-zong-yi-1.m3u8
+广东综艺,https://t.freetv.fun/live/yan-dong-zong-yi-2.m3u8
 广东综艺,https://t.freetv.fun/live/yan-dong-zong-yi.m3u8
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-2.m3u8
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-3.m3u8
@@ -184,6 +185,7 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-6.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-8.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
+浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
