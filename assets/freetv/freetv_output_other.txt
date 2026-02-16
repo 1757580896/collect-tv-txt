@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260217 05:26:15,url
+20260217 07:25:46,url
 
 
 freetv_other,#genre#
@@ -182,7 +182,6 @@ tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.m3u8
 河南都市,https://t.freetv.fun/live/he-nan-du-shi-6.m3u8
 河南都市,https://t.freetv.fun/live/he-nan-du-shi-7.m3u8
 河南都市,https://t.freetv.fun/live/he-nan-du-shi-8.m3u8
-洪金宝,https://t.freetv.fun/live/hong-jin-bao-1.php
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji.m3u8
