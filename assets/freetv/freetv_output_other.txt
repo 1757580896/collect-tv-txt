@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260219 07:26:34,url
+20260219 15:47:42,url
 
 
 freetv_other,#genre#
@@ -115,7 +115,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-7.php
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang.m3u8
 广东经济科教,https://t.freetv.fun/live/yan-dong-jing-ji-ke-jiao-1.m3u8
-广东综艺,https://t.freetv.fun/live/yan-dong-zong-yi-1.m3u8
 广东综艺,https://t.freetv.fun/live/yan-dong-zong-yi-2.m3u8
 广东综艺,https://t.freetv.fun/live/yan-dong-zong-yi.m3u8
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-2.m3u8
@@ -150,7 +149,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-9.php
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
-广西都市,https://t.freetv.fun/live/yan-xi-du-shi.m3u8
 新乡综合,https://t.freetv.fun/live/xin-xiang-zong-he.m3u8
 新昌新聞綜合,https://t.freetv.fun/live/xin-chang-xin-wen-zong-he.m3u8
 新闻综合,https://t.freetv.fun/live/xin-wen-zong-he-1.m3u8
