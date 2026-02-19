@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260220 05:28:56,url
+20260220 07:26:50,url
 
 
 freetv_other,#genre#
@@ -75,7 +75,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong.m3u8
 安徽影视,https://t.freetv.fun/live/an-hui-ying-shi-2.m3u8
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
-岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-2.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-3.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
@@ -160,11 +159,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 永嘉新闻综合,https://t.freetv.fun/live/yong-jia-xin-wen-zong-he.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
 河北农民,https://t.freetv.fun/live/he-bei-nong-min.m3u8
-河南民生,https://t.freetv.fun/live/he-nan-min-sheng-2.m3u8
-河南民生,https://t.freetv.fun/live/he-nan-min-sheng-3.m3u8
-河南都市,https://t.freetv.fun/live/he-nan-du-shi-5.m3u8
-河南都市,https://t.freetv.fun/live/he-nan-du-shi-6.m3u8
-河南都市,https://t.freetv.fun/live/he-nan-du-shi-7.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-2.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
