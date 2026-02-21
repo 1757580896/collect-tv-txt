@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260222 05:20:12,url
+20260222 07:20:58,url
 
 
 freetv_other,#genre#
@@ -93,7 +93,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-3.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-4.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-6.m3u8
-广东民生,https://t.freetv.fun/live/yan-dong-min-sheng.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-10.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-3.m3u8
