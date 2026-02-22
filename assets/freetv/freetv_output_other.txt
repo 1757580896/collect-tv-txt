@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260222 15:33:35,url
+20260223 05:20:42,url
 
 
 freetv_other,#genre#
@@ -16,7 +16,6 @@ cgtn,https://t.freetv.fun/live/cgtn-5.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-7.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-8.m3u8
 cgtn,https://t.freetv.fun/live/cgtn.m3u8
-nba tv,https://t.freetv.fun/live/nba-tv-2.m3u8
 nba tv,https://t.freetv.fun/live/nba-tv.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-2.m3u8
@@ -38,6 +37,7 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-1.flv
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-3.m3u8
+中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 佛山公共,https://t.freetv.fun/live/fo-shan-gong-gong.m3u8
@@ -76,7 +76,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-4.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-9.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-1.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-1.php
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-2.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-3.m3u8
@@ -127,7 +126,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-2.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-21.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-3.m3u8
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-4.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
