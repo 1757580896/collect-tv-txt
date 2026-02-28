@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260301 05:17:59,url
+20260301 07:18:15,url
 
 
 freetv_other,#genre#
@@ -82,7 +82,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-13.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-14.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-3.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-4.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-7.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-8.m3u8
@@ -189,7 +188,6 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-6.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-8.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing.m3u8
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang.m3u8
 广东综艺,https://t.freetv.fun/live/yan-dong-zong-yi-1.m3u8
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-2.m3u8
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-3.m3u8
@@ -206,6 +204,7 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-6.php
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-7.m3u8
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
+广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-1.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
