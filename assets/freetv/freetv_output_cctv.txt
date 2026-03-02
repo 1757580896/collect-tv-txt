@@ -1,17 +1,22 @@
 更新时间,#genre#
-20260302 15:46:52,url
+20260303 05:28:51,url
 
 
 freetv_cctv,#genre#
+CCTV1,http://119.91.7.169:2026/ysws.php?id=CCTV1
+CCTV1,http://8.148.86.54:3300/608807420
 CCTV1,https://t.freetv.fun/live/cctv1-1.php
 CCTV1,https://t.freetv.fun/live/cctv1-2.m3u8
 CCTV1,https://t.freetv.fun/live/cctv1-3.php
+CCTV10,http://183.57.248.89:8183/tsfile/live/0010_1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10-2.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10-3.php
 CCTV10,https://t.freetv.fun/live/cctv10.php
 CCTV11,https://t.freetv.fun/live/cctv-11.php
 CCTV11,https://t.freetv.fun/live/cctv11-1.php
 CCTV11,https://t.freetv.fun/live/cctv11.php
+CCTV12,http://183.57.248.89:8183/tsfile/live/0012_1.m3u8
+CCTV12,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTEvaW5kZXgubTN1OA==
 CCTV12,https://t.freetv.fun/live/cctv12-2.php
 CCTV13,https://t.freetv.fun/live/cctv13-1.php
 CCTV13,https://t.freetv.fun/live/cctv13-2.php
@@ -19,16 +24,17 @@ CCTV13,https://t.freetv.fun/live/cctv13-21.m3u8
 CCTV13,https://t.freetv.fun/live/cctv13-5.php
 CCTV13,https://t.freetv.fun/live/cctv13-6.m3u8
 CCTV13,https://t.freetv.fun/live/cctv13-xin-wen-2.m3u8
-CCTV13,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
+CCTV14,http://183.57.248.89:8183/tsfile/live/0014_1.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14-8.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14.php
+CCTV15,http://183.57.248.89:8183/tsfile/live/0015_1.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-1.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-10.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-2.php
 CCTV15,https://t.freetv.fun/live/cctv15-3.php
 CCTV15,https://t.freetv.fun/live/cctv15-4.php
 CCTV15,https://t.freetv.fun/live/cctv15-5.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15yin-le-1.m3u8
+CCTV16,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV16,https://t.freetv.fun/live/cctv-16.php
 CCTV16,https://t.freetv.fun/live/cctv16-1.php
 CCTV16,https://t.freetv.fun/live/cctv16-2.m3u8
@@ -52,9 +58,8 @@ CCTV3,https://t.freetv.fun/live/cctv3-4.php
 CCTV3,https://t.freetv.fun/live/cctv3-5.php
 CCTV3,https://t.freetv.fun/live/cctv3-9.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3.php
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-1.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
+CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1772517600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-8ab61ae6c77ac2c3b41991f0e1e8e011&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4gao-qing-1.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-1.php
 CCTV4,https://t.freetv.fun/live/cctv4-2.php
@@ -75,15 +80,17 @@ CCTV5,https://t.freetv.fun/live/cctv5-4.php
 CCTV5,https://t.freetv.fun/live/cctv5-5.php
 CCTV5,https://t.freetv.fun/live/cctv5-6.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5.m3u8
-CCTV6,https://t.freetv.fun/live/cctv-6gao-qing-1.m3u8
+CCTV6,http://183.57.248.89:8183/tsfile/live/0006_1.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-1.php
 CCTV6,https://t.freetv.fun/live/cctv6-2.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-3.php
 CCTV6,https://t.freetv.fun/live/cctv6.php
+CCTV7,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNy9pbmRleC5tM3U4
 CCTV7,https://t.freetv.fun/live/cctv-7gao-qing-1.m3u8
 CCTV7,https://t.freetv.fun/live/cctv7-1.php
 CCTV7,https://t.freetv.fun/live/cctv7-3.m3u8
 CCTV7,https://t.freetv.fun/live/cctv7-5.m3u8
+CCTV8,http://nn.7x9d.cn/mk.php?ip=223.76.131.67:8014&id=cctv8
 CCTV8,https://t.freetv.fun/live/cctv8-2.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-4.php
 CCTV8,https://t.freetv.fun/live/cctv8.php
