@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260306 05:32:12,url
+20260306 07:48:03,url
 
 
 freetv_ws,#genre#
@@ -43,7 +43,6 @@ freetv_ws,#genre#
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-1.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-10.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-11.m3u8
-大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-12.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-18.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-2.m3u8
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-3.m3u8
