@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260309 05:20:00,url
+20260309 07:20:24,url
 
 
 freetv_other,#genre#
@@ -61,6 +61,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-2.php
+凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-6.php
 剧集,https://t.freetv.fun/live/ju-ji.flv
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
 南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le-3.m3u8
@@ -103,7 +104,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-10.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-2.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-3.m3u8
-广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-6.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-7.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-8.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-9.m3u8
@@ -150,7 +150,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-6.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-7.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-8.m3u8
-广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-9.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-1.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-10.m3u8
