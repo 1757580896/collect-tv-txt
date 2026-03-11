@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260312 05:29:50,url
+20260312 07:21:57,url
 
 
 freetv,#genre#
@@ -161,7 +161,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-7.m3u8$[BD]东方卫视
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi.m3u8$[BD]东方卫视
 东方卫视高清,https://t.freetv.fun/live/dong-fang-wei-shi-gao-qing.m3u8$[BD]东方卫视高清
-东森电影,https://t.freetv.fun/live/dong-sen-dian-ying-2.m3u8$[BD]东森电影
 东森电影,https://t.freetv.fun/live/dong-sen-dian-ying.m3u8$[BD]东森电影
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou-1-1.m3u8$[BD]东森美洲
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou-1.m3u8$[BD]东森美洲
@@ -234,7 +233,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-1.m3u8$[BD]大湾区卫视
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-10.m3u8$[BD]大湾区卫视
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-11.m3u8$[BD]大湾区卫视
-大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-18.m3u8$[BD]大湾区卫视
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-2.m3u8$[BD]大湾区卫视
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-4.m3u8$[BD]大湾区卫视
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-5.m3u8$[BD]大湾区卫视
@@ -429,7 +427,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 明珠,https://t.freetv.fun/live/ming-zhu.php$[BD]明珠
 晋城新闻,https://t.freetv.fun/live/jin-cheng-xin-wen.m3u8$[BD]晋城新闻
 民視新聞,https://t.freetv.fun/live/min-shi-xin-wen-2.m3u8$[BD]民視新聞
-民视,https://t.freetv.fun/live/min-shi-1.m3u8$[HD]民视
 民视台湾,https://t.freetv.fun/live/min-shi-tai-wan-1.m3u8$[BD]民视台湾
 民视台湾,https://t.freetv.fun/live/min-shi-tai-wan.m3u8$[BD]民视台湾
 民视新闻,https://t.freetv.fun/live/min-shi-xin-wen.m3u8$[BD]民视新闻
@@ -466,13 +463,11 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-8.php$[BD]河南卫视
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi.php$[BD]河南卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-1.m3u8$[BD]浙江卫视
-浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-10.m3u8$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-2.php$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-20.m3u8$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-3.php$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-5.m3u8$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-8.m3u8$[BD]浙江卫视
-浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-9.m3u8$[BD]浙江卫视
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-gao-qing.m3u8$[BD]浙江卫视高清
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi.php$[BD]浙江卫视
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8$[BD]浙江国际
