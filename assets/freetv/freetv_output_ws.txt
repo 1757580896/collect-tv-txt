@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260316 05:25:11,url
+20260316 07:25:49,url
 
 
 freetv_ws,#genre#
@@ -92,9 +92,7 @@ freetv_ws,#genre#
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-16.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-2.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-3.m3u8
-广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-4.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-5.m3u8
-广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-6.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-7.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-8.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-9.m3u8
@@ -130,9 +128,11 @@ freetv_ws,#genre#
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-2.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-3.php
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-6.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-7.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-8.php
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-9.php
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi.php
+浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-1.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-2.php
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-20.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-5.m3u8
