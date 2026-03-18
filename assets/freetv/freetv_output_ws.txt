@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260319 05:30:46,url
+20260319 07:27:51,url
 
 
 freetv_ws,#genre#
@@ -104,7 +104,6 @@ freetv_ws,#genre#
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-6.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-7.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-8.m3u8
-广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-9.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi.php
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-1.m3u8

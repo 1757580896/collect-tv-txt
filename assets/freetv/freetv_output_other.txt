@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260319 05:30:46,url
+20260319 07:27:51,url
 
 
 freetv_other,#genre#
@@ -82,7 +82,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-9.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-1.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-10.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-12.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-13.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-2.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-3.m3u8
