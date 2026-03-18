@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260318 07:29:15,url
+20260318 15:49:32,url
 
 
 freetv_ws,#genre#
@@ -90,6 +90,7 @@ freetv_ws,#genre#
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-6.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-9.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-gao-qing.m3u8
+江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-1.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-2.php
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-7.php
