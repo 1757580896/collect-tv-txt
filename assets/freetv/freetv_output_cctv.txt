@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260319 07:27:51,url
+20260319 15:45:08,url
 
 
 freetv_cctv,#genre#
@@ -64,8 +64,11 @@ CCTV3,https://t.freetv.fun/live/cctv3-3.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-9.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-zong-yi-1.php
 CCTV3,https://t.freetv.fun/live/cctv3.php
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-1.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4gao-qing.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4hd-1.m3u8
@@ -80,7 +83,6 @@ CCTV4,https://t.freetv.fun/live/cctv4k-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4k.php
 CCTV4K,https://t.freetv.fun/live/cctv4k-1.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv4k-3.m3u8
-CCTV4欧洲,https://t.freetv.fun/live/cctv4ou-zhou.m3u8
 CCTV4美洲,https://t.freetv.fun/live/cctv4mei-zhou.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-1.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-2.php
@@ -116,9 +118,7 @@ CCTV8,https://t.freetv.fun/live/cctv8-3.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-4.php
 CCTV8,https://t.freetv.fun/live/cctv8-5.php
 CCTV8,https://t.freetv.fun/live/cctv8-dian-shi-ju-1.php
-CCTV8,https://t.freetv.fun/live/cctv8.m3u8
 CCTV9,https://t.freetv.fun/live/cctv-9gao-qing.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-3.m3u8
-CCTV9,https://t.freetv.fun/live/cctv9.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 CCTV风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
