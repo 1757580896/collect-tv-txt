@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260321 05:26:47,url
+20260321 07:25:57,url
 
 
 freetv_other,#genre#
@@ -59,6 +59,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-2.php
+凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-6.php
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.php
 刘德华,https://t.freetv.fun/live/liu-de-hua.flv
 剧集,https://t.freetv.fun/live/ju-ji.flv
@@ -79,13 +80,12 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-8.m3u8
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
 寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-1.php
-岭南戏曲,http://www.8888866.xyz:10000/udp/239.77.0.122:5146
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-2.m3u8
+岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-4.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-2.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
-广东体育,http://www.8888866.xyz:10000/udp/239.77.0.112:5146
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-1.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-4.php
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
@@ -102,8 +102,9 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-8.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-9.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing.m3u8
-广东少儿,http://yahao.myqnapcloud.com:4022/udp/239.77.0.250:5146
+广东体育,https://t.freetv.fun/live/yan-dong-ti-yu.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-1.m3u8
+广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-2.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-3.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-6.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-7.php
@@ -148,10 +149,10 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-8.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen.m3u8
-广东民生,http://www.8888866.xyz:10000/udp/239.77.0.225:5146
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-1.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-3.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-6.m3u8
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-10.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-13.m3u8
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-2.m3u8
