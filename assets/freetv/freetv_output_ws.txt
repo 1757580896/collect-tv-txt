@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260320 07:26:47,url
+20260320 15:43:11,url
 
 
 freetv_ws,#genre#
@@ -10,7 +10,6 @@ freetv_ws,#genre#
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-4.php
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-6.php
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-1.m3u8
-东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-11.php
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-4.m3u8
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-7.m3u8
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi.m3u8
@@ -29,7 +28,6 @@ freetv_ws,#genre#
 北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi.m3u8
 吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-3.m3u8
 吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-4.m3u8
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-1.m3u8
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-11.php
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-2.php
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-6.m3u8
@@ -48,7 +46,6 @@ freetv_ws,#genre#
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-4.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-6.m3u8
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-9.m3u8
-天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi.m3u8
 安多卫视,https://t.freetv.fun/live/an-duo-wei-shi-1-1.m3u8
 安多卫视,https://t.freetv.fun/live/an-duo-wei-shi.m3u8
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-2.m3u8
@@ -124,7 +121,6 @@ freetv_ws,#genre#
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-gao-qing.m3u8
 海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-1.m3u8
-深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-10.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-2.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-5.m3u8
