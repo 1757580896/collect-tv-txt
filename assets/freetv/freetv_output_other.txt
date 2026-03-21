@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260321 07:25:57,url
+20260321 15:30:41,url
 
 
 freetv_other,#genre#
@@ -28,9 +28,7 @@ tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-6.m3u8
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou-7.m3u8
 tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
-tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.php
 tvb星河,https://t.freetv.fun/live/tvbxing-he-2.m3u8
-tvb星河,https://t.freetv.fun/live/tvbxing-he-3.php
 tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 上虞文化,https://t.freetv.fun/live/shang-yu-wen-hua.m3u8
 上虞文化影院,https://t.freetv.fun/live/shang-yu-wen-hua-ying-yuan.m3u8
@@ -61,7 +59,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-2.php
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-6.php
 凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang.php
-刘德华,https://t.freetv.fun/live/liu-de-hua.flv
 剧集,https://t.freetv.fun/live/ju-ji.flv
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-1.m3u8
@@ -146,7 +143,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-5.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-6.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-7.m3u8
-广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-8.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-1.m3u8
