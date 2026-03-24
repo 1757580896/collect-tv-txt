@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260324 07:29:11,url
+20260324 15:51:49,url
 
 
 freetv_cctv,#genre#
@@ -10,6 +10,7 @@ CCTV1,https://t.freetv.fun/live/cctv1zong-he-1.m3u8
 CCTV1,https://t.freetv.fun/live/cctv1zong-he.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10-2.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10-3.php
+CCTV10,https://t.freetv.fun/live/cctv-10.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10hd.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-2.php
@@ -17,6 +18,7 @@ CCTV10,https://t.freetv.fun/live/cctv10.php
 CCTV10,https://t.freetv.fun/live/cctv10ke-jiao-1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10ke-jiao.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11.php
+CCTV11,https://t.freetv.fun/live/cctv-11hd-1.m3u8
 CCTV11,https://t.freetv.fun/live/cctv11-xi-qu-1.php
 CCTV11,https://t.freetv.fun/live/cctv11.php
 CCTV11,https://t.freetv.fun/live/cctv11xi-qu-1.m3u8
@@ -70,9 +72,6 @@ CCTV3,https://t.freetv.fun/live/cctv3.php
 CCTV3,https://t.freetv.fun/live/cctv3zong-yi-1.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3zong-yi.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-1.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4hd-1.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-1.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-2.php
@@ -102,7 +101,6 @@ CCTV5,https://t.freetv.fun/live/cctv5ti-yu-1.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5ti-yu.m3u8
 CCTV6,https://t.freetv.fun/live/cctv-6hd.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-1.m3u8
-CCTV6,https://t.freetv.fun/live/cctv6-2.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-3.php
 CCTV6,https://t.freetv.fun/live/cctv6-dian-ying-1.php
 CCTV6,https://t.freetv.fun/live/cctv6.php
@@ -117,7 +115,6 @@ CCTV7,https://t.freetv.fun/live/cctv7.m3u8
 CCTV8,https://t.freetv.fun/live/cctv-8hd.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-1.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-2.php
-CCTV8,https://t.freetv.fun/live/cctv8-3.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-4.php
 CCTV8,https://t.freetv.fun/live/cctv8-5.php
 CCTV8,https://t.freetv.fun/live/cctv8-dian-shi-ju-1.php
