@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260329 05:26:47,url
+20260329 07:28:05,url
 
 
 freetv_other,#genre#
@@ -46,7 +46,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
 东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.m3u8
 中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-5.php
-中天新聞,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen-3.php
 中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
 中视,https://t.freetv.fun/live/zhong-shi-3.php
