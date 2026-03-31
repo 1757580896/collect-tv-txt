@@ -1,14 +1,12 @@
 更新时间,#genre#
-20260331 07:31:29,url
+20260331 16:06:29,url
 
 
 freetv_other,#genre#
-CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-3.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
-CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-3.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3u8
@@ -62,7 +60,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 东森电影,https://t.freetv.fun/live/dong-sen-dian-ying-1.m3u8
 东森电影,https://t.freetv.fun/live/dong-sen-dian-ying-2.m3u8
 东森电影,https://t.freetv.fun/live/dong-sen-dian-ying-3.php
-东森电影,https://t.freetv.fun/live/dong-sen-dian-ying.m3u8
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou-1-1.m3u8
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou-1.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
@@ -73,7 +70,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-4.m3u8
 中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-5.php
 中視,https://t.freetv.fun/live/zhong-shi-16.m3u8
-中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen-1.php
 中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen-2.m3u8
 中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen-3.php
 中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
@@ -85,11 +81,11 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-6.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
+佛山公共,https://t.freetv.fun/live/fo-shan-gong-gong-1.m3u8
 佛山公共,https://t.freetv.fun/live/fo-shan-gong-gong.m3u8
 兰溪新闻综合,https://t.freetv.fun/live/lan-xi-xin-wen-zong-he.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-1.php
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-4.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-5.m3u8
@@ -102,7 +98,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-1.m3u8
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-3.m3u8
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-5.m3u8
-动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang.m3u8
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong-1.m3u8
 南宁公共,https://t.freetv.fun/live/nan-zhu-gong-gong.m3u8
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-1.m3u8
@@ -123,19 +118,16 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-2.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-4.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-5.php
-宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
 寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-3.php
+岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-2.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-2.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-1.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-10.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-3.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-4.php
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-5.m3u8
-广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-8.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-9.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-1.m3u8
@@ -249,9 +241,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-8.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-9.m3u8
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-1.m3u8
-广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-1.m3u8
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-10.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-14.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-15.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-16.php
@@ -263,7 +253,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-5.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-7.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-8.m3u8
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he-9.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.php
 广西影视,https://t.freetv.fun/live/yan-xi-ying-shi-1.m3u8
 广西影视,https://t.freetv.fun/live/yan-xi-ying-shi-2.m3u8
@@ -300,6 +289,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
 浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-1.m3u8
+浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-2.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8
@@ -370,7 +360,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui-3.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui-4.php
 翡翠,https://t.freetv.fun/live/fei-cui-5.m3u8
-翡翠,https://t.freetv.fun/live/fei-cui-7.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui-8.php
 翡翠,https://t.freetv.fun/live/fei-cui-9.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui.m3u8
@@ -384,7 +373,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 荆门新闻综合,https://t.freetv.fun/live/jing-men-xin-wen-zong-he-4.m3u8
 荆门新闻综合,https://t.freetv.fun/live/jing-men-xin-wen-zong-he-5.m3u8
 荆门新闻综合,https://t.freetv.fun/live/jing-men-xin-wen-zong-he.m3u8
-華視,https://t.freetv.fun/live/hua-shi-2.ts
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-2.m3u8
 萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he.m3u8
 西宁新闻综合,https://t.freetv.fun/live/xi-zhu-xin-wen-zong-he-1.flv
@@ -394,7 +382,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁生活服务,https://t.freetv.fun/live/xi-zhu-sheng-huo-fu-wu-1.flv
 西宁生活服务,https://t.freetv.fun/live/xi-zhu-sheng-huo-fu-wu.m3u8
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he-1.m3u8
 邢台综合,https://t.freetv.fun/live/xing-tai-zong-he.m3u8
 金川新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he-1.m3u8
