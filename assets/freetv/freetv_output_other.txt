@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260402 05:38:15,url
+20260402 07:33:20,url
 
 
 freetv_other,#genre#
@@ -19,7 +19,6 @@ CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 amc电影,https://t.freetv.fun/live/amcdian-ying.m3u8
 cetv1,https://t.freetv.fun/live/cetv1-2.m3u8
-cetv1,https://t.freetv.fun/live/cetv1-4.m3u8
 cetv1,https://t.freetv.fun/live/cetv1-5.m3u8
 cetv1,https://t.freetv.fun/live/cetv1-6.m3u8
 cetv1,https://t.freetv.fun/live/cetv1.m3u8
@@ -83,7 +82,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-1.m3u8
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-2.php
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.php
-刘德华,https://t.freetv.fun/live/liu-de-hua.flv
 剧集,https://t.freetv.fun/live/ju-ji.flv
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-1.m3u8
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-3.m3u8
