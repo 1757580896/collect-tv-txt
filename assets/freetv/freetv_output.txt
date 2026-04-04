@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260405 05:27:43,url
+20260405 07:27:30,url
 
 
 freetv,#genre#
@@ -320,8 +320,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-24.php$[BD]东方卫视
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-25.m3u8$[BD]东方卫视
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-26.m3u8$[BD]东方卫视
-东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-27.php$[BD]东方卫视
-东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-28.m3u8$[BD]东方卫视
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-29.m3u8$[BD]东方卫视
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-4.m3u8$[BD]东方卫视
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-7.m3u8$[BD]东方卫视
@@ -531,7 +529,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-18.m3u8$[BD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-19.php$[BD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-2.m3u8$[BD]安徽卫视
-安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-20.m3u8$[BD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-21.m3u8$[BD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-3.m3u8$[BD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-4.m3u8$[BD]安徽卫视
@@ -540,9 +537,9 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-7.m3u8$[HD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-9.m3u8$[BD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi.php$[BD]安徽卫视
-寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen-1-2.m3u8$[BD]寰宇新聞
+寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen-1-1.m3u8$[BD]寰宇新聞
 寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen.php$[BD]寰宇新聞
-寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-1-1.php$[BD]寰宇新闻
+寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-1.php$[BD]寰宇新闻
 寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-3.php$[BD]寰宇新闻
 寰宇財經,https://t.freetv.fun/live/huan-yu-cai-jing.php$[BD]寰宇財經
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-1.php$[BD]山东卫视
@@ -566,7 +563,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-8.m3u8$[BD]山东卫视
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-gao-qing.m3u8$[BD]山东卫视高清
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi.m3u8$[BD]山东卫视
-山东教育卫视,https://t.freetv.fun/live/shan-dong-jiao-yu-wei-shi.m3u8$[BD]山东教育卫视
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1.m3u8$[BD]山西卫视
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-10.m3u8$[BD]山西卫视
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-12.m3u8$[BD]山西卫视
@@ -833,7 +829,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-14.m3u8$[BD]广西卫视
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-15.m3u8$[BD]广西卫视
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-16.m3u8$[BD]广西卫视
-广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-17.m3u8$[HD]广西卫视
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-2.php$[BD]广西卫视
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-4.php$[BD]广西卫视
 广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-5.m3u8$[BD]广西卫视
@@ -1107,20 +1102,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 电影,https://t.freetv.fun/live/dian-ying-7.flv$[BD]电影
 电影,https://t.freetv.fun/live/dian-ying-9.flv$[BD]电影
 电影,https://t.freetv.fun/live/dian-ying.flv$[BD]电影
-福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8$[BD]福建公共
-福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8$[BD]福建公共
-福建少儿,https://t.freetv.fun/live/fu-jian-shao-er-1.m3u8$[BD]福建少儿
-福建少儿,https://t.freetv.fun/live/fu-jian-shao-er.m3u8$[BD]福建少儿
-福建教育,https://t.freetv.fun/live/fu-jian-jiao-yu-1.m3u8$[BD]福建教育
-福建教育,https://t.freetv.fun/live/fu-jian-jiao-yu.m3u8$[BD]福建教育
-福建新闻,https://t.freetv.fun/live/fu-jian-xin-wen-1.m3u8$[BD]福建新闻
-福建新闻,https://t.freetv.fun/live/fu-jian-xin-wen.m3u8$[BD]福建新闻
-福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8$[BD]福建旅游
-福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8$[BD]福建旅游
-福建电视剧,https://t.freetv.fun/live/fu-jian-dian-shi-ju-1.m3u8$[BD]福建电视剧
-福建电视剧,https://t.freetv.fun/live/fu-jian-dian-shi-ju.m3u8$[BD]福建电视剧
-福建综合,https://t.freetv.fun/live/fu-jian-zong-he-1.m3u8$[BD]福建综合
-福建综合,https://t.freetv.fun/live/fu-jian-zong-he.m3u8$[BD]福建综合
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-1.m3u8$[BD]第一财经
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-2.m3u8$[BD]第一财经
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-5.m3u8$[BD]第一财经

@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260405 05:27:43,url
+20260405 07:27:30,url
 
 
 freetv_other,#genre#
@@ -140,9 +140,9 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-5.php
 嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-7.m3u8
 四川科教,https://t.freetv.fun/live/si-chuan-ke-jiao.m3u8
-寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen-1-2.m3u8
+寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen-1-1.m3u8
 寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen.php
-寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-1-1.php
+寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-1.php
 寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-3.php
 寰宇財經,https://t.freetv.fun/live/huan-yu-cai-jing.php
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-2.m3u8
@@ -435,20 +435,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 电影,https://t.freetv.fun/live/dian-ying-7.flv
 电影,https://t.freetv.fun/live/dian-ying-9.flv
 电影,https://t.freetv.fun/live/dian-ying.flv
-福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
-福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
-福建少儿,https://t.freetv.fun/live/fu-jian-shao-er-1.m3u8
-福建少儿,https://t.freetv.fun/live/fu-jian-shao-er.m3u8
-福建教育,https://t.freetv.fun/live/fu-jian-jiao-yu-1.m3u8
-福建教育,https://t.freetv.fun/live/fu-jian-jiao-yu.m3u8
-福建新闻,https://t.freetv.fun/live/fu-jian-xin-wen-1.m3u8
-福建新闻,https://t.freetv.fun/live/fu-jian-xin-wen.m3u8
-福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
-福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
-福建电视剧,https://t.freetv.fun/live/fu-jian-dian-shi-ju-1.m3u8
-福建电视剧,https://t.freetv.fun/live/fu-jian-dian-shi-ju.m3u8
-福建综合,https://t.freetv.fun/live/fu-jian-zong-he-1.m3u8
-福建综合,https://t.freetv.fun/live/fu-jian-zong-he.m3u8
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-1.m3u8
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-2.m3u8
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-5.m3u8
