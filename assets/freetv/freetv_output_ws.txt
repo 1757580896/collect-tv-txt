@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260407 05:34:46,url
+20260407 07:32:20,url
 
 
 freetv_ws,#genre#
@@ -235,7 +235,6 @@ freetv_ws,#genre#
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-6.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-7.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-8.php
-江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-gao-qing.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-1.m3u8
 江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-10.m3u8
@@ -255,7 +254,6 @@ freetv_ws,#genre#
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-15.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-18.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-2.php
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-20.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-7.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-8.m3u8
@@ -286,11 +284,7 @@ freetv_ws,#genre#
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-20.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-21.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-22.m3u8
-浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-24.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-25.m3u8
-浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-26.m3u8
-浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-27.m3u8
-浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-28.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-29.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-3.m3u8
 浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-5.m3u8
