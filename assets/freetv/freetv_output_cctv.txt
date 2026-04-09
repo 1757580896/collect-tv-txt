@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260409 16:18:21,url
+20260410 05:42:10,url
 
 
 freetv_cctv,#genre#
@@ -109,13 +109,12 @@ CCTV3,https://t.freetv.fun/live/cctv3-5.php
 CCTV3,https://t.freetv.fun/live/cctv3-6.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-9.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-zong-yi.php
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-10.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-6.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-7.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-8.m3u8
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-9.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4gao-qing.m3u8
@@ -132,9 +131,6 @@ CCTV4,https://t.freetv.fun/live/cctv4-7.php
 CCTV4,https://t.freetv.fun/live/cctv4-8.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-zhong-wen-guo-ji.php
 CCTV4,https://t.freetv.fun/live/cctv4.m3u8
-CCTV4,https://t.freetv.fun/live/cctv4k-2.m3u8
-CCTV4,https://t.freetv.fun/live/cctv4k-4.m3u8
-CCTV4,https://t.freetv.fun/live/cctv4k-5.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4k-7.php
 CCTV4,https://t.freetv.fun/live/cctv4k.php
 CCTV4K,https://t.freetv.fun/live/cctv4k-1.m3u8
@@ -174,7 +170,6 @@ CCTV7,https://t.freetv.fun/live/cctv7-8.php
 CCTV7,https://t.freetv.fun/live/cctv7-9.m3u8
 CCTV7,https://t.freetv.fun/live/cctv7.m3u8
 CCTV8,https://t.freetv.fun/live/cctv-8.m3u8
-CCTV8,https://t.freetv.fun/live/cctv-8hd.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-2.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-3.php
 CCTV8,https://t.freetv.fun/live/cctv8-4.php
