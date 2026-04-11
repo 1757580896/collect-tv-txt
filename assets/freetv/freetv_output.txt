@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260412 05:28:40,url
+20260412 07:29:54,url
 
 
 freetv,#genre#
@@ -128,10 +128,10 @@ CCTV3,https://t.freetv.fun/live/cctv3-5.php$[BD]cctv3
 CCTV3,https://t.freetv.fun/live/cctv3-7.m3u8$[BD]cctv3
 CCTV3,https://t.freetv.fun/live/cctv3-zong-yi.php$[BD]cctv3-综艺
 CCTV3,https://t.freetv.fun/live/cctv3.m3u8$[BD]cctv3
-CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1775988000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5a39002f2c170f63f5b98204c146529b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8$[BD]cctv-4_中文国际
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4.m3u8$[BD]cctv-4
 CCTV4,https://t.freetv.fun/live/cctv-4gao-qing.m3u8$[BD]cctv-4高清
@@ -236,7 +236,6 @@ amc电影,https://t.freetv.fun/live/amcdian-ying.m3u8$[BD]amc电影
 cetv1,https://t.freetv.fun/live/cetv1-5.m3u8$[BD]cetv1
 cetv1,https://t.freetv.fun/live/cetv1.m3u8$[BD]cetv1
 cgtn,https://t.freetv.fun/live/cgtn-1.m3u8$[HD]cgtn
-cgtn,https://t.freetv.fun/live/cgtn-10.m3u8$[HD]cgtn
 cgtn,https://t.freetv.fun/live/cgtn-2.m3u8$[HD]cgtn
 cgtn,https://t.freetv.fun/live/cgtn-3.m3u8$[BD]cgtn
 cgtn,https://t.freetv.fun/live/cgtn-5.m3u8$[BD]cgtn
