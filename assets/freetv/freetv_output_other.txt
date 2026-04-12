@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260413 05:31:00,url
+20260413 07:31:19,url
 
 
 freetv_other,#genre#
@@ -85,7 +85,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-1.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-刘德华,https://t.freetv.fun/live/liu-de-hua.flv
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-3.m3u8
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-5.m3u8
 动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-6.m3u8
