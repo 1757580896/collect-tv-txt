@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260416 05:48:30,url
+20260416 07:38:36,url
 
 
 freetv,#genre#
@@ -86,13 +86,8 @@ CCTV3,https://t.freetv.fun/live/cctv3-1.m3u8$[BD]cctv3
 CCTV3,https://t.freetv.fun/live/cctv3-10.m3u8$[BD]cctv3
 CCTV3,https://t.freetv.fun/live/cctv3-2.m3u8$[BD]cctv3
 CCTV3,https://t.freetv.fun/live/cctv3-3.m3u8$[BD]cctv3
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8$[BD]cctv-4_中文国际
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8$[BD]cctv-4_中文国际
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-6.m3u8$[BD]cctv-4_中文国际
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-7.m3u8$[BD]cctv-4_中文国际
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4.m3u8$[BD]cctv-4
 CCTV4,https://t.freetv.fun/live/cctv-4hd-1.m3u8$[BD]cctv-4hd
 CCTV4,https://t.freetv.fun/live/cctv-4zhong-wen-guo-ji-2.m3u8$[BD]cctv-4中文国际
@@ -359,7 +354,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-4.m3u8$[BD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi-9.m3u8$[BD]安徽卫视
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi.m3u8$[BD]安徽卫视
-寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen-1-1.m3u8$[BD]寰宇新聞
+寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen-1.m3u8$[BD]寰宇新聞
 寰宇新聞,https://t.freetv.fun/live/huan-yu-xin-wen.php$[BD]寰宇新聞
 寰宇財經,https://t.freetv.fun/live/huan-yu-cai-jing.php$[BD]寰宇財經
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-10.m3u8$[BD]山东卫视
@@ -797,7 +792,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 电影,https://t.freetv.fun/live/dian-ying.flv$[HD]电影
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-2.m3u8$[BD]第一财经
 第一财经,https://t.freetv.fun/live/di-yi-cai-jing-5.m3u8$[BD]第一财经
-緯來電影,https://t.freetv.fun/live/wei-lai-dian-ying-1-1.php$[BD]緯來電影
 緯來電影,https://t.freetv.fun/live/wei-lai-dian-ying-1.php$[BD]緯來電影
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$[HD]纬来体育
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$[HD]纬来体育
