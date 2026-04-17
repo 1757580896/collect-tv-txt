@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260417 07:37:05,url
+20260417 16:24:39,url
 
 
 freetv_cctv,#genre#
@@ -45,6 +45,7 @@ CCTV14,https://t.freetv.fun/live/cctv-14shao-er-5.m3u8
 CCTV14,https://t.freetv.fun/live/cctv-14shao-er-7.m3u8
 CCTV14,https://t.freetv.fun/live/cctv-14shao-er.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14-1.m3u8
+CCTV14,https://t.freetv.fun/live/cctv14-5.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14-7.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14-8.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14.m3u8
