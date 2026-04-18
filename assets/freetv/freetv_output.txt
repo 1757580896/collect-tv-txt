@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260419 05:31:00,url
+20260419 07:31:13,url
 
 
 freetv,#genre#
@@ -92,6 +92,7 @@ CCTV3,https://t.freetv.fun/live/cctv3zong-yi.m3u8$[BD]cctv3综艺
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8$[BD]cctv-4_中文国际
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4.m3u8$[BD]cctv-4
 CCTV4,https://t.freetv.fun/live/cctv-4hd-1.m3u8$[BD]cctv-4hd
@@ -132,10 +133,10 @@ CCTV7,https://t.freetv.fun/live/cctv7-5.m3u8$[BD]cctv7
 CCTV7,https://t.freetv.fun/live/cctv7-9.m3u8$[BD]cctv7
 CCTV8,https://t.freetv.fun/live/cctv-8.m3u8$[BD]cctv-8
 CCTV8,https://t.freetv.fun/live/cctv-8hd.m3u8$[BD]cctv-8hd
+CCTV8,https://t.freetv.fun/live/cctv8-1-1.m3u8$[BD]cctv8
 CCTV8,https://t.freetv.fun/live/cctv8-1.m3u8$[BD]cctv8
 CCTV8,https://t.freetv.fun/live/cctv8-6.m3u8$[BD]cctv8
 CCTV8,https://t.freetv.fun/live/cctv8-7.m3u8$[BD]cctv8
-CCTV8,https://t.freetv.fun/live/cctv8.m3u8$[BD]cctv8
 CCTV9,https://t.freetv.fun/live/cctv-9.m3u8$[BD]cctv-9
 CCTV9,https://t.freetv.fun/live/cctv-9ji-lu.m3u8$[BD]cctv-9纪录
 CCTV9,https://t.freetv.fun/live/cctv9-1-1.m3u8$[BD]cctv9
@@ -579,7 +580,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8$[HD]tvb星河
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-7.m3u8$[BD]广东珠江高清
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-8.m3u8$[BD]广东珠江高清
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-9.m3u8$[BD]广东珠江高清
-广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing.m3u8$[BD]广东珠江高清
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang.m3u8$[BD]广东珠江
 广元综合,https://t.freetv.fun/live/yan-yuan-zong-he-1.m3u8$[HD]广元综合
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-2.m3u8$[BD]广州南国都市
