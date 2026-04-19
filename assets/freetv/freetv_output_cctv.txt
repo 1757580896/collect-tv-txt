@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260419 07:31:13,url
+20260419 16:04:44,url
 
 
 freetv_cctv,#genre#
@@ -23,6 +23,7 @@ CCTV11,https://t.freetv.fun/live/cctv11-5.m3u8
 CCTV11,https://t.freetv.fun/live/cctv11.m3u8
 CCTV11,https://t.freetv.fun/live/cctv11xi-qu.m3u8
 CCTV12,https://t.freetv.fun/live/cctv-12.m3u8
+CCTV12,https://t.freetv.fun/live/cctv-12hd.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12-4.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12-6.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12.m3u8
@@ -47,6 +48,7 @@ CCTV14,https://t.freetv.fun/live/cctv-14shao-er.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14-1.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14-7.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14-8.m3u8
+CCTV14,https://t.freetv.fun/live/cctv14.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14shao-er.m3u8
 CCTV15,https://t.freetv.fun/live/cctv-15-1.m3u8
 CCTV15,https://t.freetv.fun/live/cctv-15hd-1.m3u8
@@ -91,7 +93,6 @@ CCTV3,https://t.freetv.fun/live/cctv3-3.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3zong-yi.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4.m3u8
@@ -133,13 +134,12 @@ CCTV7,https://t.freetv.fun/live/cctv7-5.m3u8
 CCTV7,https://t.freetv.fun/live/cctv7-9.m3u8
 CCTV8,https://t.freetv.fun/live/cctv-8.m3u8
 CCTV8,https://t.freetv.fun/live/cctv-8hd.m3u8
-CCTV8,https://t.freetv.fun/live/cctv8-1-1.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-1.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-6.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-7.m3u8
+CCTV8,https://t.freetv.fun/live/cctv8.m3u8
 CCTV9,https://t.freetv.fun/live/cctv-9.m3u8
 CCTV9,https://t.freetv.fun/live/cctv-9ji-lu.m3u8
-CCTV9,https://t.freetv.fun/live/cctv9-1-1.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-1.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-3.m3u8
 CCTVNews,https://t.freetv.fun/live/cctvnews.m3u8
