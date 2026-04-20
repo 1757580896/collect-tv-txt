@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260420 07:33:05,url
+20260420 17:05:37,url
 
 
 freetv_cctv,#genre#
@@ -64,7 +64,6 @@ CCTV15,https://t.freetv.fun/live/cctv15.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15yin-le.m3u8
 CCTV16,https://t.freetv.fun/live/cctv-16.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-1.m3u8
-CCTV16,https://t.freetv.fun/live/cctv16-2.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-3.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-4.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-4k.m3u8
@@ -132,7 +131,6 @@ CCTV7,https://t.freetv.fun/live/cctv7-3.m3u8
 CCTV7,https://t.freetv.fun/live/cctv7-5.m3u8
 CCTV7,https://t.freetv.fun/live/cctv7-9.m3u8
 CCTV8,https://t.freetv.fun/live/cctv-8.m3u8
-CCTV8,https://t.freetv.fun/live/cctv-8hd.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-1.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-6.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-7.m3u8
@@ -143,5 +141,4 @@ CCTV9,https://t.freetv.fun/live/cctv9-1.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-3.m3u8
 CCTVNews,https://t.freetv.fun/live/cctvnews.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
-CCTV风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu-2.m3u8
 CCTV风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
