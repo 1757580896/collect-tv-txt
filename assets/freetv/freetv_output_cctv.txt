@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260421 05:42:31,url
+20260421 07:39:20,url
 
 
 freetv_cctv,#genre#
@@ -89,8 +89,8 @@ CCTV15,https://t.freetv.fun/live/cctv15yin-le-1.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15yin-le.m3u8
 CCTV16,https://t.freetv.fun/live/cctv-16.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-1.m3u8
+CCTV16,https://t.freetv.fun/live/cctv16-2.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-3.m3u8
-CCTV16,https://t.freetv.fun/live/cctv16-4.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-4k.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-5.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-6.m3u8
