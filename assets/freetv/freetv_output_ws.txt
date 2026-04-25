@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260426 05:33:17,url
+20260426 07:34:27,url
 
 
 freetv_ws,#genre#
@@ -12,7 +12,6 @@ freetv_ws,#genre#
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-11.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-12.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-2.m3u8
-东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-3.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-5.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-7.m3u8
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi.m3u8
@@ -221,7 +220,6 @@ freetv_ws,#genre#
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-22.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-23.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-3.m3u8
-江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-4.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-6.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-7.m3u8
 江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-8.m3u8
@@ -302,6 +300,7 @@ freetv_ws,#genre#
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-9.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi.m3u8
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-1.m3u8
+湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-10.m3u8
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-13.m3u8
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-15.m3u8
 湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-17.m3u8
@@ -399,5 +398,4 @@ freetv_ws,#genre#
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-3.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-4.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-5.m3u8
-黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi.m3u8
