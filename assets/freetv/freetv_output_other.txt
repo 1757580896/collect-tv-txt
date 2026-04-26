@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260427 05:34:39,url
+20260427 07:35:46,url
 
 
 freetv_other,#genre#
@@ -65,8 +65,8 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-6.m3u8
 中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
 中視,https://t.freetv.fun/live/zhong-shi-1.php
 中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.php
-中視新聞,https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
+中视经典,https://t.freetv.fun/live/zhong-shi-jing-dian.m3u8
 中视菁采,https://t.freetv.fun/live/zhong-shi-jing-cai.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-1.m3u8
 五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
@@ -98,7 +98,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-6.m3u8
 博斯高球二,https://t.freetv.fun/live/bo-si-gao-qiu-er.php
 博斯魅力,https://t.freetv.fun/live/bo-si-mei-li.php
 台視,https://t.freetv.fun/live/tai-shi.php
-台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
 台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
 台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
 台視新聞,https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
@@ -149,7 +148,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-6.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-10.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-4.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-6.m3u8
-广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-8.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-9.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-1.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-10.m3u8
@@ -185,7 +183,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-6.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-12.m3u8
-广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-3.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-9.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-1.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-10.m3u8
@@ -304,7 +301,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-6.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji.m3u8
 浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-1.m3u8
 浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-2.m3u8
-浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-5.m3u8
