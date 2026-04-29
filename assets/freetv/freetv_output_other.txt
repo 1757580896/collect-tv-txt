@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260430 05:56:33,url
+20260430 07:52:09,url
 
 
 freetv_other,#genre#
@@ -59,7 +59,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 公視戲劇,https://t.freetv.fun/live/gong-shi-xi-ju-1.php
 内江科教,rtmp://njzb.scnj.tv:1938/live/kjpd_kjpd800
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
@@ -96,6 +95,7 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-4.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-7.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-8.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
+嵊州新闻综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.m3u8
