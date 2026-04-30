@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260501 05:54:04,url
+20260501 07:50:17,url
 
 
 freetv_cctv,#genre#
@@ -13,12 +13,10 @@ CCTV10,https://t.freetv.fun/live/cctv-10hd-2.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10hd-3.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-7.m3u8
-CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-ke-jiao.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10ke-jiao.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11hd-2.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11hd-3.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11xi-qu.m3u8
 CCTV11,https://t.freetv.fun/live/cctv11-xi-qu-1.m3u8
 CCTV11,https://t.freetv.fun/live/cctv11xi-qu.m3u8
 CCTV12,https://t.freetv.fun/live/cctv-12hd-2.m3u8
@@ -52,7 +50,6 @@ CCTV15,https://t.freetv.fun/live/cctv-15hd-1.m3u8
 CCTV15,https://t.freetv.fun/live/cctv-15hd-2.m3u8
 CCTV15,https://t.freetv.fun/live/cctv-15yin-le-1.m3u8
 CCTV15,https://t.freetv.fun/live/cctv-15yin-le-7.m3u8
-CCTV15,https://t.freetv.fun/live/cctv-15yin-le.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-10.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15yin-le-1.m3u8
@@ -61,7 +58,6 @@ CCTV16,https://t.freetv.fun/live/cctv16-2.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-5.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-6.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16.m3u8
-CCTV17,https://t.freetv.fun/live/cctv-17hd.m3u8
 CCTV2,https://t.freetv.fun/live/cctv2-7.m3u8
 CCTV2,https://t.freetv.fun/live/cctv2cai-jing-1.m3u8
 CCTV2,https://t.freetv.fun/live/cctv2cai-jing.m3u8
@@ -78,7 +74,6 @@ CCTV3,https://t.freetv.fun/live/cctv3zong-yi.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4hd-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4hd-3.m3u8
