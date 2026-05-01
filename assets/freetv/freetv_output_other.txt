@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260502 05:50:31,url
+20260502 07:48:32,url
 
 
 freetv_other,#genre#
@@ -314,6 +314,7 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 淘电影,https://t.freetv.fun/live/tao-dian-ying-2.m3u8
 淘电影,https://t.freetv.fun/live/tao-dian-ying-3.m3u8
 淘电影,https://t.freetv.fun/live/tao-dian-ying.m3u8
+深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi-1.m3u8
 湖南公共,https://t.freetv.fun/live/hu-nan-gong-gong.m3u8
 湖南国际,https://t.freetv.fun/live/hu-nan-guo-ji.m3u8
 湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le.m3u8
