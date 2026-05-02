@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260503 05:37:00,url
+20260503 07:39:03,url
 
 
 freetv_ws,#genre#
@@ -122,13 +122,14 @@ freetv_ws,#genre#
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-9.m3u8
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1.m3u8
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-10.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-13.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-2-1.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-5.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-6-1.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-7-1.m3u8
-山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-8.m3u8
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-8-1.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-1.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-11.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-12.m3u8
@@ -207,6 +208,7 @@ freetv_ws,#genre#
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-11.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-12.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-13.m3u8
+河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-14.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-18.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-2.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-4.m3u8
@@ -224,6 +226,7 @@ freetv_ws,#genre#
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-16.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-17.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-18.m3u8
+河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-19.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-2.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-3.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-5.m3u8
