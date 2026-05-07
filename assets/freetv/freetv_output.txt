@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260508 05:54:20,url
+20260508 07:50:27,url
 
 
 freetv,#genre#
@@ -112,6 +112,7 @@ CCTV3,https://t.freetv.fun/live/cctv3-zong-yi-4.m3u8$[BD]cctv3-综艺
 CCTV3,https://t.freetv.fun/live/cctv3-zong-yi.m3u8$[BD]cctv3-综艺
 CCTV3,https://t.freetv.fun/live/cctv3.m3u8$[BD]cctv3
 CCTV4,https://t.freetv.fun/live/cctv-4-2.m3u8$[BD]cctv-4
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8$[BD]cctv-4_中文国际
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-7.m3u8$[BD]cctv-4_中文国际
@@ -899,6 +900,7 @@ tvbs歡樂,https://t.freetv.fun/live/tvbshuan-le.php$[BD]tvbs歡樂
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-26.m3u8$[BD]深圳卫视
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-27.m3u8$[BD]深圳卫视
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-28.m3u8$[HD]深圳卫视
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-29.m3u8$[BD]深圳卫视
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8$[BD]深圳卫视
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-4.m3u8$[BD]深圳卫视
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-5.m3u8$[BD]深圳卫视
