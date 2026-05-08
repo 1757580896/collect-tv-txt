@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260509 05:56:52,url
+20260509 07:53:59,url
 
 
 freetv_other,#genre#
@@ -115,6 +115,7 @@ tvbs亞洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-4.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-7.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-8.m3u8
+岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-9.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
 嵊州新闻综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he-1.m3u8
 嵊州新闻综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he.m3u8
