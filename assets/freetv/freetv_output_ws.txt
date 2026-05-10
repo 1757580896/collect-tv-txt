@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260511 05:43:57,url
+20260511 07:49:17,url
 
 
 freetv_ws,#genre#
@@ -163,6 +163,7 @@ freetv_ws,#genre#
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-8.m3u8
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-9.m3u8
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-gao-qing-1.m3u8
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/u3shogV.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-10.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-13.m3u8
@@ -285,6 +286,7 @@ freetv_ws,#genre#
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-8.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-9.m3u8
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi.m3u8
+河南卫视,http://113.96.145.61/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=642e22b76caaa34f0396bb3eee76a657&wsTime=1778461310&wsSession=df9dd7e40d5ee2cfd8c13547-177844721030651&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168295652121727136
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-1.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-10.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-11.m3u8
