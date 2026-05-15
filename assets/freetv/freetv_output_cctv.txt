@@ -1,44 +1,6 @@
 更新时间,#genre#
-20260515 07:54:38,url
+20260515 17:44:35,url
 
 
 freetv_cctv,#genre#
-CCTV1,https://t.freetv.fun/live/cctv1-1.m3u8
-CCTV1,https://t.freetv.fun/live/cctv1.m3u8
-CCTV10,https://t.freetv.fun/live/cctv-10gao-qing.m3u8
-CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao.m3u8
-CCTV10,https://t.freetv.fun/live/cctv10-ke-jiao.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11gao-qing.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11xi-qu.m3u8
-CCTV11,https://t.freetv.fun/live/cctv11-1.m3u8
-CCTV11,https://t.freetv.fun/live/cctv11-xi-qu.m3u8
-CCTV11,https://t.freetv.fun/live/cctv11.m3u8
-CCTV12,https://t.freetv.fun/live/cctv-12gao-qing.m3u8
-CCTV12,https://t.freetv.fun/live/cctv-12she-hui-yu-fa.m3u8
-CCTV13,https://t.freetv.fun/live/cctv-13.m3u8
-CCTV13,https://t.freetv.fun/live/cctv13-1.m3u8
-CCTV13,https://t.freetv.fun/live/cctv13-xin-wen-1.m3u8
-CCTV13,https://t.freetv.fun/live/cctv13-xin-wen.m3u8
-CCTV13,https://t.freetv.fun/live/cctv13.m3u8
-CCTV14,https://t.freetv.fun/live/cctv14-shao-er.m3u8
-CCTV15,https://t.freetv.fun/live/cctv-15.m3u8
-CCTV15,https://t.freetv.fun/live/cctv-15gao-qing.m3u8
-CCTV15,https://t.freetv.fun/live/cctv-15yin-le.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15-1.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15.m3u8
-CCTV17,https://t.freetv.fun/live/cctv-17gao-qing.m3u8
-CCTV2,https://t.freetv.fun/live/cctv2-cai-jing.m3u8
-CCTV2,https://t.freetv.fun/live/cctv2.m3u8
-CCTV3,https://t.freetv.fun/live/cctv-3gao-qing.m3u8
-CCTV3,https://t.freetv.fun/live/cctv3-zong-yi.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4gao-qing.m3u8
-CCTV4,https://t.freetv.fun/live/cctv4.m3u8
-CCTV5,https://t.freetv.fun/live/cctv5-ti-yu.m3u8
-CCTV6,https://t.freetv.fun/live/cctv-6gao-qing.m3u8
-CCTV6,https://t.freetv.fun/live/cctv6-dian-ying.m3u8
-CCTV7,https://t.freetv.fun/live/cctv-7gao-qing.m3u8
-CCTV8,https://t.freetv.fun/live/cctv-8dian-shi-ju.m3u8
-CCTV8,https://t.freetv.fun/live/cctv8-dian-shi-ju.m3u8
-CCTV9,https://t.freetv.fun/live/cctv-9gao-qing.m3u8
+CCTV5+,https://t.freetv.fun/live/cctv5-plus.m3u8
