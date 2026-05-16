@@ -1,25 +1,5 @@
 更新时间,#genre#
-20260517 05:43:44,url
+20260517 07:49:47,url
 
 
 freetv_cctv,#genre#
-CCTV1,https://t.freetv.fun/live/cctv1.m3u8
-CCTV10,https://t.freetv.fun/live/cctv10-ke-jiao.m3u8
-CCTV11,https://t.freetv.fun/live/cctv11-xi-qu-1.m3u8
-CCTV11,https://t.freetv.fun/live/cctv11.m3u8
-CCTV13,https://t.freetv.fun/live/cctv13-xin-wen.m3u8
-CCTV13,https://t.freetv.fun/live/cctv13.m3u8
-CCTV14,https://t.freetv.fun/live/cctv14-shao-er.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15.m3u8
-CCTV17,https://t.freetv.fun/live/cctv17.m3u8
-CCTV2,https://t.freetv.fun/live/cctv2-cai-jing-1.m3u8
-CCTV2,https://t.freetv.fun/live/cctv2.m3u8
-CCTV3,https://t.freetv.fun/live/cctv3-zong-yi-1.m3u8
-CCTV3,https://t.freetv.fun/live/cctv3-zong-yi.m3u8
-CCTV5,https://t.freetv.fun/live/cctv5-1.m3u8
-CCTV5,https://t.freetv.fun/live/cctv5-ti-yu-1.m3u8
-CCTV5,https://t.freetv.fun/live/cctv5-ti-yu.m3u8
-CCTV6,https://t.freetv.fun/live/cctv6-dian-ying-1.m3u8
-CCTV6,https://t.freetv.fun/live/cctv6-dian-ying.m3u8
-CCTV8,https://t.freetv.fun/live/cctv8-1.m3u8
-CCTV8,https://t.freetv.fun/live/cctv8-dian-shi-ju.m3u8
