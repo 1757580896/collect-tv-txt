@@ -1,10 +1,9 @@
 更新时间,#genre#
-20260517 17:02:10,url
+20260518 05:51:45,url
 
 
 freetv_other,#genre#
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 中视,rtmp://f13h.mine.nu/sat/tv091
-广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
