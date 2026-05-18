@@ -1,26 +1,7 @@
 更新时间,#genre#
-20260518 07:55:01,url
+20260518 19:04:37,url
 
 
 freetv_cctv,#genre#
-CCTV10,https://t.freetv.fun/live/cctv-10gao-qing.smil
-CCTV10,https://t.freetv.fun/live/cctv10-ke-jiao.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11gao-qing.smil
-CCTV12,https://t.freetv.fun/live/cctv-12gao-qing.smil
-CCTV12,https://t.freetv.fun/live/cctv12-she-hui-yu-fa.m3u8
-CCTV13,https://t.freetv.fun/live/cctv-13gao-qing.smil
-CCTV14,https://t.freetv.fun/live/cctv-14gao-qing.smil
-CCTV14,https://t.freetv.fun/live/cctv14-shao-er.m3u8
-CCTV15,https://t.freetv.fun/live/cctv-15gao-qing.smil
-CCTV15,https://t.freetv.fun/live/cctv15-yin-le.m3u8
-CCTV17,https://t.freetv.fun/live/cctv-17gao-qing.smil
-CCTV3,https://t.freetv.fun/live/cctv-3gao-qing.smil
-CCTV4,https://t.freetv.fun/live/cctv-4gao-qing.smil
-CCTV5,https://t.freetv.fun/live/cctv-5gao-qing.smil
-CCTV6,https://t.freetv.fun/live/cctv-6gao-qing.smil
-CCTV7,https://t.freetv.fun/live/cctv-7gao-qing.smil
-CCTV7,https://t.freetv.fun/live/cctv7-jun-nong.m3u8
-CCTV7,https://t.freetv.fun/live/cctv7.m3u8
-CCTV8,https://t.freetv.fun/live/cctv8-dian-shi-ju.m3u8
-CCTV9,https://t.freetv.fun/live/cctv-9gao-qing.smil
-CCTV9,https://t.freetv.fun/live/cctv9-ji-lu.m3u8
+CCTV10,https://t.freetv.fun/live/cctv10.m3u8
+CCTV6,https://t.freetv.fun/live/cctv6.m3u8
