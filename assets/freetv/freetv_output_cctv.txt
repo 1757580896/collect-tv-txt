@@ -1,7 +1,13 @@
 更新时间,#genre#
-20260519 18:35:14,url
+20260520 06:12:46,url
 
 
 freetv_cctv,#genre#
-CCTV5,https://t.freetv.fun/live/cctv5.m3u8
-CCTV8,https://t.freetv.fun/live/cctv8.m3u8
+CCTV10,https://t.freetv.fun/live/cctv10-ke-jiao.m3u8
+CCTV12,https://t.freetv.fun/live/cctv12-she-hui-yu-fa.m3u8
+CCTV14,https://t.freetv.fun/live/cctv14-shao-er.m3u8
+CCTV15,https://t.freetv.fun/live/cctv15-yin-le.m3u8
+CCTV17,https://t.freetv.fun/live/cctv17.m3u8
+CCTV7,https://t.freetv.fun/live/cctv7-jun-nong.m3u8
+CCTV8,https://t.freetv.fun/live/cctv8-dian-shi-ju.m3u8
+CCTV9,https://t.freetv.fun/live/cctv9-ji-lu.m3u8
