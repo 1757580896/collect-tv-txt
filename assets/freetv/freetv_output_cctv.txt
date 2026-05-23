@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260524 05:51:25,url
+20260524 07:53:57,url
 
 
 freetv_cctv,#genre#
@@ -162,10 +162,10 @@ CCTV3,https://t.freetv.fun/live/cctv3-zong-yi-6.php
 CCTV3,https://t.freetv.fun/live/cctv3-zong-yi-8.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-zong-yi.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3zong-yi.m3u8
-CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1779620400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3ddbf00cd25ac82b12b12f2c2ee777d4&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV4,https://t.freetv.fun/live/cctv-4-5.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-6.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-10.m3u8
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-11.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-20.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-21.m3u8
@@ -265,7 +265,7 @@ CCTV6,https://t.freetv.fun/live/cctv6-dian-ying-1.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-dian-ying-3.php
 CCTV6,https://t.freetv.fun/live/cctv6-dian-ying-5.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-dian-ying.m3u8
-CCTV6,https://t.freetv.fun/live/cctv6dian-ying-1-1.m3u8
+CCTV6,https://t.freetv.fun/live/cctv6dian-ying-1.m3u8
 CCTV7,https://t.freetv.fun/live/cctv-7-1.m3u8
 CCTV7,https://t.freetv.fun/live/cctv-7-4.m3u8
 CCTV7,https://t.freetv.fun/live/cctv-7gao-qing-1.m3u8
