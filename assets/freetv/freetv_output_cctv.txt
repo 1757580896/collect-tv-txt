@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260523 06:04:11,url
+20260523 08:03:40,url
 
 
 freetv_cctv,#genre#
@@ -21,6 +21,7 @@ CCTV1,https://t.freetv.fun/live/cctv1-9-1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10-3.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10-6.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10gao-qing-1.m3u8
+CCTV10,https://t.freetv.fun/live/cctv-10hd-1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-13.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-2.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-3-1.m3u8
