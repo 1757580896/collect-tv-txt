@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260530 08:06:17,url
+20260530 17:12:15,url
 
 
 freetv_cctv,#genre#
@@ -15,10 +15,9 @@ CCTV10,https://t.freetv.fun/live/cctv-10hd-2.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10hd-3.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-13.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-5.m3u8
+CCTV10,https://t.freetv.fun/live/cctv10-1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-2.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-3.m3u8
-CCTV10,https://t.freetv.fun/live/cctv10-31.m3u8
-CCTV10,https://t.freetv.fun/live/cctv10-ke-jiao-3.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11-1.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11-3.m3u8
@@ -41,7 +40,6 @@ CCTV12,https://t.freetv.fun/live/cctv-12hd.m3u8
 CCTV12,https://t.freetv.fun/live/cctv-12she-hui-yu-fa.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12-13.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12-2.m3u8
-CCTV12,https://t.freetv.fun/live/cctv12-28.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12-3.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12-4.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12-6.m3u8
@@ -121,6 +119,8 @@ CCTV3,https://t.freetv.fun/live/cctv3-zong-yi-3.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-zong-yi-6.php
 CCTV4,https://t.freetv.fun/live/cctv-4-5.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-7.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-8.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-9.m3u8
@@ -135,7 +135,6 @@ CCTV4,https://t.freetv.fun/live/cctv4-37.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-42.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-5.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-6.m3u8
-CCTV4,https://t.freetv.fun/live/cctv4-guo-ji-2.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-zhong-wen-guo-ji-5.php
 CCTV4,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji-1.m3u8
 CCTV4K,https://t.freetv.fun/live/cctv4k-1.m3u8
@@ -144,6 +143,7 @@ CCTV5+,https://t.freetv.fun/live/cctv5-plus-1.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-17.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-19.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-2.m3u8
+CCTV5+,https://t.freetv.fun/live/cctv5-plus-3.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-4.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-5.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-6.m3u8
@@ -176,7 +176,6 @@ CCTV6,https://t.freetv.fun/live/cctv-6hd.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-1.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-17.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-2.m3u8
-CCTV6,https://t.freetv.fun/live/cctv6-27.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-28.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-3.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-5.m3u8
@@ -203,7 +202,6 @@ CCTV8,https://t.freetv.fun/live/cctv8-8.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-9.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-dian-shi-ju-3.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8.m3u8
-CCTV9,https://t.freetv.fun/live/cctv-9-4.m3u8
 CCTV9,https://t.freetv.fun/live/cctv-9ji-lu.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-17.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-27.m3u8
