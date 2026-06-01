@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260601 05:56:50,url
+20260601 08:03:07,url
 
 
 freetv_ws,#genre#
@@ -353,7 +353,6 @@ freetv_ws,#genre#
 海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-5.m3u8
 海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-9.m3u8
 海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi.m3u8
-深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-1.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-11.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-12.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-13.m3u8
@@ -447,7 +446,6 @@ freetv_ws,#genre#
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-30.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-31.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-4.m3u8
-贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-6.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-7.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-8.m3u8
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-9.m3u8
@@ -463,7 +461,6 @@ freetv_ws,#genre#
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-23.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-29.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-5.m3u8
-辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-6.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-7.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-8.m3u8
 辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-9.m3u8
